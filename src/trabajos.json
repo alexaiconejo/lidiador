@@ -1,0 +1,12 @@
+{
+    "cine": ["Santos", "Laguna", "Telépata", "Hasta el cielo"],
+    "musica": ["Da Vinci", "Freshi", "Ana Maria"],
+    "it": ["Edipo", "Mapa de la Policia", "Ra-dar", "Mapa de los Comedores", "Radio"],
+    "diseño": ["Mapa de la Policia", "Homero", "Mapa de los Comedores", "Nati Giffi"],
+    "videoclips": ["Riendas", "Nati"],
+    "vj": ["Riendas", "Juan Clavell", "Opinel"],
+    "fotografia": ["Riendas", "Lola", "Peteco", "Homero", "Viki Guido"],
+    "video": ["Mapa de la Policia", "Ofe"],
+    "politica": ["Vicky Freire", "Ofelia", "Juan Grabois"]
+  }
+  

@@ -1,8 +1,8 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import './App.css'
 import { Link } from "react-router-dom";
-import Galaxia from "./components/Galaxia/Galaxia.jsx";
-import Red from "./components/Red/Red.jsx"
+import Galaxia from "./components/Galaxia/Galaxia.tsx";
+import Red from "./components/Red/Red.tsx";
 
 function App() {
   return (

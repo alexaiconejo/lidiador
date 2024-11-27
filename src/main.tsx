@@ -2,30 +2,31 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App.tsx';
 import Crear from './Crear.tsx';
-import Root from './routes/Root.tsx';
-import { createHashRouter, RouterProvider } from "react-router-dom";
+import Root from './routes/Root.tsx';  // Asegúrate de que esta ruta esté bien configurada
+import { createHashRouter, RouterProvider } from 'react-router-dom';
+import './index.css';
+import Mapa from './Mapa.jsx'
 
-
-import './index.css'
-
+// Configuración de las rutas
 const router = createHashRouter([
   {
     path: "/",
-    element: <Root />,
+    element: <Root />,  // Componente raíz que contiene el outlet para rutas hijas
     children: [
-      { path: "/", element: <App />},
-      { path: "/crear", element: <Crear /> },
-      { path: "/conoceme", element: <Crear /> },
-      { path: "/creemos", element: <Crear /> },
-      { path: "/crear", element: <Crear /> }
+      { path: "/", element: <App /> },      // Ruta principal de la aplicación
+      { path: "/crear", element: <Crear /> },  // Ruta para la página "Crear"
+      { path: "/conoceme", element: <Crear /> }, // Ruta para "Conóceme"
+      { path: "/creemos", element: <Crear /> }, // Ruta para "Creemos"
+      { path: "/mapa", element: <Mapa /> }, // Ruta para "Creemos"
 
+      
     ],
   },
 ]);
 
-
-ReactDOM.createRoot(document.getElementById("root")).render(
+// Renderizar el componente con el RouterProvider
+ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <RouterProvider router={router} />
-  </React.StrictMode>,
+  </React.StrictMode>
 );
