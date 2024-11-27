@@ -1,0 +1,41 @@
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  overflow: hidden;
+}
+
+.dot {
+  position: absolute;
+  background-color: white;
+  border-radius: 50%;
+  opacity: 0.5;
+  animation: blink 4s ease-in-out infinite, blurEffect 4s ease-in-out infinite;
+}
+
+@keyframes blink {
+  0%, 100% {
+    opacity: 0.3;
+  }
+  25%, 75% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes blurEffect {
+  0%, 100% {
+    filter: blur(1px);
+  }
+  25%, 75% {
+    filter: blur(2px);
+  }
+  50% {
+    filter: blur(5px);
+  }
+}
