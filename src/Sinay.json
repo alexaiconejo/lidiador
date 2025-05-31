@@ -1,0 +1,91 @@
+{
+  "title": "Los Secretos del Sinay",
+  "duration": "siglos XV - XVII",
+  "years": [
+    {
+      "year": "c. 1480",
+      "events": [
+        {
+          "name": "Jaim Ben Chaim de Worms",
+          "text": "Rabino destacado en Worms, parte de la comunidad asquenazí que enfrentó persecuciones y mantuvo la tradición rabínica durante finales del siglo XV. Su liderazgo fue crucial en la resistencia espiritual frente a los ataques externos, incluyendo la influencia del Malleus Maleficarum y la expulsión de los judíos de España en 1492.",
+          "cities": ["Worms"]
+        },
+        {
+          "name": "Malleus Maleficarum y Efraim Caro",
+          "text": "El Malleus Maleficarum, tratado sobre la caza de brujas, influyó en la persecución de minorías. Efraim Caro, rabino y erudito, enfrentó estos tiempos difíciles y la expulsión de los judíos de España, defendiendo a su comunidad y preservando el conocimiento judío.",
+          "cities": ["España"]
+        }
+      ]
+    },
+    {
+      "year": "1492",
+      "events": [
+        {
+          "name": "Expulsión de los judíos de España",
+          "text": "El edicto de expulsión decretado por los Reyes Católicos forzó a miles de judíos a abandonar España, dispersándose hacia Italia, el Imperio Otomano y otras regiones. Esta diáspora afectó profundamente a las comunidades asquenazíes y sefardíes, incluyendo familias como los Kalonymus.",
+          "cities": ["España", "Italia", "Imperio Otomano"]
+        }
+      ]
+    },
+    {
+      "year": "siglo XVI",
+      "events": [
+        {
+          "name": "Juan Fraile y los masones / Rishonim",
+          "text": "Juan Fraile, figura vinculada a los masones, estuvo en contacto con las corrientes intelectuales de los Rishonim, los primeros comentaristas rabínicos que influyeron en la interpretación de la Torá durante este período.",
+          "cities": ["Europa"]
+        },
+        {
+          "name": "Cristóbal Colón, judío y Kalonymus de Narbona",
+          "text": "Algunas teorías sugieren que Cristóbal Colón tenía orígenes judíos y conexiones con la familia Kalonymus de Narbona, lo que explicaría su interés en la exploración y la expansión hacia América.",
+          "cities": ["Narbona", "América"]
+        },
+        {
+          "name": "Lutero, Dieta de Worms y Salomón Azkenazi",
+          "text": "La Dieta de Worms (1521) fue un momento crucial en la Reforma protestante. Salomón Azkenazi, figura judía, estuvo presente en debates religiosos y políticos que marcaron la relación entre judíos, cristianos y autoridades imperiales.",
+          "cities": ["Worms"]
+        },
+        {
+          "name": "1522 Praga: nacimiento de Marshall y Leow",
+          "text": "En Praga nacieron figuras como Marshall y Leow, que más tarde serían líderes en la comunidad judía, contribuyendo al desarrollo cultural y espiritual de los asquenazíes.",
+          "cities": ["Praga"]
+        },
+        {
+          "name": "Shaló y Reichrab Jaim (1559)",
+          "text": "Shaló y el Reichrab Jaim fueron líderes espirituales que guiaron a sus comunidades en tiempos de cambio y persecución, manteniendo la tradición rabínica y la cohesión social.",
+          "cities": ["Europa Central"]
+        },
+        {
+          "name": "Isaac ben Solomon Luria y la cábala luriana",
+          "text": "Isaac Luria, conocido como el Arí, revolucionó la mística judía con la cábala luriana, que tuvo un impacto profundo en la espiritualidad asquenazí y sefardí. Sus enseñanzas influyeron en figuras como el Maharal y en la defensa de la identidad judía frente a la adversidad.",
+          "cities": ["Safed"]
+        },
+        {
+          "name": "Jaim Hakohen y los piratas / Encuentro con el emperador / Maharal",
+          "text": "Jaim Hakohen tuvo encuentros con piratas y autoridades imperiales, buscando proteger a las comunidades judías. El Maharal de Praga, contemporáneo suyo, fue un destacado líder espiritual y defensor de la comunidad, conocido por su sabiduría y misticismo.",
+          "cities": ["Praga"]
+        }
+      ]
+    },
+    {
+      "year": "siglo XVII",
+      "events": [
+        {
+          "name": "La Guerra de los 30 años y liderazgo asquenazí en Jerusalén",
+          "text": "Durante la Guerra de los 30 años, Isaiah Ben Jacob Halevi fue jefe de la comunidad asquenazí en Jerusalén, enfrentando desafíos políticos y religiosos en un contexto de conflicto europeo y otomano.",
+          "cities": ["Jerusalén"]
+        },
+        {
+          "name": "Heráldica Sinay, Baal Shemtov y el Gaon de Vilna",
+          "text": "La heráldica Sinay simboliza la identidad judía en Europa. El Baal Shemtov fundó el jasidismo, movimiento espiritual que revitalizó la vida judía. El Gaon de Vilna fue un erudito clave en la oposición al jasidismo y en la consolidación del judaísmo ortodoxo.",
+          "cities": ["Europa del Este"]
+        },
+        {
+          "name": "María Teresa, Miklos Sinay y los Illuminati",
+          "text": "María Teresa de Austria y Miklos Sinay estuvieron vinculados a cambios políticos y sociales en Europa. Los Illuminati, sociedad secreta, surgieron en este contexto, influyendo en ideas de libertad y reforma, con repercusiones en comunidades judías y europeas.",
+          "cities": ["Europa Central"]
+        }
+      ]
+    }
+  ]
+}

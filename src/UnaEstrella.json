@@ -1,0 +1,61 @@
+{
+  "title": "Una Estrella",
+  "duration": "c. 20 a.C. - 70 d.C.",
+  "years": [
+    {
+      "year": "c. 20 a.C. - 10 d.C.",
+      "events": [
+        {
+          "name": "Expansión y renovación del Segundo Templo bajo Herodes",
+          "text": "Herodes el Grande llevó a cabo una monumental reconstrucción del Segundo Templo, ampliando el Monte del Templo y embelleciendo el edificio para consolidar su poder y legitimidad. Los sacerdotes hakohen jugaron un papel central en la administración y supervisión del culto, aunque la dinastía herodiana, de origen idumeo convertido, fue vista con desconfianza por sectores religiosos tradicionales, generando tensiones internas en Jerusalén[2][6][7].",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "c. 6-4 a.C.",
+      "events": [
+        {
+          "name": "Conjunción Júpiter-Régulus y simbolismo mesiánico",
+          "text": "La triple conjunción de Júpiter con la estrella Régulus en el 3 a.C. fue interpretada como un signo del nacimiento de un rey mesiánico. Esta conjunción fue seguida por sacerdotes magos (magoi), expertos en astrología y religión, que llegaron a Jerusalén buscando al nuevo rey. Herodes el Grande, rey vasallo romano, consultó a los escribas y sacerdotes hakohen sobre las profecías mesiánicas, reflejando la importancia del sacerdocio en la interpretación política y religiosa de estos eventos astrales[1][2][5].",
+          "cities": ["Jerusalén", "Babilonia"]
+        }
+      ]
+    },
+    {
+      "year": "c. 4 a.C.",
+      "events": [
+        {
+          "name": "Matanza de los Inocentes y control político de Herodes",
+          "text": "Herodes ordenó la ejecución de niños menores de dos años en Belén para eliminar cualquier amenaza a su trono tras la llegada de los magos que anunciaban un nuevo rey. Este acto refleja la paranoia y brutalidad del régimen herodiano, que aunque promovió grandes obras como la expansión del Segundo Templo, ejercía un control autoritario y represivo, con el apoyo y la legitimación ritual de los sacerdotes hakohen[2][5][6].",
+          "cities": ["Belén", "Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "c. 10-30 d.C.",
+      "events": [
+        {
+          "name": "Rabban Gamaliel I y el Sanedrín frente al cristianismo",
+          "text": "Rabban Gamaliel I, nieto de Hilel el Anciano y líder del Sanedrín, fue un fariseo moderado que ejerció gran autoridad religiosa y política. Es conocido por proteger a los primeros cristianos, aconsejando no ejecutar a los apóstoles, mostrando un pragmatismo político frente a las nuevas corrientes religiosas. Su rol refleja la complejidad del sacerdocio y la élite judía en la transición del judaísmo del Segundo Templo hacia el judaísmo rabínico[3][4].",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "c. 50-70 d.C.",
+      "events": [
+        {
+          "name": "Simeon ben Gamaliel y la resistencia davídica",
+          "text": "Simeon ben Gamaliel, descendiente directo del rey David y presidente del Sanedrín, lideró la resistencia política y religiosa contra la ocupación romana durante la Gran Revuelta. Fue ejecutado por los romanos, simbolizando la caída del poder davídico y el fin del sacerdocio institucionalizado en el Templo. Los hakohen perdieron su rol central tras la destrucción del Segundo Templo en 70 d.C., iniciando el exilio y la transformación del judaísmo[4][6].",
+          "cities": ["Jerusalén", "Galilea"]
+        },
+        {
+          "name": "Destrucción del Segundo Templo y dispersión del sacerdocio hakohen",
+          "text": "La destrucción del Templo por las legiones de Tito significó el colapso del sistema sacerdotal hakohen y la pérdida del centro religioso y político judío. Este evento marcó el fin de la dinastía davídica como autoridad política y el inicio de una nueva era rabínica, con profundas implicancias para las luchas sociales y religiosas, incluyendo las primeras tensiones en torno a roles de género y exclusión de grupos como mujeres y eunucos en el culto oficial[1][4][6].",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    }
+  ]
+}

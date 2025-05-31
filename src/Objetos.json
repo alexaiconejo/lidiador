@@ -1,0 +1,14 @@
+[
+  {
+    "id": "arca",
+    "nombre": "Arca de la Alianza",
+    "descripcion": "Cofre sagrado que contenía las tablas de la ley.",
+    "icono": "📦"
+  },
+  {
+    "id": "shofar",
+    "nombre": "Shofar",
+    "descripcion": "Cuerno ritual usado para proclamar eventos sagrados.",
+    "icono": "📯"
+  }
+]

@@ -18,6 +18,17 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+.objeto-clave {
+  background-color: #fffbe6;
+  border: 1px solid #ffd700;
+  padding: 2px 4px;
+  border-radius: 4px;
+  cursor: help;
+  font-weight: bold;
+  color: #b08800;
+  text-decoration: underline dotted;
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);

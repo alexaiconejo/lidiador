@@ -1,0 +1,111 @@
+{
+  "title": "Reyes",
+  "duration": "c. 1010 - 586 a.C.",
+  "years": [
+    {
+      "year": "c. 1010-970 a.C.",
+      "events": [
+        {
+          "name": "Abiathar y el reinado de David",
+          "text": "Abiathar, hijo de Ahimelec, fue el único sacerdote sobreviviente tras la masacre ordenada por Saúl y apoyó a David durante su reinado. Fue un aliado clave en la consolidación del poder davídico, pero fue destituido por Salomón, quien lo reemplazó por Zadok, marcando el fin de la línea sacerdotal de Itamar y el retorno de la de Eleazar. Esta transición refleja tensiones internas en la línea hakohen y la centralización del poder religioso.",
+          "cities": ["Jerusalén"]
+        },
+        {
+          "name": "División de los sacerdotes en 24 grupos",
+          "text": "Según 1 Crónicas 24, David organizó a los sacerdotes en 24 divisiones (mishmarot) para administrar el servicio en el Templo. Esta organización permitió una rotación ordenada y una mayor estabilidad en el culto, reflejando una estructura jerárquica que reforzaba la autoridad masculina y excluía a las mujeres del sacerdocio oficial.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "c. 980-930 a.C.",
+      "events": [
+        {
+          "name": "Ahimaaz, hijo de Zadok",
+          "text": "Ahimaaz sirvió como sacerdote durante el reinado de Salomón y es mencionado como mensajero clave durante la rebelión de Absalón (2 Samuel 15:27). Su rol refleja la continuidad de la línea sacerdotal de Eleazar y la importancia de la familia Zadokita en la política religiosa.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "c. 950-900 a.C.",
+      "events": [
+        {
+          "name": "Azariah I",
+          "text": "Azariah, descendiente de Zadok, sirvió como sacerdote en el reinado de Salomón. Su nombre común en la genealogía sacerdotal indica la continuidad del linaje hakohen y su influencia en el culto oficial.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "c. 870-800 a.C.",
+      "events": [
+        {
+          "name": "Joash, sacerdote en Judá",
+          "text": "Joash fue sacerdote en el Reino de Judá, aunque su papel específico no está bien documentado. Su época estuvo marcada por tensiones políticas y religiosas, con la persistencia de prácticas idolátricas que los sacerdotes trataron de erradicar.",
+          "cities": ["Judá"]
+        },
+        {
+          "name": "Jehoiada, sumo sacerdote",
+          "text": "Jehoiada fue sumo sacerdote durante el reinado de la reina Atalía y Joás. Lideró la restauración del templo y la eliminación de la idolatría (2 Reyes 11). Su influencia política fue decisiva para mantener la pureza religiosa y el poder sacerdotal, destacando el rol activo de los hakohen en la lucha contra la corrupción religiosa.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "c. 800-750 a.C.",
+      "events": [
+        {
+          "name": "Jehoiarib, cabeza de una división sacerdotal",
+          "text": "Jehoiarib lideró una de las 24 divisiones sacerdotales establecidas por David (1 Crónicas 24:7). Su descendencia sirvió en el Templo, evidenciando la importancia de las familias sacerdotales en la administración religiosa.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "c. 740-700 a.C.",
+      "events": [
+        {
+          "name": "Uriah, sacerdote bajo el rey Acaz",
+          "text": "Uriah participó en la construcción de un altar conforme a un modelo damasceno (2 Reyes 16:10-16), reflejando la influencia extranjera y las tensiones entre tradición y sincretismo religioso en Judá.",
+          "cities": ["Jerusalén", "Damasco"]
+        },
+        {
+          "name": "Jotham, posible sacerdote",
+          "text": "Aunque más conocido como rey de Judá, Jotham podría haber tenido un homónimo en la línea sacerdotal, reflejando la frecuente superposición entre roles religiosos y políticos.",
+          "cities": ["Judá"]
+        }
+      ]
+    },
+    {
+      "year": "c. 640-580 a.C.",
+      "events": [
+        {
+          "name": "Hilkiah, sumo sacerdote",
+          "text": "Hilkiah fue sumo sacerdote durante el reinado del rey Josías y es conocido por descubrir el 'Libro de la Ley' en el Templo (2 Reyes 22:8-10). Este hallazgo impulsó una reforma religiosa que buscó erradicar la idolatría y reafirmar la autoridad sacerdotal, evidenciando la lucha interna por la pureza religiosa.",
+          "cities": ["Jerusalén"]
+        },
+        {
+          "name": "Shallum, sumo sacerdote",
+          "text": "Según la tradición, Shallum fue sumo sacerdote poco antes de la destrucción del Primer Templo, en un período de crisis espiritual y política que culminó con la caída de Jerusalén.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "c. 620-586 a.C.",
+      "events": [
+        {
+          "name": "Seraiah, último sumo sacerdote del Primer Templo",
+          "text": "Seraiah fue el último sumo sacerdote antes de la destrucción del Primer Templo por Nabucodonosor en 586 a.C. (2 Reyes 25:18). Su época estuvo marcada por la decadencia espiritual y la pérdida de la autonomía de Judá, reflejando la crisis del sacerdocio hakohen.",
+          "cities": ["Jerusalén", "Babilonia"]
+        },
+        {
+          "name": "Exilio babilónico y pérdida del Arca",
+          "text": "Durante el exilio babilónico, el Templo fue destruido y se perdió el Arca de la Alianza, un símbolo central del culto israelita. La comunidad sacerdotal hakohen sufrió la dispersión y la pérdida de poder político y religioso, enfrentando un desafío existencial para preservar su identidad y tradiciones.",
+          "cities": ["Babilonia", "Jerusalén"]
+        }
+      ]
+    }
+  ]
+}

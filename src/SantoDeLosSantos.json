@@ -1,0 +1,106 @@
+{
+  "title": "SANTO DE LOS SANTOS",
+  "duration": "1.200 - 587 AC",
+  "years": [
+    {
+      "year": "c. 1250 a.C.",
+      "events": [
+        {
+          "name": "Aarón y Moisés",
+          "text": "Aarón y Moisés lideraron la salida de Egipto según el relato bíblico (Éxodo 1-40). El sacerdocio se estableció como una línea patrilineal, excluyendo formalmente a las mujeres de roles sacerdotales (Levítico 21). Esta exclusión refleja el sistema patriarcal de la época, donde el poder religioso y político estaba monopolizado por hombres. Sin embargo, figuras femeninas como Miriam, profetisa y hermana de Moisés, ejercieron liderazgo espiritual (Éxodo 15:20). La Biblia registra tensiones con pueblos extranjeros, reflejando actitudes xenófobas propias de la época (Deuteronomio 7:1-5).",
+          "cities": ["Egipto", "Desierto de Sinaí"]
+        },
+        {
+          "name": "Puerta de los Leones",
+          "text": "La Puerta de los Leones en Micenas, construida con bloques ciclópeos, es un símbolo del poder militar y religioso en la cultura micénica (Wace, 1932). Aunque no vinculada directamente con Israel, refleja la importancia de símbolos de poder en sociedades patriarcales del Mediterráneo antiguo.",
+          "cities": ["Micenas"]
+        }
+      ]
+    },
+    {
+      "year": "c. 1200 a.C.",
+      "events": [
+        {
+          "name": "Eleazar",
+          "text": "Eleazar, hijo de Aarón, fue sumo sacerdote durante el período del Tabernáculo (Números 20:25-28). Su rol incluía mantener la pureza ritual y las normas religiosas. Las mujeres estaban excluidas del sacerdocio, aunque algunas, como Débora, ejercieron liderazgo como juezas (Jueces 4-5). La sociedad israelita era étnicamente cerrada, con leyes que prohibían matrimonios mixtos (Números 25), reflejando una preocupación por preservar la identidad frente a los pueblos vecinos.",
+          "cities": ["Desierto de Sinaí", "Israel"]
+        },
+        {
+          "name": "Phineas, 3er Kohen Gadol",
+          "text": "Phineas es conocido por su acción violenta contra una pareja israelita y moabita (Números 25:6-13), que detuvo una plaga. Este episodio muestra la severidad con la que se aplicaban las leyes religiosas y la intolerancia hacia la mezcla con extranjeros, reflejando un contexto de xenofobia institucionalizada.",
+          "cities": ["Israel", "Moab"]
+        },
+        {
+          "name": "Edad de Hierro",
+          "text": "La Edad de Hierro trajo cambios tecnológicos y sociales. En Israel, se consolidaron estructuras tribales y patriarcales. La Biblia refleja normas estrictas sobre género y sexualidad (Levítico 18), y leyes que regulaban la exclusión de extranjeros y prácticas religiosas ajenas (Deuteronomio 7).",
+          "cities": ["Israel", "Medio Oriente"]
+        },
+        {
+          "name": "Eneas",
+          "text": "Eneas, héroe de la Eneida de Virgilio, es un personaje mitológico que simboliza la fundación de Roma tras la caída de Troya. La obra refleja valores patriarcales y la centralidad del linaje masculino. Las mujeres, como Venus, tienen roles poderosos pero subordinados a la narrativa masculina.",
+          "cities": ["Troya", "Lacio"]
+        }
+      ]
+    },
+    {
+      "year": "1184 a.C.",
+      "events": [
+        {
+          "name": "Caída de Troya y Ascanio",
+          "text": "Según la tradición romana, Ascanio fundó Alba Longa y fue antecesor de Rómulo y Remo. Las fuentes clásicas muestran que el poder se transmitía por línea masculina, y las mujeres eran piezas en alianzas políticas. La historiografía moderna destaca la función simbólica de estas narrativas para legitimar el poder patriarcal.",
+          "cities": ["Troya", "Alba Longa"]
+        }
+      ]
+    },
+    {
+      "year": "c. 1100 a.C.",
+      "events": [
+        {
+          "name": "Bukki",
+          "text": "Bukki, hijo de Abisuá, fue sumo sacerdote durante la consolidación del culto israelita (1 Crónicas 6). La exclusión formal de mujeres del sacerdocio se mantuvo, aunque mujeres como Hulda ejercieron profecía (2 Reyes 22). La sociedad israelita aplicaba leyes que protegían la identidad étnica y religiosa, limitando la integración de extranjeros.",
+          "cities": ["Israel"]
+        }
+      ]
+    },
+    {
+      "year": "c. 1080 a.C.",
+      "events": [
+        {
+          "name": "Uzzi",
+          "text": "Uzzi continuó la línea sacerdotal (1 Crónicas 6). La Biblia registra tensiones sociales y religiosas, con normas estrictas sobre pureza y exclusión. La homosexualidad era condenada explícitamente (Levítico 18:22), reflejando la moral patriarcal dominante.",
+          "cities": ["Israel"]
+        },
+        {
+          "name": "Ahitub",
+          "text": "Ahitub sirvió en un período de transición (1 Samuel 14). La Biblia documenta conflictos entre sacerdotes y reyes, reflejando luchas por el poder en un sistema patriarcal. La exclusión de mujeres y extranjeros persistió, aunque algunas mujeres ejercieron influencia política indirecta.",
+          "cities": ["Israel"]
+        }
+      ]
+    },
+    {
+      "year": "c. 1050 a.C.",
+      "events": [
+        {
+          "name": "Eli",
+          "text": "Eli fue sumo sacerdote y juez (1 Samuel 1-4). Su mandato terminó debido a la corrupción de sus hijos, lo que refleja las tensiones dentro del sistema patriarcal. Ana, madre de Samuel, es una figura femenina destacada que desafió las normas al orar por un hijo, mostrando la agencia femenina dentro de límites sociales estrictos.",
+          "cities": ["Israel"]
+        },
+        {
+          "name": "Ahijah (Ahías)",
+          "text": "Ahijah fue sacerdote durante el reinado de Saúl (1 Samuel 14). La Biblia muestra un contexto de tensiones políticas y religiosas, con exclusión de minorías y control masculino del poder religioso.",
+          "cities": ["Israel"]
+        }
+      ]
+    },
+    {
+      "year": "c. 1040-985 a.C.",
+      "events": [
+        {
+          "name": "Ahimelec",
+          "text": "Ahimelec ayudó a David (1 Samuel 21) y fue asesinado por orden de Saúl, evidenciando la violencia política y religiosa en un sistema patriarcal y excluyente. David es una figura compleja que, aunque mantiene normas patriarcales, también muestra episodios de misericordia y alianzas con extranjeros.",
+          "cities": ["Israel"]
+        }
+      ]
+    }
+  ]
+}

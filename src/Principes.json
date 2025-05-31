@@ -1,0 +1,72 @@
+{
+  "title": "Los Príncipes y las luchas sociales",
+  "duration": "70 d.C. - siglo IX y movimientos sociales modernos",
+  "years": [
+    {
+      "year": "70 d.C.",
+      "events": [
+        {
+          "name": "Tito y las 4 familias / Exilio en Roma / Berenice de Judea",
+          "text": "Tras la destrucción del Segundo Templo, el emperador Tito exilió a los patriarcas de cuatro familias nobles judías de Jerusalén a Roma (Anav, de Pomis, dei Rossi, degli Adolescentoli). Esta élite formó la base de la comunidad judía romana medieval. Berenice de Judea, princesa de la dinastía herodiana, fue amante de Tito y símbolo de la compleja relación entre Roma y Judea. Estas familias, especialmente la Anav, destacaron en la erudición y liderazgo judío, manteniendo la continuidad cultural y religiosa en la diáspora.",
+          "cities": ["Jerusalén", "Roma"]
+        }
+      ]
+    },
+    {
+      "year": "c. 135-217 d.C.",
+      "events": [
+        {
+          "name": "Judá HaNasi / Marco Aurelio / Redacción de la Mishná",
+          "text": "Judá HaNasi, descendiente de Hilel y líder rabínico, compiló la Mishná, base del judaísmo rabínico. Su liderazgo protegió derechos de mujeres y minorías, marcando un avance social en la comunidad judía bajo dominio romano.",
+          "cities": ["Galilea", "Babilonia"]
+        }
+      ]
+    },
+    {
+      "year": "siglo III",
+      "events": [
+        {
+          "name": "Gamaliel III, Ima Shalom, Judá II y Tiberíades",
+          "text": "Gamaliel III y su esposa Ima Shalom, mujer reconocida por su sabiduría y autonomía, protagonizaron debates legales y éticos en el Talmud, reflejando una temprana lucha por la equidad de género dentro de la tradición judía.",
+          "cities": ["Tiberíades", "Galilea"]
+        }
+      ]
+    },
+    {
+      "year": "216-297 d.C.",
+      "events": [
+        {
+          "name": "Rav Huna, Yalta y los Amoraim",
+          "text": "Rav Huna y su esposa Yalta, conocida por desafiar normas patriarcales, fueron figuras clave en el desarrollo del Talmud. Los Amoraim discutieron temas de género, inclusión y justicia social, sentando bases para la defensa de derechos dentro de la comunidad.",
+          "cities": ["Babilonia", "Sura"]
+        }
+      ]
+    },
+    {
+      "year": "siglo III-IV",
+      "events": [
+        {
+          "name": "Gamaliel IV, Judá III y el Edicto de Persecución",
+          "text": "Durante las persecuciones romanas, el liderazgo rabínico promovió redes de solidaridad y defendió los derechos de mujeres y conversos, adaptándose a tiempos de opresión.",
+          "cities": ["Tiberíades", "Babilonia"]
+        }
+      ]
+    },
+    {
+      "year": "siglo VII-IX",
+      "events": [
+        {
+          "name": "Bustannai y el Califato Islámico",
+          "text": "Bustannai, exilarca descendiente de la casa davídica, vivió en un contexto de interacción entre judíos, cristianos y musulmanes bajo el Califato islámico, que favoreció el florecimiento cultural y religioso de los Geonim en Babilonia.",
+          "cities": ["Babilonia", "Bagdad"]
+        }
+      ]
+    }
+  ],
+  "themes": {
+    "Dinastía Hakohen": "La dinastía Hakohen, representada en las familias nobles judías exiliadas y sus descendientes, mantuvo la continuidad religiosa, cultural y social del judaísmo rabínico, con figuras destacadas en la erudición y liderazgo comunitario.",
+    "Luchas LGBT": "Desde los disturbios de Stonewall en 1969 hasta las marchas del orgullo en distintas partes del mundo, la lucha LGBT ha sido un proceso de resistencia contra la discriminación, buscando igualdad, visibilidad y derechos civiles.",
+    "Luchas feministas": "Personajes como Ima Shalom y Yalta en la antigüedad judía muestran tempranas reivindicaciones de autonomía y respeto para las mujeres, que se reflejan en debates legales y éticos de la época.",
+    "Luchas de migrantes": "Las familias judías exiliadas a Roma y sus posteriores migraciones internas en Italia ejemplifican procesos históricos de desplazamiento, adaptación y construcción de comunidades en contextos de exilio y persecución."
+  }
+}

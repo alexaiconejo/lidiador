@@ -1,0 +1,56 @@
+{
+  "title": "Kalonymus",
+  "duration": "siglos VIII - XIV",
+  "years": [
+    {
+      "year": "c. 800 d.C.",
+      "events": [
+        {
+          "name": "Migración y asentamiento de la familia Kalonymus",
+          "text": "La familia Kalonymus, originaria de Judea, huyó tras el asedio de Jerusalén en el año 70 d.C. y se estableció en el sur de Italia, especialmente en Lucca y Roma. Alrededor del año 800 d.C., bajo el reinado de Carlomagno, miembros de la familia fueron invitados a asentarse en Alemania (Mainz y Speyer), donde se convirtieron en líderes y eruditos prominentes, fundando las tradiciones culturales y religiosas asquenazíes. Esta migración formó parte de la política de Carlomagno para atraer sabios a su imperio[1][5].",
+          "cities": ["Lucca", "Roma", "Mainz", "Speyer"]
+        }
+      ]
+    },
+    {
+      "year": "siglo IX",
+      "events": [
+        {
+          "name": "Moisés I ben Meshulam y contribuciones litúrgicas",
+          "text": "Moisés I ben Meshulam, miembro de la familia Kalonymus que vivió en Lucca o Roma alrededor del 850 d.C., fue un poeta litúrgico destacado cuyas obras se incorporaron a los libros de oración judíos (Mahzor). Sus contribuciones ayudaron a moldear las primeras tradiciones litúrgicas asquenazíes[1].",
+          "cities": ["Lucca", "Roma"]
+        }
+      ]
+    },
+    {
+      "year": "siglo X",
+      "events": [
+        {
+          "name": "Kalonymus II ben Moisés y liderazgo halájico",
+          "text": "Kalonymus II, activo alrededor del 950 d.C. en Lucca o Roma, fue un halájico y poeta litúrgico consultado por Rabbenu Gershom sobre cuestiones rituales. Sus responsos y poemas litúrgicos influyeron en la ley judía y las prácticas de culto en la Europa medieval temprana[1].",
+          "cities": ["Lucca", "Roma"]
+        }
+      ]
+    },
+    {
+      "year": "finales del siglo XIII - principios del XIV",
+      "events": [
+        {
+          "name": "Kalonymus ben Kalonymus, filósofo y poeta",
+          "text": "Kalonymus ben Kalonymus (1286–después de 1328), destacado filósofo, traductor y hakham judío de Provenza, estudió filosofía y literatura rabínica. Tradujo importantes obras filosóficas árabes al hebreo y compuso poesía litúrgica. Viajó entre Aviñón, Roma y Arlés, relacionándose con círculos intelectuales judíos y cristianos, y defendió los intereses de la comunidad judía ante el papado[2][4].",
+          "cities": ["Provenza", "Aviñón", "Roma", "Arlés"]
+        }
+      ]
+    },
+    {
+      "year": "Período medieval (general)",
+      "events": [
+        {
+          "name": "Influencia de la familia Kalonymus en el judaísmo asquenazí",
+          "text": "La familia Kalonymus produjo generaciones de eruditos y líderes que moldearon el aprendizaje, la liturgia y la organización comunitaria judía asquenazí. Fueron figuras centrales en el desarrollo de la mística judía, la halajá y la poesía, con miembros como Samuel ha-Hasid y Judá ha-Hasid que continuaron el legado durante los siglos XI y XII[1][5].",
+          "cities": ["Mainz", "Speyer", "Alemania", "Norte de Francia"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Askenazíes",
+  "duration": "c. siglo XI - siglo XX",
+  "years": [
+    {
+      "year": "c. siglo XI - XII",
+      "events": [
+        {
+          "name": "Cruzadas y asentamiento en Worms",
+          "text": "Durante las Cruzadas, la comunidad judía en Worms sufrió ataques violentos. La familia Kalonymus se destacó como banqueros y líderes dentro del Sacro Imperio Romano Germánico, consolidando la influencia económica y cultural de los judíos asquenazíes en Europa Central[1][2].",
+          "cities": ["Worms", "Sacro Imperio Romano Germánico"]
+        },
+        {
+          "name": "Judá Halevi y El Kuzarí",
+          "text": "Judá Halevi, poeta y filósofo judío sefardí, escribió 'El Kuzarí', obra fundamental que influyó en el pensamiento judío asquenazí durante las Cruzadas en España, fortaleciendo la identidad y la reflexión teológica en tiempos de persecución[2].",
+          "cities": ["España"]
+        }
+      ]
+    },
+    {
+      "year": "c. siglo XII",
+      "events": [
+        {
+          "name": "Eleazar Natan de Mainz e Isaac Hacohen de Worms",
+          "text": "Figuras prominentes en las comunidades de Mainz y Worms, participaron en la defensa y organización comunitaria frente a ataques, incluyendo incidentes violentos en iglesias. Su liderazgo fortaleció la cohesión social y religiosa de los asquenazíes[1][3].",
+          "cities": ["Mainz", "Worms"]
+        },
+        {
+          "name": "Nasi Abraham Ben Isaac de Narbona y Zerachia Ben Isaac",
+          "text": "Líderes rabínicos en Narbona y España, contribuyeron a la codificación legal y al fortalecimiento del judaísmo en la península ibérica, manteniendo vínculos con las comunidades asquenazíes del norte[1][3].",
+          "cities": ["Narbona", "España"]
+        }
+      ]
+    },
+    {
+      "year": "c. siglo XIII",
+      "events": [
+        {
+          "name": "Joel Halevi de Bonn y masacres por acusaciones rituales",
+          "text": "Joel Halevi fue una figura destacada en Bonn durante una época marcada por masacres y persecuciones motivadas por acusaciones infundadas de asesinato ritual contra los judíos, que causaron gran sufrimiento y desplazamientos[1][2].",
+          "cities": ["Bonn"]
+        },
+        {
+          "name": "Kalonymus el joven (ben Yosh) de Worms",
+          "text": "Miembro de la influyente familia Kalonymus, destacó en Worms como líder espiritual y erudito, contribuyendo a la preservación y transmisión de la tradición asquenazí durante tiempos difíciles[1].",
+          "cities": ["Worms"]
+        },
+        {
+          "name": "Yachiel de París y Mordejai ben Hilel Hakohen “el Mardoqueo”",
+          "text": "Ambos fueron importantes rabinos que enfrentaron la política de Federico Barbarroja y defendieron a sus comunidades frente a presiones externas, fortaleciendo el estudio y la práctica del judaísmo asquenazí[1][2].",
+          "cities": ["París"]
+        }
+      ]
+    },
+    {
+      "year": "c. siglo XIII - XIV",
+      "events": [
+        {
+          "name": "Moisés de León y el Zohar",
+          "text": "Moisés de León, místico y rabino, es tradicionalmente considerado el autor del Zohar, obra central de la cábala judía. Su trabajo tuvo un impacto profundo en la espiritualidad asquenazí y en la mística judía en general[1][2].",
+          "cities": ["España"]
+        }
+      ]
+    },
+    {
+      "year": "c. siglo XIV",
+      "events": [
+        {
+          "name": "Aaron Hakoen Archot Chaim, Narbona y la peste negra",
+          "text": "Aaron Hakoen fue líder en Narbona durante la peste negra, que devastó a las comunidades judías. Su liderazgo ayudó a mantener la estructura social y religiosa en tiempos de crisis, enfrentando persecuciones y expulsiones[1][3].",
+          "cities": ["Narbona"]
+        },
+        {
+          "name": "Príncipes en Bohemia y privilegios en Grodno",
+          "text": "Los judíos asquenazíes en Bohemia y Grodno gozaron de ciertos privilegios otorgados por los gobernantes locales, aunque también enfrentaron restricciones y conflictos, especialmente durante las guerras y bajo la influencia de la Orden del Dragón y los Reyes Católicos[1][2].",
+          "cities": ["Bohemia", "Grodno"]
+        }
+      ]
+    }
+  ]
+}
