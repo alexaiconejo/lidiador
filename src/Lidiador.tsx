@@ -6,10 +6,30 @@ import estrella from "./UnaEstrella.json";
 import principes from "./Principes.json";
 import azkenasies from "./Azkenasies.json";
 import kalonymus from "./Kalonymus.json";
+import litvak from "./Litvak.json";
 import sinay from "./Sinay.json";
 import protagonistasData from "./Protagonistas.json";
 import Protagonists from "./Protagonistas";
-
+import abominable from "./Abominable.json";
+import reconstruccion from "./Reconstruccion.json";
+import impuros from "./Impuros.json";
+import indeseables from "./Indeseables.json";
+import Logo from "./Logo.jsx"
+import {
+  FaCrown,
+  FaStarOfDavid,
+  FaRebel,
+  FaScroll,
+  FaChessKing,
+  FaBookDead,
+  FaMountain,
+  FaEye,
+  FaFlag,
+  FaPaw,
+  FaTractor,
+  FaRecycle,
+  FaSkullCrossbones
+} from "react-icons/fa";
 
 import styles from "./Timeline.module.css";
 
@@ -22,6 +42,7 @@ interface Event {
 interface Year {
   year: string;
   events: Event[];
+  backgroundUrl?: string; // opcional si no todos los años la tienen
 }
 
 interface Chapter {
@@ -54,7 +75,41 @@ const Timeline: React.FC = () => {
     kalonymus,
     azkenasies,
     sinay,
-  ];
+  litvak,
+indeseables,
+impuros, reconstruccion, abominable  ];
+
+const chapterIcons = [
+  <FaStarOfDavid />,   // Santo de los Santos
+  <FaCrown />,         // Reyes
+  <FaRebel />,         // Rebeldes
+  <FaEye />,           // Una Estrella
+  <FaChessKing />,     // Príncipes
+  <FaScroll />,        // Kalonymus
+  <FaBookDead />,      // Azkenasies
+  <FaMountain />,      // Sinaí
+  <FaFlag />,          // Litvak (Lituania)
+  <FaPaw />,          // Impuros (León)
+  <FaTractor />,       // Indeseables (Revolución Agrícola)
+  <FaRecycle />,       // Reconstrucción
+  <FaSkullCrossbones />// Abominable
+];
+
+
+
+const chapterRefs = useRef<(HTMLDivElement | null)[]>([]);
+const scrollToChapter = (index: number) => {
+  const chapterEl = chapterRefs.current[index];
+  if (chapterEl) {
+    chapterEl.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+};
+
+const speakText = (text: string) => {
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = 'es-AR'; // o 'en-US', según el contenido
+  speechSynthesis.speak(utterance);
+};
 
 
 const [showTitle, setShowTitle] = useState(true);
@@ -79,8 +134,20 @@ useEffect(() => {
   });
 
   const getHakohenProtagonists = (year: string) => {
-    return protagonistasMap[year] || { male: "Desconocido", female: "Desconocida" };
-  };
+  const years = Object.keys(protagonistasMap).sort(); // ordena años en orden ascendente
+  let closestYear: string | null = null;
+
+  for (let i = 0; i < years.length; i++) {
+    if (years[i] <= year) {
+      closestYear = years[i];
+    } else {
+      break;
+    }
+  }
+
+  return closestYear ? protagonistasMap[closestYear] : { male: "Desconocido", female: "Desconocida" };
+};
+
 
   const allEvents = chapters.flatMap((chapter) =>
     chapter.years.flatMap((year) =>
@@ -115,6 +182,10 @@ useEffect(() => {
   }, [allEvents]);
 
   let eventIndex = 0;
+  const activeBackgroundUrl = chapters
+  .flatMap((ch) => ch.years)
+  .find((y) => y.year === activeEvent?.year)?.backgroundUrl;
+
 
   return (
     <section>
@@ -126,6 +197,7 @@ useEffect(() => {
   tabIndex={0}
   onKeyDown={(e) => { if (e.key === 'Enter') scrollToTimeline(); }}
 >
+  <Logo/>
   <h1>TECNOBIBLIA</h1>
   <h2>CREO QUE LAS BIBLIAS HABLAN SOBRE MÍ</h2>
   <h3>
@@ -135,14 +207,43 @@ useEffect(() => {
   </h3>
   <h4>Lidiador Sinay</h4>
 </section>
+<div className={styles.sidebarNav}>
+{chapters.map((_, idx) => (
+  <button
+    key={idx}
+    onClick={() => scrollToChapter(idx)}
+    className={styles.navButton}
+    title={chapters[idx].title} // para mostrar el nombre al hacer hover
+  >
+    {chapterIcons[idx]}
+  </button>
+))}
 
-      <section className={styles.container}>
+
+</div>
+
+
+     <section
+  className={styles.container}
+  style={{
+    backgroundImage: activeBackgroundUrl ? `url(${activeBackgroundUrl})` : undefined,
+backgroundSize: "contain",
+backgroundRepeat: "repeat",
+    backgroundPosition: "center",
+    transition: "background-image 0.5s ease-in-out"
+  }}
+>
+
         {activeEvent && (
           <div className={styles.yearFixedLabel}>{activeEvent.year}</div>
         )}
 
-        {chapters.map((chapter, cIdx) => (
-          <div key={cIdx} className={styles.chapter}>
+       {chapters.map((chapter, cIdx) => (
+  <div
+    key={cIdx}
+    ref={(el) => (chapterRefs.current[cIdx] = el)}
+    className={styles.chapter}
+  >
             <h2 className={styles.chapterTitle}>
               {chapter.title}{" "}
               <span className={styles.chapterDuration}>({chapter.duration})</span>
@@ -181,6 +282,8 @@ useEffect(() => {
                                 {event.cities.join(", ")}
                               </div>
                               <p className={styles.eventContentText}>{event.text}</p>
+                              <button onClick={() => speakText(event.text)}>🔊 Escuchar</button>
+
                             </div>
                           </div>
                         </li>

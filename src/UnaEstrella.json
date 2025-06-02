@@ -3,56 +3,171 @@
   "duration": "c. 20 a.C. - 70 d.C.",
   "years": [
     {
-      "year": "c. 20 a.C. - 10 d.C.",
+      "year": "25 a.C.",
       "events": [
         {
-          "name": "Expansión y renovación del Segundo Templo bajo Herodes",
-          "text": "Herodes el Grande llevó a cabo una monumental reconstrucción del Segundo Templo, ampliando el Monte del Templo y embelleciendo el edificio para consolidar su poder y legitimidad. Los sacerdotes hakohen jugaron un papel central en la administración y supervisión del culto, aunque la dinastía herodiana, de origen idumeo convertido, fue vista con desconfianza por sectores religiosos tradicionales, generando tensiones internas en Jerusalén[2][6][7].",
+          "name": "Contexto social y posición de los Kohanim y la familia de Ana",
+          "text": "En Jerusalén, la familia de Ana, futura madre de María, forma parte de la casta sacerdotal hakohen, con gran influencia en la vida religiosa y social. Los Kohanim gozan de estatus elevado, pero también enfrentan tensiones internas y disputas con otras facciones del poder religioso y político, como la dinastía davídica. La familia de Ana mantiene relaciones discretas pero significativas con la realeza y los harenes, que ejercen control sobre la política y la religión.",
           "cities": ["Jerusalén"]
         }
       ]
     },
     {
-      "year": "c. 6-4 a.C.",
+      "year": "20 a.C.",
       "events": [
         {
-          "name": "Conjunción Júpiter-Régulus y simbolismo mesiánico",
-          "text": "La triple conjunción de Júpiter con la estrella Régulus en el 3 a.C. fue interpretada como un signo del nacimiento de un rey mesiánico. Esta conjunción fue seguida por sacerdotes magos (magoi), expertos en astrología y religión, que llegaron a Jerusalén buscando al nuevo rey. Herodes el Grande, rey vasallo romano, consultó a los escribas y sacerdotes hakohen sobre las profecías mesiánicas, reflejando la importancia del sacerdocio en la interpretación política y religiosa de estos eventos astrales[1][2][5].",
-          "cities": ["Jerusalén", "Babilonia"]
+          "name": "Nacimiento de Ana, madre de María",
+          "text": "Ana nace en Jerusalén dentro de esta familia sacerdotal hakohen tradicional. Es criada en un ambiente de estricta observancia religiosa. Ana se casó y tuvo a María, quien unirá las líneas davídica y sacerdotal en su descendencia.",
+          "cities": ["Jerusalén"]
         }
       ]
     },
     {
-      "year": "c. 4 a.C.",
+      "year": "15 a.C.",
       "events": [
         {
-          "name": "Matanza de los Inocentes y control político de Herodes",
-          "text": "Herodes ordenó la ejecución de niños menores de dos años en Belén para eliminar cualquier amenaza a su trono tras la llegada de los magos que anunciaban un nuevo rey. Este acto refleja la paranoia y brutalidad del régimen herodiano, que aunque promovió grandes obras como la expansión del Segundo Templo, ejercía un control autoritario y represivo, con el apoyo y la legitimación ritual de los sacerdotes hakohen[2][5][6].",
+          "name": "Emergencia de las tensiones entre Kohanim y dinastía davídica",
+          "text": "Durante este periodo se profundizan las disputas entre el sacerdocio hakohen y la dinastía davídica, ambas con aspiraciones a liderar al pueblo judío. Estas tensiones afectan la vida política y religiosa de Jerusalén, influenciando también el posicionamiento de familias como la de Ana y María, que transitan entre ambos linajes con una posición ambivalente dentro de los círculos de poder.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "10 a.C.",
+      "events": [
+        {
+          "name": "Nacimiento de María, madre de Jesús",
+          "text": "María nace en Jerusalén, hija de Ana, portando la doble herencia sacerdotal hakohen y la tradición davídica. Aunque limitada en el ámbito público, María crece con profunda formación religiosa y conocimiento de su rol vital en la unión de las dos dinastías. Su posición socioeconómica es modesta, vinculada a familias devotas pero no ricas, ubicándose en la clase media baja de Jerusalén.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "6 a.C.",
+      "events": [
+        {
+          "name": "Conjunción astronómica y el nombre de Yeshúa",
+          "text": "La triple conjunción de Júpiter con Régulus es interpretada por sacerdotes magos y astrólogos como señal mesiánica. Llegan a Jerusalén buscando al rey prometido, lo que alarma a Herodes. Los hakohen y escribas interpretan la señal en clave profética. En esta época, el nombre hebreo יֵשׁוּעַ (Yeshúa), que significa 'Yahwe es Salvación', se pronuncia 'Yeshú'. En griego se adapta como Ἰησοῦς (Iēsoûs), reflejando la fusión cultural de la región.",
+          "cities": ["Jerusalén", "Babilonia", "Galilea"]
+        }
+      ]
+    },
+    {
+      "year": "5 a.C.",
+      "events": [
+        {
+          "name": "La figura de los Magos como reyes-sacerdotes",
+          "text": "Los Magos que visitan a Jesús son entendidos como sabios-reyes o sacerdotes de Babilonia, posiblemente de la casta hakohen exiliada. Su conocimiento astrológico y religioso simboliza el reconocimiento de Jesús como un mesías con legitimidad tanto sacerdotal como real, aunque aún no plenamente asumida.",
+          "cities": ["Babilonia", "Jerusalén", "Belén"]
+        }
+      ]
+    },
+    {
+      "year": "4 a.C.",
+      "events": [
+        {
+          "name": "Nacimiento de Jesús y matanza de los inocentes",
+          "text": "Jesús nace en Belén, hijo de María (linaje hakohen) y José (descendiente de David). Su nacimiento representa una fusión crucial para el mesianismo. Herodes el Grande, temiendo una amenaza al poder, ordena la ejecución de niños en Belén. Sectores del sacerdocio hakohen legitiman esta violencia en defensa del orden patriarcal y heteronormativo.",
           "cities": ["Belén", "Jerusalén"]
         }
       ]
     },
     {
-      "year": "c. 10-30 d.C.",
+      "year": "3 a.C.",
       "events": [
         {
-          "name": "Rabban Gamaliel I y el Sanedrín frente al cristianismo",
-          "text": "Rabban Gamaliel I, nieto de Hilel el Anciano y líder del Sanedrín, fue un fariseo moderado que ejerció gran autoridad religiosa y política. Es conocido por proteger a los primeros cristianos, aconsejando no ejecutar a los apóstoles, mostrando un pragmatismo político frente a las nuevas corrientes religiosas. Su rol refleja la complejidad del sacerdocio y la élite judía en la transición del judaísmo del Segundo Templo hacia el judaísmo rabínico[3][4].",
+          "name": "Vida y embarazo de María",
+          "text": "María, con su embarazo considerado milagroso, asume un papel central como puente entre el sacerdocio hakohen y la realeza davídica. Su embarazo genera debates en torno al linaje, la pureza ritual y la legitimidad mesiánica dentro de las comunidades religiosas.",
+          "cities": ["Nazaret", "Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "1 d.C.",
+      "events": [
+        {
+          "name": "Leyendas sobre Sara la Negra y José de Arimatea",
+          "text": "Según tradición medieval, tras la crucifixión, figuras como María Magdalena y José de Arimatea huyeron hacia Occidente. En la Camarga francesa surge el culto a Sainte-Sara, considerada reina y patrona del pueblo gitano. José de Arimatea, miembro del Sanedrín y pariente de María, actúa como tutor de Jesús y viaja luego a Britania, fundando la iglesia de Glastonbury y llevando el Santo Grial.",
+          "cities": ["Camarga", "Saintes-Maries-de-la-Mer", "Jerusalén", "Glastonbury"]
+        }
+      ]
+    },
+    {
+      "year": "6 d.C.",
+      "events": [
+        {
+          "name": "Nacimiento de Juan el Bautista",
+          "text": "Juan el Bautista nace en Judea, hijo de Zacarías y Elisabet, ambos de linaje hakohen. Su rol profético será clave en la preparación del camino para Jesús. Se distingue por su mensaje de conversión y su cercanía a los marginados.",
+          "cities": ["Judea"]
+        }
+      ]
+    },
+    {
+      "year": "10 d.C.",
+      "events": [
+        {
+          "name": "Rabban Gamaliel I preside el Sanedrín",
+          "text": "Rabban Gamaliel I, nieto de Hilel el Anciano y descendiente hakohen, lidera el Sanedrín. Su mandato equilibra el respeto por la tradición con cierta apertura hacia movimientos emergentes como los primeros seguidores de Jesús.",
           "cities": ["Jerusalén"]
         }
       ]
     },
     {
-      "year": "c. 50-70 d.C.",
+      "year": "30 d.C.",
       "events": [
         {
-          "name": "Simeon ben Gamaliel y la resistencia davídica",
-          "text": "Simeon ben Gamaliel, descendiente directo del rey David y presidente del Sanedrín, lideró la resistencia política y religiosa contra la ocupación romana durante la Gran Revuelta. Fue ejecutado por los romanos, simbolizando la caída del poder davídico y el fin del sacerdocio institucionalizado en el Templo. Los hakohen perdieron su rol central tras la destrucción del Segundo Templo en 70 d.C., iniciando el exilio y la transformación del judaísmo[4][6].",
-          "cities": ["Jerusalén", "Galilea"]
-        },
+          "name": "Ministerio y muerte de Jesús de Nazaret",
+          "text": "Jesús inicia su ministerio en Galilea y Jerusalén, proclamando un mensaje que desafía al sacerdocio hakohen, las normas patriarcales y la autoridad romana. Es crucificado con la complicidad del Sanedrín. Su muerte marca un punto de inflexión para el judaísmo y el surgimiento del cristianismo.",
+          "cities": ["Galilea", "Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "48 d.C.",
+      "events": [
         {
-          "name": "Destrucción del Segundo Templo y dispersión del sacerdocio hakohen",
-          "text": "La destrucción del Templo por las legiones de Tito significó el colapso del sistema sacerdotal hakohen y la pérdida del centro religioso y político judío. Este evento marcó el fin de la dinastía davídica como autoridad política y el inicio de una nueva era rabínica, con profundas implicancias para las luchas sociales y religiosas, incluyendo las primeras tensiones en torno a roles de género y exclusión de grupos como mujeres y eunucos en el culto oficial[1][4][6].",
+          "name": "Dispersión de discípulos y cristianismo en la Galia",
+          "text": "Según tradiciones medievales, discípulos como Lázaro predican en Marsella, Marta y Marcela en Tarascón, Trófimo en Arlés, María Magdalena se retira a Saint-Maximin, y Maximino a Aix-en-Provence. Así se extiende el cristianismo primitivo en la Galia romana.",
+          "cities": ["Marsella", "Tarascón", "Arlés", "Saint-Maximin-la-Sainte-Baume", "Aix en Provence"]
+        }
+      ]
+    },
+    {
+      "year": "50 d.C.",
+      "events": [
+        {
+          "name": "Simeon ben Gamaliel y la resistencia contra Roma",
+          "text": "Simeon ben Gamaliel, líder hakohen y descendiente davídico, encabeza la resistencia religiosa ante la ocupación romana. Su liderazgo en el Sanedrín representa uno de los últimos intentos de unir la autoridad religiosa y política tradicional en Judea.",
+          "cities": ["Jerusalén", "Galilea"]
+        }
+      ]
+    },
+    {
+      "year": "63 d.C.",
+      "events": [
+        {
+          "name": "Fundación de la iglesia de Glastonbury",
+          "text": "Según leyenda, José de Arimatea funda la primera iglesia cristiana en Glastonbury, llevando el Santo Grial. Este acto simboliza la expansión del cristianismo hacia las islas británicas antes de la llegada oficial del cristianismo romano.",
+          "cities": ["Glastonbury"]
+        }
+      ]
+    },
+    {
+      "year": "68 d.C.",
+      "events": [
+        {
+          "name": "Fin de la dinastía Julio-Claudia",
+          "text": "La dinastía Julio-Claudia, que gobernó desde Augusto hasta Nerón, llega a su fin en 68 d.C. con la muerte de Nerón. Esto desata una crisis de sucesión en Roma que también repercute en las provincias como Judea.",
+          "cities": ["Roma", "Judea"]
+        }
+      ]
+    },
+    {
+      "year": "70 d.C.",
+      "events": [
+        {
+          "name": "Destrucción del Segundo Templo",
+          "text": "El Segundo Templo es destruido por las legiones romanas bajo Tito. Esto marca el fin del sacerdocio hakohen como centro del judaísmo, iniciando una nueva era basada en la ley oral y las comunidades rabínicas, y abre nuevas formas espirituales en la diáspora judía y cristiana.",
           "cities": ["Jerusalén"]
         }
       ]

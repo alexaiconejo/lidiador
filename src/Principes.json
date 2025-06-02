@@ -1,72 +1,176 @@
 {
   "title": "Los Príncipes y las luchas sociales",
-  "duration": "70 d.C. - siglo IX y movimientos sociales modernos",
+  "duration": "70 - 850",
   "years": [
     {
-      "year": "70 d.C.",
+      "year": "70",
       "events": [
         {
           "name": "Tito y las 4 familias / Exilio en Roma / Berenice de Judea",
-          "text": "Tras la destrucción del Segundo Templo, el emperador Tito exilió a los patriarcas de cuatro familias nobles judías de Jerusalén a Roma (Anav, de Pomis, dei Rossi, degli Adolescentoli). Esta élite formó la base de la comunidad judía romana medieval. Berenice de Judea, princesa de la dinastía herodiana, fue amante de Tito y símbolo de la compleja relación entre Roma y Judea. Estas familias, especialmente la Anav, destacaron en la erudición y liderazgo judío, manteniendo la continuidad cultural y religiosa en la diáspora.",
+          "text": "Tras la destrucción del Segundo Templo, Tito deportó a las familias sacerdotales Anav, de Pomis, dei Rossi y degli Adolescentoli, vinculadas a la línea HaKohen. Estas casas se asentaron en Roma, donde tejieron redes de poder rabínico. Berenice de Judea, hija de Herodes Agripa I, simbolizó los vínculos entre la nobleza judía y el poder imperial romano.",
           "cities": ["Jerusalén", "Roma"]
         }
       ]
     },
     {
-      "year": "c. 135-217 d.C.",
+      "year": "110",
       "events": [
         {
-          "name": "Judá HaNasi / Marco Aurelio / Redacción de la Mishná",
-          "text": "Judá HaNasi, descendiente de Hilel y líder rabínico, compiló la Mishná, base del judaísmo rabínico. Su liderazgo protegió derechos de mujeres y minorías, marcando un avance social en la comunidad judía bajo dominio romano.",
-          "cities": ["Galilea", "Babilonia"]
+          "name": "Shimón ben Gamliel II y la herencia sacerdotal",
+          "text": "Shimón ben Gamliel II, hijo de Gamliel II y descendiente de la casa HaKohen, nació en Galilea en tiempos difíciles. Desde pequeño fue instruido en la tradición y la memoria del Templo, preparándose para preservar el linaje y la ley en el exilio.",
+          "cities": ["Galilea"]
         }
       ]
     },
     {
-      "year": "siglo III",
+      "year": "135",
       "events": [
         {
-          "name": "Gamaliel III, Ima Shalom, Judá II y Tiberíades",
-          "text": "Gamaliel III y su esposa Ima Shalom, mujer reconocida por su sabiduría y autonomía, protagonizaron debates legales y éticos en el Talmud, reflejando una temprana lucha por la equidad de género dentro de la tradición judía.",
-          "cities": ["Tiberíades", "Galilea"]
+          "name": "Judá HaNasi y la línea HaKohen",
+          "text": "Judá HaNasi, hijo de Shimón ben Gamliel II y su esposa Miriam, descendía del linaje HaKohen por vía materna. Como presidente del Sanedrín, consolidó la unión de la estirpe de Hilel con la sacerdotal, compilando la Mishná y protegiendo derechos hereditarios y legales.",
+          "cities": ["Galilea"]
         }
       ]
     },
     {
-      "year": "216-297 d.C.",
+      "year": "170",
       "events": [
         {
-          "name": "Rav Huna, Yalta y los Amoraim",
-          "text": "Rav Huna y su esposa Yalta, conocida por desafiar normas patriarcales, fueron figuras clave en el desarrollo del Talmud. Los Amoraim discutieron temas de género, inclusión y justicia social, sentando bases para la defensa de derechos dentro de la comunidad.",
-          "cities": ["Babilonia", "Sura"]
+          "name": "Casa de Judá HaNasi",
+          "text": "En la residencia de Judá HaNasi, su familia participaba en la vida intelectual y legal, destacando la protección de las mujeres y esclavas dentro de la comunidad.",
+          "cities": ["Galilea"]
         }
       ]
     },
     {
-      "year": "siglo III-IV",
+      "year": "220",
       "events": [
         {
-          "name": "Gamaliel IV, Judá III y el Edicto de Persecución",
-          "text": "Durante las persecuciones romanas, el liderazgo rabínico promovió redes de solidaridad y defendió los derechos de mujeres y conversos, adaptándose a tiempos de opresión.",
-          "cities": ["Tiberíades", "Babilonia"]
+          "name": "Gamaliel III e Ima Shalom",
+          "text": "Gamaliel III, hijo de Judá HaNasi, dirigió el Sanedrín en Tiberíades. Su esposa, Ima Shalom, sobrina de Rabí Eliezer ben Hircano, es recordada por su intervención en asuntos legales y su defensa de los derechos femeninos en el marco rabínico.",
+          "cities": ["Tiberíades"]
         }
       ]
     },
     {
-      "year": "siglo VII-IX",
+      "year": "230",
       "events": [
         {
-          "name": "Bustannai y el Califato Islámico",
-          "text": "Bustannai, exilarca descendiente de la casa davídica, vivió en un contexto de interacción entre judíos, cristianos y musulmanes bajo el Califato islámico, que favoreció el florecimiento cultural y religioso de los Geonim en Babilonia.",
-          "cities": ["Babilonia", "Bagdad"]
+          "name": "Rav Huna y Yalta",
+          "text": "En Babilonia, Rav Huna se casó con Yalta, hija de Rabí Hisda y descendiente materna de la línea HaKohen. Yalta, reconocida por su erudición, defendió la inclusión de las mujeres en prácticas rituales, marcando el inicio de resistencias de género en la comunidad rabínica.",
+          "cities": ["Sura"]
+        }
+      ]
+    },
+    {
+      "year": "270",
+      "events": [
+        {
+          "name": "Judá III y Gamaliel IV",
+          "text": "Judá III, hijo de Gamaliel III, y su hijo Gamaliel IV, lideraron el Sanedrín en tiempos de presión romana. Sus familias fortalecieron una red de refugio y resistencia espiritual y social, asegurando la continuidad del linaje HaKohen.",
+          "cities": ["Tiberíades"]
+        }
+      ]
+    },
+    {
+      "year": "310",
+      "events": [
+        {
+          "name": "Huna bar Nathan y Miriam bat Hisda",
+          "text": "En Sura, Miriam bat Hisda enseñó a su hijo Huna bar Nathan la historia del linaje HaKohen. Huna llegó a ser gaón y líder legal, participando en debates sobre halajá y política en Babilonia.",
+          "cities": ["Sura"]
+        }
+      ]
+    },
+    {
+      "year": "360",
+      "events": [
+        {
+          "name": "Huna bar Nathan, gaón y asesor político",
+          "text": "Como gaón de Sura, Huna bar Nathan defendió la autonomía de la comunidad judía y combinó la tradición legal con la diplomacia ante el poder persa.",
+          "cities": ["Sura"]
+        }
+      ]
+    },
+    {
+      "year": "420",
+      "events": [
+        {
+          "name": "Mar Zutra I y la resistencia ante los sasánidas",
+          "text": "Mar Zutra I, nieto de Huna bar Nathan, se destacó en Nehardea por preservar el linaje HaKohen y organizar la defensa de la autonomía judía frente a las amenazas sasánidas.",
+          "cities": ["Nehardea"]
+        }
+      ]
+    },
+    {
+      "year": "520",
+      "events": [
+        {
+          "name": "Rebelión de Mar Zutra II en Mahoza",
+          "text": "Mar Zutra II, hijo de Mar Zutra I, lideró una revuelta en Mahoza contra el imperio persa. Tras su ejecución, su hijo Mar Zutra III continuó el legado en la academia de Tiberíades.",
+          "cities": ["Mahoza", "Tiberíades"]
+        }
+      ]
+    },
+    {
+      "year": "590",
+      "events": [
+        {
+          "name": "Haninai ben Huna y Mari bat Haninai",
+          "text": "Haninai ben Huna, gaón en Sura, se casó con Mari bat Haninai, hija del gaón Mari. Juntos fortalecieron el linaje HaKohen y la tradición rabínica.",
+          "cities": ["Sura"]
+        }
+      ]
+    },
+    {
+      "year": "650",
+      "events": [
+        {
+          "name": "Bustannai y la unión con Dara, princesa persa",
+          "text": "Bustannai, exilarca e hijo de Haninai, se casó con Dara, hija del rey persa Yazdegerd III. De esta unión nacieron Hasdai y Baradoi, quienes fusionaron tradiciones judías y persas y continuaron el linaje HaKohen.",
+          "cities": ["Bagdad"]
+        }
+      ]
+    },
+    {
+      "year": "690",
+      "events": [
+        {
+          "name": "Hasdai ben Bustannai y Judith bat Mari",
+          "text": "Hasdai, líder en Pumbedita, se casó con Judith bat Mari, descendiente de gaones. Su hijo Natronai continuó el linaje HaKohen y la tradición rabínica en Bagdad.",
+          "cities": ["Pumbedita", "Bagdad"]
+        }
+      ]
+    },
+    {
+      "year": "750",
+      "events": [
+        {
+          "name": "Natronai ben Hasdai y el poder rabínico",
+          "text": "Natronai, hijo de Hasdai y Judith, lideró la comunidad judía de Bagdad y fortaleció la yeshivá, defendiendo los derechos de su pueblo y la continuidad del linaje HaKohen.",
+          "cities": ["Bagdad"]
+        }
+      ]
+    },
+    {
+      "year": "800",
+      "events": [
+        {
+          "name": "Exilio y diáspora: comunidades HaKohen en Europa",
+          "text": "Con la expansión islámica, miembros del linaje HaKohen migraron hacia Europa, estableciendo comunidades en Francia y Alemania. Mujeres como Miriam bat Natronai organizaron redes de ayuda, preservando la identidad y la tradición en tiempos difíciles.",
+          "cities": ["Francia", "Alemania"]
+        }
+      ]
+    },
+    {
+      "year": "850",
+      "events": [
+        {
+          "name": "Desarrollo del Gaonato y legado sacerdotal",
+          "text": "En Bagdad, el Gaonato alcanzó gran influencia con líderes como Saadia Gaon. La tradición sacerdotal HaKohen se entrelazó con la erudición rabínica, y las mujeres del linaje continuaron enseñando y defendiendo los derechos de su pueblo.",
+          "cities": ["Bagdad"]
         }
       ]
     }
-  ],
-  "themes": {
-    "Dinastía Hakohen": "La dinastía Hakohen, representada en las familias nobles judías exiliadas y sus descendientes, mantuvo la continuidad religiosa, cultural y social del judaísmo rabínico, con figuras destacadas en la erudición y liderazgo comunitario.",
-    "Luchas LGBT": "Desde los disturbios de Stonewall en 1969 hasta las marchas del orgullo en distintas partes del mundo, la lucha LGBT ha sido un proceso de resistencia contra la discriminación, buscando igualdad, visibilidad y derechos civiles.",
-    "Luchas feministas": "Personajes como Ima Shalom y Yalta en la antigüedad judía muestran tempranas reivindicaciones de autonomía y respeto para las mujeres, que se reflejan en debates legales y éticos de la época.",
-    "Luchas de migrantes": "Las familias judías exiliadas a Roma y sus posteriores migraciones internas en Italia ejemplifican procesos históricos de desplazamiento, adaptación y construcción de comunidades en contextos de exilio y persecución."
-  }
+  ]
 }

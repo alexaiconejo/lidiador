@@ -1,56 +1,230 @@
 {
   "title": "Kalonymus",
-  "duration": "siglos VIII - XIV",
-  "years": [
-    {
-      "year": "c. 800 d.C.",
-      "events": [
-        {
-          "name": "Migración y asentamiento de la familia Kalonymus",
-          "text": "La familia Kalonymus, originaria de Judea, huyó tras el asedio de Jerusalén en el año 70 d.C. y se estableció en el sur de Italia, especialmente en Lucca y Roma. Alrededor del año 800 d.C., bajo el reinado de Carlomagno, miembros de la familia fueron invitados a asentarse en Alemania (Mainz y Speyer), donde se convirtieron en líderes y eruditos prominentes, fundando las tradiciones culturales y religiosas asquenazíes. Esta migración formó parte de la política de Carlomagno para atraer sabios a su imperio[1][5].",
-          "cities": ["Lucca", "Roma", "Mainz", "Speyer"]
-        }
-      ]
-    },
-    {
-      "year": "siglo IX",
-      "events": [
-        {
-          "name": "Moisés I ben Meshulam y contribuciones litúrgicas",
-          "text": "Moisés I ben Meshulam, miembro de la familia Kalonymus que vivió en Lucca o Roma alrededor del 850 d.C., fue un poeta litúrgico destacado cuyas obras se incorporaron a los libros de oración judíos (Mahzor). Sus contribuciones ayudaron a moldear las primeras tradiciones litúrgicas asquenazíes[1].",
-          "cities": ["Lucca", "Roma"]
-        }
-      ]
-    },
-    {
-      "year": "siglo X",
-      "events": [
-        {
-          "name": "Kalonymus II ben Moisés y liderazgo halájico",
-          "text": "Kalonymus II, activo alrededor del 950 d.C. en Lucca o Roma, fue un halájico y poeta litúrgico consultado por Rabbenu Gershom sobre cuestiones rituales. Sus responsos y poemas litúrgicos influyeron en la ley judía y las prácticas de culto en la Europa medieval temprana[1].",
-          "cities": ["Lucca", "Roma"]
-        }
-      ]
-    },
-    {
-      "year": "finales del siglo XIII - principios del XIV",
-      "events": [
-        {
-          "name": "Kalonymus ben Kalonymus, filósofo y poeta",
-          "text": "Kalonymus ben Kalonymus (1286–después de 1328), destacado filósofo, traductor y hakham judío de Provenza, estudió filosofía y literatura rabínica. Tradujo importantes obras filosóficas árabes al hebreo y compuso poesía litúrgica. Viajó entre Aviñón, Roma y Arlés, relacionándose con círculos intelectuales judíos y cristianos, y defendió los intereses de la comunidad judía ante el papado[2][4].",
-          "cities": ["Provenza", "Aviñón", "Roma", "Arlés"]
-        }
-      ]
-    },
-    {
-      "year": "Período medieval (general)",
-      "events": [
-        {
-          "name": "Influencia de la familia Kalonymus en el judaísmo asquenazí",
-          "text": "La familia Kalonymus produjo generaciones de eruditos y líderes que moldearon el aprendizaje, la liturgia y la organización comunitaria judía asquenazí. Fueron figuras centrales en el desarrollo de la mística judía, la halajá y la poesía, con miembros como Samuel ha-Hasid y Judá ha-Hasid que continuaron el legado durante los siglos XI y XII[1][5].",
-          "cities": ["Mainz", "Speyer", "Alemania", "Norte de Francia"]
-        }
-      ]
-    }
-  ]
+  "duration": "801 - 1480",
+ "years": [
+  {
+    "year": "800",
+    "events": [
+      {
+        "name": "Migración de la familia Kalonymus",
+        "text": "Durante el reinado de Carlomagno, miembros de la familia Kalonymus-HaKohen, como Kalonymus ben Meshullam, se asentaron en Mainz y Speyer. Trajeron conocimientos talmúdicos y científicos, fundando las bases de la tradición rabínica asquenazí."
+      }
+    ]
+  },
+  {
+    "year": "823",
+    "events": [
+      {
+        "name": "Protección a judíos en la corte de Carlos el Calvo",
+        "text": "Carlos el Calvo favoreció la integración de sabios judíos en su corte. Se reforzó la presencia de la familia Kalonymus-HaKohen en Germania, especialmente en Mainz, en roles médicos, fiscales y diplomáticos."
+      }
+    ]
+  },
+  {
+    "year": "843",
+    "events": [
+      {
+        "name": "Tratado de Verdún y consolidación Kalonymus-HaKohen",
+        "text": "Tras el Tratado de Verdún, la familia Kalonymus-HaKohen se consolidó en Mainz y Speyer como sabios y líderes comunitarios, organizando estructuras comunales judías."
+      }
+    ]
+  },
+  {
+    "year": "846",
+    "events": [
+      {
+        "name": "Privilegios fiscales a judíos",
+        "text": "Durante el reinado de Luis el Tartamudo, miembros de la familia Kalonymus-HaKohen recibieron protección legal y privilegios fiscales en Francia Occidental."
+      }
+    ]
+  },
+  {
+    "year": "850",
+    "events": [
+      {
+        "name": "Moisés I ben Meshulam, poeta litúrgico",
+        "text": "Moisés I ben Meshulam, de los Kalonymus-HaKohen en Italia, fue un destacado poeta litúrgico. Su obra influyó en el Mahzor y fue base para academias rabínicas en Mainz."
+      }
+    ]
+  },
+  {
+    "year": "876",
+    "events": [
+      {
+        "name": "Academias rabínicas Kalonymus-HaKohen",
+        "text": "Bajo Carlos el Calvo, la familia Kalonymus-HaKohen fundó academias rabínicas en Mainz y Speyer, influyendo en el judaísmo europeo como rabinos, banqueros y asesores cortesanos."
+      }
+    ]
+  },
+  {
+    "year": "879",
+    "events": [
+      {
+        "name": "Organización litúrgica en la corte de Carlos el Simple",
+        "text": "Durante el reinado de Carlos el Simple, los Kalonymus-HaKohen lideraron la organización litúrgica y educativa de las comunidades judías en Francia."
+      }
+    ]
+  },
+  {
+    "year": "912",
+    "events": [
+      {
+        "name": "Kalonymus y el Sacro Imperio",
+        "text": "Durante el reinado de Otón I, la familia Kalonymus-HaKohen consolidó su influencia como banqueros, jueces rabínicos y poetas en Mainz y Speyer."
+      }
+    ]
+  },
+  {
+    "year": "939",
+    "events": [
+      {
+        "name": "Hai Gaon y el linaje HaKohen",
+        "text": "Hai ben Sherira (Hai Gaon), descendiente de familias kohenitas, lideró la academia de Pumbedita y tuvo influencia en redes rabínicas HaKohen de la diáspora."
+      }
+    ]
+  },
+  {
+    "year": "950",
+    "events": [
+      {
+        "name": "Kalonymus II ben Moisés y liderazgo halájico",
+        "text": "Kalonymus II ben Moisés, activo hacia 950 en Lucca o Roma, fue un halajista y poeta litúrgico de la familia Kalonymus HaKohen. Fue consultado por Rabbenu Gershom, evidenciando su autoridad en Europa medieval.",
+        "cities": ["Lucca", "Roma"]
+      }
+    ]
+  },
+  {
+    "year": "976",
+    "events": [
+      {
+        "name": "Meshullam el Grande",
+        "text": "Meshullam HaKohen, llamado 'el Romano', fue un halajista y poeta litúrgico activo en Roma o Lucca. Correspondió con Rabbeinu Gershom y escribió comentarios y piyutim que influyeron en el pensamiento rabínico italiano.",
+        "cities": ["Roma", "Lucca"]
+      }
+    ]
+  },
+  {
+    "year": "997",
+    "events": [
+      {
+        "name": "Hai Gaon y la transmisión del liderazgo",
+        "text": "Tras ser brevemente encarcelado con su padre Sherira, Hai Gaon asumió el liderazgo de la academia de Pumbedita en 998. Ambos pertenecían al linaje HaKohen, consolidando su rol en la diáspora.",
+        "cities": ["Bagdad", "Pumbedita"]
+      }
+    ]
+  },
+  {
+    "year": "1000",
+    "events": [
+      {
+        "name": "Kalonymus III en Maguncia",
+        "text": "Kalonymus III HaKohen se estableció en Maguncia como poeta litúrgico y líder. Se le atribuye la autoría del Unetanneh Tokef. Casado con Rivka bat Eliezer, tuvo descendencia rabínica destacada.",
+        "cities": ["Maguncia"]
+      },
+      {
+        "name": "División de los Kalonymus",
+        "text": "A comienzos del siglo XI, los Kalonymus HaKohen se dividen en ramas germano-italiana (Lucca, Maguncia, Worms) y occitana (Narbona), fundando academias y organizando comunidades judías europeas.",
+        "cities": ["Narbona", "Lucca", "Maguncia", "Worms"]
+      }
+    ]
+  },
+  {
+    "year": "1010",
+    "events": [
+      {
+        "name": "Persecución en Francia y migración",
+        "text": "Las acusaciones de Raoul Glaber contra los judíos causaron expulsiones en Limoges. Una rama menor de los HaKohen-Kalonymus emigró a Aragón o Provenza.",
+        "cities": ["Limoges"]
+      }
+    ]
+  },
+  {
+    "year": "1012",
+    "events": [
+      {
+        "name": "Expulsión en Mainz",
+        "text": "El emperador Enrique II expulsó a judíos de Mainz que rehusaron convertirse, incluyendo a los HaKohen-Kalonymus. Muchos se refugiaron en Worms o Speyer.",
+        "cities": ["Mainz", "Worms", "Speyer"]
+      }
+    ]
+  },
+  {
+    "year": "1014",
+    "events": [
+      {
+        "name": "Masacre en Zaragoza",
+        "text": "Durante las guerras del Califato, descendientes de los Kalonymus-HaKohen en Zaragoza fueron asesinados. Sobrevivientes se refugiaron en Toledo y Girona.",
+        "cities": ["Zaragoza", "Toledo", "Girona"]
+      }
+    ]
+  },
+  {
+    "year": "1020",
+    "events": [
+      {
+        "name": "Moisés ben Kalonymus en Maguncia",
+        "text": "Moisés ben Kalonymus HaKohen continuó la tradición rabínica en Maguncia. Autor de piyutim y dayan, fue educado por su padre Meshullam. Casado con Miriam bat David, tuvo tres hijos.",
+        "cities": ["Maguncia", "Lucca"]
+      }
+    ]
+  },
+  {
+    "year": "1286",
+    "events": [
+      {
+        "name": "Kalonymus ben Kalonymus",
+        "text": "Kalonymus ben Kalonymus HaKohen nació en Arlés. Filósofo, poeta y traductor, estudió en Montpellier y defendió a los judíos en Aviñón. Su obra refleja tensiones entre espiritualidad y filosofía.",
+        "cities": ["Arlés", "Aviñón", "Montpellier"]
+      }
+    ]
+  },
+  
+  {
+    "year": "1291",
+    "events": [
+      {
+        "name": "Residencia de Mordechai ben Hillel en Núremberg",
+        "text": "Mordechai ben Hillel se instala en Núremberg y dirige una yeshivá que atrae estudiantes de toda Europa.",
+        "cities": ["Núremberg", "Goslar"]
+      }
+    ]
+  },
+  {
+    "year": "1298",
+    "events": [
+      {
+        "name": "Masacres de Rintfleisch",
+        "text": "Mordechai ben Hillel HaKohen, junto con su esposa e hijos, son asesinados en las masacres de Rintfleisch.",
+        "cities": ["Alemania"]
+      }
+    ]
+  },
+  {
+    "year": "1306",
+    "events": [
+      {
+        "name": "Aharon HaCohen de Lunil / Narbona",
+        "text": "El rabino Aharon HaCohen, también conocido como Aharon ben Yaakov HaCohen, fue un rabino provenzal activo a finales del siglo XIII y principios del XIV, autor del libro 'Archot Chaim'. Provenía de una familia de eruditos HaKohen de Narbona, Francia, que sufrió la expulsión de los judíos en 1306.",
+        "cities": ["Narbona", "Lunil", "Provenza", "Mallorca"]
+      },
+      {
+        "name": "Linaje HaKohen de Aharon",
+        "text": "Aharon menciona en su libro a su abuelo paterno, el rabino David Bar-Yitzhak HaCohen, y a su bisabuelo, el rabino Yitzhak HaCohen, alumno del rabino Asher Ashkenazi. Luego de la expulsión, Aharon emigró a Mallorca, donde estudió con el rabino Shem Tov Falcho.",
+        "cities": ["Narbona", "Mallorca"]
+      }
+    ]
+  },
+  {
+    "year": "1327",
+    "events": [
+      {
+        "name": "Obra Orchot Hayyim",
+        "text": "Antes de 1327, Aharon HaCohen compone la obra ritual 'Orchot Hayyim' en Mallorca, un compendio de leyes y discusiones talmúdicas.",
+        "cities": ["Mallorca"]
+      }
+    ]
+  }
+]
+
+  
 }

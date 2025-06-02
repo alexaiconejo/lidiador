@@ -1,0 +1,193 @@
+{
+  "title": "Impuros",
+  "duration": "1931 - 1942",
+  "years": [
+    {
+      "year": "1931",
+      "backgroundUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Camara_Nacional_de_Apelaciones_en_lo_Criminal_y_Correccional_Federal_-_Palacio_de_Justicia_-_Ciudad_Aut%C3%B3noma_de_Buenos_Aires.jpg",
+      "events": [
+        {
+          "name": "Revocación de procesamientos y libertades a rufianes",
+          "text": "El 27 de enero de 1931, la Cámara de Apelaciones, integrada por los jueces Oribe y Ortiz de Rozas, revocó los procesamientos del juez Rodríguez Ocampo y ordenó la liberación de los rufianes, negando valor a las pruebas recolectadas y a las denuncias de las mujeres contra los proxenetas.",
+          "cities": ["Buenos Aires"]
+        },
+        {
+          "name": "Misterio de la Unión Hebraica y rufianes judíos",
+          "text": "La Unión Hebraica en Rosario, marginada de la colectividad oficial, operaba como fachada de rufianes judíos. En mayo de 1930, su directivo Saúl Friedman fue detenido en una sinagoga clandestina frecuentada por elementos del hampa.",
+          "cities": ["Rosario"]
+        },
+        {
+          "name": "Colectividad judía y exclusión de proxenetas",
+          "text": "Los dirigentes de la colectividad judía impidieron el ingreso de proxenetas a los templos y prohibieron entierros religiosos a tratantes. La sociedad Varsovia, luego Zwi Migdal, sostenía expresiones religiosas a pesar del rechazo comunitario.",
+          "cities": ["Buenos Aires", "Rosario"]
+        }
+      ]
+    },
+    {
+      "year": "1932",
+      "backgroundUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Antonio_Berni_en_su_taller%2C_circa_1932.jpg",
+      "events": [
+        {
+          "name": "Manuscrito MiHIL a Reyzen",
+          "text": "El manuscrito de MiHIL fue entregado a Reyzen.",
+          "cities": []
+        },
+        {
+          "name": "Antonio Berni y Rosario Gráfico",
+          "text": "El artista Antonio Berni publicó el 11 de febrero de 1932 tres fotografías en Rosario Gráfico que documentaban burdeles de Rosario, revelando la convivencia de represión y tolerancia en la moral burguesa.",
+          "cities": ["Rosario"]
+        },
+        {
+          "name": "Investigación clandestina sobre prostíbulos",
+          "text": "Rodolfo Puiggrós encargó a Berni fotografiar prostíbulos rosarinos con una Leica, eligiendo espacios con luz natural para evitar ser descubierto.",
+          "cities": ["Rosario"]
+        },
+        {
+          "name": "Ley de sábado inglés y casas de tolerancia",
+          "text": "El 7 de octubre se sancionó la ley de sábado inglés. Rosa Weismann, Sofía Pais y Anita Baram de Smith presentaron dos casas de tolerancia en Granadero Baigorria a la Comisión de Fomento de Pagani.",
+          "cities": ["Granadero Baigorria"]
+        },
+        {
+          "name": "Agustín P. Justo asume la presidencia",
+          "text": "Agustín P. Justo asumió la presidencia de Argentina en 1932 como líder de la Concordancia.",
+          "cities": ["Buenos Aires"]
+        }
+      ]
+    },
+    {
+      "year": "1933",
+      "events": [
+        {
+          "name": "Solicitud para cementerio israelita en Granadero Baigorria",
+          "text": "El 4 de abril, representantes de la Unión Hebraica de Rosario solicitaron permiso para instalar un cementerio judío. El predio fue denominado Zwi Migdal en homenaje a Luis Migdal.",
+          "cities": ["Granadero Baigorria"]
+        },
+        {
+          "name": "Asesinato de Juan Ruggero y funeral",
+          "text": "Fue asesinado Juan Ruggero, apodado 'el Matón de Barceló'. Organizó su propio funeral antes de morir.",
+          "cities": ["Buenos Aires"]
+        },
+        {
+          "name": "Hechos políticos destacados",
+          "text": "Firma del Pacto Roca-Runciman entre Argentina y Gran Bretaña. Se consolidó el fraude electoral durante la Década Infame.",
+          "cities": ["Buenos Aires"]
+        }
+      ]
+    },
+    {
+      "year": "1934",
+      "events": [
+        {
+          "name": "Inauguración del Cementerio Israelita de Granadero Baigorria",
+          "text": "Se inaugura un cementerio judío junto al Cementerio El Redentor. Alberga los restos de exproxenetas, madamas y pupilas. Fue administrado por la Unión Hebraica hasta 1959.",
+          "cities": ["Granadero Baigorria"]
+        },
+        {
+          "name": "Sanción de ley de indemnización",
+          "text": "Se sanciona una ley que garantiza indemnizaciones laborales.",
+          "cities": ["Buenos Aires"]
+        }
+      ]
+    },
+    {
+      "year": "1935",
+      "events": [
+        {
+          "name": "Publicaciones de Miguel sobre educación judía",
+          "text": "Miguel publicó un artículo sobre la relación entre padres judíos y educación en 'Di idishe tsaytung' en octubre.",
+          "cities": ["Buenos Aires"]
+        },
+        {
+          "name": "Formación y escisión del Haganah",
+          "text": "Se consolida la organización Haganah en Palestina. Ese año, un sector se escindió formando el grupo terrorista Irgun.",
+          "cities": ["Palestina"]
+        }
+      ]
+    },
+    {
+      "year": "1936",
+      "events": [
+        {
+          "name": "Primera rebelión palestina contra ingleses",
+          "text": "Se inicia una rebelión popular contra el mandato británico en Palestina. El conflicto duró tres años y causó miles de muertos.",
+          "cities": ["Palestina"]
+        },
+        {
+          "name": "David Hacohen y el boicot a árabes",
+          "text": "David Hacohen, miembro de Histradut, impulsó campañas de boicot a productos árabes, alimentadas por una visión de superioridad racial.",
+          "cities": ["Tel Aviv"]
+        }
+      ]
+    },
+    {
+      "year": "1937",
+      "events": [
+        {
+          "name": "Desbaratamiento del grupo Zwi Migdal y cambio político",
+          "text": "Tras la caída del grupo Zwi Migdal en Buenos Aires, la policía de Rosario intensificó la represión al proxenetismo. La política local adoptó posturas abolicionistas.",
+          "cities": ["Buenos Aires", "Rosario"]
+        },
+        {
+          "name": "Pine Katz representa a Argentina en YCUF",
+          "text": "Pine Katz participó en nombre de Argentina en el YCUF.",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "year": "1938",
+      "events": [
+        {
+          "name": "Roberto M. Ortiz presidente",
+          "text": "Roberto M. Ortiz asumió la presidencia representando al Partido Concordancia. Su mandato duró hasta 1942.",
+          "cities": ["Buenos Aires"]
+        }
+      ]
+    },
+    {
+      "year": "1939",
+      "events": [
+        {
+          "name": "Publicación del Libro Blanco británico",
+          "text": "El Reino Unido publicó un Libro Blanco limitando la inmigración judía a Palestina, pese al aumento demográfico judío del 10% al 30% entre 1920 y 1939.",
+          "cities": ["Londres", "Palestina"]
+        }
+      ]
+    },
+    {
+      "year": "1940",
+      "events": [
+        {
+          "name": "Ben Gurion y la alianza con Gran Bretaña",
+          "text": "Ben Gurion declaró que lucharían junto a Gran Bretaña pese al Libro Blanco. La inmigración clandestina aumentó. El hundimiento del buque Patria causó 250 muertes.",
+          "cities": ["Palestina"]
+        },
+        {
+          "name": "Resistencia y represión mapuche en el siglo XX",
+          "text": "Durante el siglo XX, los pueblos originarios, especialmente los mapuches, enfrentaron represión y desplazamiento en Argentina por el avance agroindustrial.",
+          "cities": ["Patagonia"]
+        }
+      ]
+    },
+    {
+      "year": "1941",
+      "events": [
+        {
+          "name": "Fundación del ICUF y activismo de Rubén Sinay",
+          "text": "En abril, Pine Katz fundó el ICUF. Rubén Sinay comenzó a destacarse como activista peronista.",
+          "cities": ["Buenos Aires"]
+        }
+      ]
+    },
+    {
+      "year": "1942",
+      "events": [
+        {
+          "name": "Matrimonio de Lidia y Eduardo y política sindical",
+          "text": "Lidia y Eduardo se casaron en Buenos Aires. Ella renunció al judaísmo. En diciembre, Borlenghi presidió el segundo congreso de la CGT.",
+          "cities": ["Buenos Aires"]
+        }
+      ]
+    }
+  ]
+}

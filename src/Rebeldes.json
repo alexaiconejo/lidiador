@@ -1,44 +1,54 @@
 {
   "title": "Rebeldes",
-  "duration": "c. 587 - 30 a.C.",
+  "duration": "587 a.C. - 30 a.C.",
   "years": [
     {
       "year": "587 a.C.",
       "events": [
         {
-          "name": "Caída del Primer Templo y exilio babilónico",
-          "text": "Nabucodonosor II, rey de Babilonia, sitia Jerusalén y destruye el Primer Templo. Comienza el exilio babilónico, un trauma fundacional para el pueblo judío. Se pierde el Arca de la Alianza. Las mujeres judías sufren deportaciones y violencia, pero en los textos proféticos (Jeremías, Lamentaciones) aparecen como símbolos de la resistencia y la esperanza.",
+          "name": "Destrucción del Primer Templo y exilio",
+          "text": "Nabucodonosor II destruye el Primer Templo en Jerusalén y deporta a parte de la población a Babilonia. En los textos bíblicos como Lamentaciones, Jerusalén es representada simbólicamente como una mujer humillada. Comienza el período del exilio babilónico.",
           "cities": ["Jerusalén", "Babilonia"]
         }
       ]
     },
     {
-      "year": "539-516 a.C.",
+      "year": "539 a.C.",
       "events": [
         {
-          "name": "Ciro el Grande y la reconstrucción del Templo",
-          "text": "Ciro el Grande conquista Babilonia (539 a.C.), emite un edicto que permite el regreso de los judíos a Jerusalén y la reconstrucción del Templo bajo Zorobabel (terminado en 516 a.C.). El liderazgo religioso es masculino, pero el libro de Esdras menciona a mujeres y niños entre los retornados. Ciro es visto como un libertador y protector de minorías religiosas.",
-          "cities": ["Babilonia", "Jerusalén"]
+          "name": "Edicto de Ciro y retorno a Jerusalén",
+          "text": "Ciro el Grande conquista Babilonia y permite el retorno de los judíos. El edicto persa inicia la reconstrucción del Templo. El liderazgo del retorno está encabezado por figuras sacerdotales y aristocráticas.",
+          "cities": ["Babilonia", "Jerusalén", "Persia"]
         }
       ]
     },
     {
-      "year": "486-474 a.C.",
+      "year": "516 a.C.",
       "events": [
         {
-          "name": "Esther y la corte persa",
-          "text": "Esther, una joven judía, se convierte en reina del Imperio Persa tras ser seleccionada para el harén de Asuero (Jerjes I). Junto a su tío Mardoqueo, salva a su pueblo del exterminio decretado por Amán. El libro de Esther es uno de los pocos textos bíblicos donde una mujer es protagonista y heroína, usando su astucia y posición para proteger a una minoría perseguida. El episodio evidencia la vulnerabilidad de las mujeres en los harenes, pero también su capacidad de agencia y resistencia.",
-          "cities": ["Susa", "Persia", "Jerusalén"]
-        }
-      ]
-    },
-    {
-      "year": "350-100 a.C.",
-      "events": [
-        {
-          "name": "Zugot y consolidación rabínica",
-          "text": "Durante el período de los Zugot ('pares'), dos rabinos compartían el liderazgo religioso en el Sanedrín. Figuras como Hillel y Shammai representan escuelas opuestas de interpretación. En este contexto, se consolidan normas que regulan la vida comunitaria y el acceso de mujeres y extranjeros a ciertos espacios, aunque la literatura rabínica recoge debates sobre la inclusión y la justicia social.",
+          "name": "Finalización del Segundo Templo",
+          "text": "Se completa la reconstrucción del Segundo Templo bajo Zorobabel y Josué ben Josadac. Se restablece el culto. El nuevo templo no incluye el Arca de la Alianza.",
           "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "486 a.C.",
+      "events": [
+        {
+          "name": "Ascenso de Esther",
+          "text": "Según el libro de Esther, una joven judía llamada Esther se convierte en reina del Imperio Persa y logra salvar a su pueblo de un genocidio planeado por Amán. El relato es de carácter literario y no tiene confirmación arqueológica.",
+          "cities": ["Persia", "Susa"]
+        }
+      ]
+    },
+    {
+      "year": "474 a.C.",
+      "events": [
+        {
+          "name": "Historia de Purim",
+          "text": "La festividad de Purim conmemora, según el relato del libro de Esther, la salvación del pueblo judío en Persia. Se celebra con lectura del rollo, banquetes y regalos, aunque su historicidad es debatida.",
+          "cities": ["Persia", "Susa"]
         }
       ]
     },
@@ -46,59 +56,69 @@
       "year": "331 a.C.",
       "events": [
         {
-          "name": "Alejandro Magno y la helenización",
-          "text": "Alejandro Magno conquista el Imperio Persa y llega a Jerusalén. Su dominio introduce la cultura griega en Palestina, generando tensiones entre helenistas y tradicionalistas. La helenización afectó especialmente a las élites urbanas, y las mujeres judías de clases altas adoptaron costumbres griegas, lo que generó debates sobre identidad y asimilación.",
-          "cities": ["Jerusalén", "Alejandría"]
+          "name": "Conquista de Alejandro Magno",
+          "text": "Alejandro Magno conquista la región de Palestina, marcando el inicio de la influencia helénica en Judea. Se introducen elementos culturales griegos en las ciudades.",
+          "cities": ["Palestina", "Jerusalén"]
         }
       ]
     },
     {
-      "year": "198-142 a.C.",
+      "year": "330 a.C.",
       "events": [
         {
-          "name": "Esenios y resistencia religiosa",
-          "text": "Los esenios, comunidad judía ascética y probablemente mixta en cuanto a género, surgen en reacción a la dominación seléucida. Practicaban la vida comunitaria, la ayuda a marginados y la igualdad relativa entre hombres y mujeres, permitiendo en algunos casos el matrimonio y el acceso de mujeres a la comunidad (según Josefo y los Rollos del Mar Muerto).",
-          "cities": ["Qumrán", "Desierto de Judea"]
+          "name": "Encuentro entre Alejandro Magno y el Sumo Sacerdote",
+          "text": "Según Flavio Josefo, Alejandro Magno se encontró con el Sumo Sacerdote Jadúa en Jerusalén. Aunque la anécdota es citada por Josefo, carece de confirmación en fuentes griegas. Alejandro otorgó libertad religiosa a los judíos durante su dominio.",
+          "cities": ["Jerusalén"]
         }
       ]
     },
     {
-      "year": "166-142 a.C.",
+      "year": "329 a.C.",
       "events": [
         {
-          "name": "Matatías y la Revuelta de los Macabeos",
-          "text": "Matatías ben Johanan HaKohen, sacerdote de la línea de Jehoiarib, inicia la revuelta contra los seléucidas tras negarse a sacrificar a dioses griegos. Sus hijos, los Macabeos, lideran la lucha por la libertad religiosa. La rebelión es un ejemplo de resistencia colectiva, donde mujeres como Judit (libro deuterocanónico) también son celebradas como heroínas.",
-          "cities": ["Modiin", "Jerusalén"]
+          "name": "Autonomía bajo el dominio helenístico",
+          "text": "Tras la conquista de Alejandro, Judea goza de autonomía relativa bajo los diádocos. Las instituciones religiosas continúan funcionando con escasa interferencia externa.",
+          "cities": ["Judea", "Jerusalén"]
         }
       ]
     },
     {
-      "year": "142-134 a.C.",
+      "year": "198 a.C.",
       "events": [
         {
-          "name": "Simón Macabeo y la independencia de Judea",
-          "text": "Simón Macabeo, hijo de Matatías, se convierte en sumo sacerdote y líder de un estado judío independiente. Bajo su gobierno, se reconocen derechos a viudas, huérfanos y forasteros en la comunidad esenia. El Senado romano reconoce la independencia judía y Simón es proclamado príncipe y sumo sacerdote.",
+          "name": "Dominio seléucida",
+          "text": "Los seléucidas, bajo Antíoco III, toman el control de Judea de manos de los Ptolomeos. Comienza un período de influencia helénica más activa en la región.",
+          "cities": ["Judea", "Antioquía"]
+        }
+      ]
+    },
+    {
+      "year": "167 a.C.",
+      "events": [
+        {
+          "name": "Rebelión de los Macabeos",
+          "text": "Comienza la revuelta de los Macabeos contra la imposición de prácticas religiosas helenísticas por parte de Antíoco IV Epífanes. Se restablecen las prácticas tradicionales judías.",
+          "cities": ["Judea", "Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "164 a.C.",
+      "events": [
+        {
+          "name": "Rededicación del Segundo Templo",
+          "text": "Tras la victoria de los Macabeos, se purifica y rededica el Templo de Jerusalén. Este evento da origen a la festividad de Janucá.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "63 a.C.",
+      "events": [
+        {
+          "name": "Conquista romana de Judea",
+          "text": "El general romano Pompeyo conquista Jerusalén, integrando Judea en la esfera de influencia romana. Comienzan las tensiones entre el poder romano y las autoridades religiosas judías.",
           "cities": ["Jerusalén", "Roma"]
-        }
-      ]
-    },
-    {
-      "year": "134-76 a.C.",
-      "events": [
-        {
-          "name": "Juan Hircano y Alejandro Janneo",
-          "text": "Juan Hircano I, hijo de Simón, y Alejandro Janneo, su hijo, gobiernan como reyes y sumos sacerdotes. Hircano expande el reino y Alejandro Janneo reprime brutalmente a los fariseos y disidentes. Durante este período, las luchas internas entre saduceos, fariseos y otros grupos reflejan la diversidad y los conflictos sociales dentro del judaísmo.",
-          "cities": ["Jerusalén", "Samaria"]
-        }
-      ]
-    },
-    {
-      "year": "100-44 a.C.",
-      "events": [
-        {
-          "name": "Julio César y la diáspora judía",
-          "text": "Julio César otorga privilegios a las comunidades judías de la diáspora, permitiendo la práctica de su religión en el Imperio Romano. Hillel el Sabio, nacido en Babilonia, funda una escuela liberal de interpretación de la Torá y promueve la ética de la reciprocidad ('No hagas a tu prójimo lo que no quieras para ti'). Su liderazgo es ejemplo de apertura y diálogo en tiempos de cambio.",
-          "cities": ["Roma", "Babilonia", "Jerusalén"]
         }
       ]
     }

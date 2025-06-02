@@ -1,89 +1,249 @@
 {
   "title": "Los Secretos del Sinay",
-  "duration": "siglos XV - XVII",
+  "duration": "1480 - XVII",
   "years": [
+  {
+    "year": "1480",
+    "events": [
+      {
+        "name": "Jaim Ben Chaim de Worms",
+        "text": "Rabino destacado en Worms, parte de la comunidad asquenazí que mantuvo la tradición rabínica durante persecuciones a finales del siglo XV.",
+        "cities": ["Worms"]
+      }
+    ]
+  },
+  {
+    "year": "1492",
+    "events": [
+      {
+        "name": "Expulsión de los judíos de España",
+        "text": "El edicto de expulsión decretado por los Reyes Católicos dispersó a judíos hacia Italia, el Imperio Otomano y otras regiones, afectando a las comunidades asquenazíes y sefardíes.",
+        "cities": ["España", "Italia", "Imperio Otomano"]
+      }
+    ]
+  },
+  {
+    "year": "1520",
+    "events": [
+      {
+        "name": "Nacimiento del Maharal de Praga y Solomon Ashkenazi",
+        "text": "Judah Loew ben Bezalel, el Maharal de Praga, nace en Poznań o Worms. Ese mismo año nace Solomon ben Nathan Ashkenazi en el Imperio Otomano, médico y diplomático.",
+        "cities": ["Poznań", "Worms", "Imperio Otomano"]
+      }
+    ]
+  },
+  {
+    "year": "1522",
+    "events": [
+      {
+        "name": "Judah Leib el Viejo",
+        "text": "Judah Leib el Viejo, rabino checo en Praga y ancestro del Maharal, fallece. Su tumba de 1539 marca un hito genealógico para la línea davídica asquenazí.",
+        "cities": ["Praga"]
+      }
+    ]
+  },
+  {
+    "year": "1530",
+    "events": [
+      {
+        "name": "Mordecai ben Avraham Yoffe",
+        "text": "Nace en Praga Mordecai ben Avraham Yoffe, rabino y autor del 'Levush Malkhut', obra clave en el judaísmo de Europa del Este.",
+        "cities": ["Praga"]
+      }
+    ]
+  },
+  {
+    "year": "1535",
+    "events": [
+      {
+        "name": "Construcción de la Sinagoga Pinkas",
+        "text": "La Sinagoga Pinkas se erige en Praga bajo la dirección del rabino Aharon Meshulam Horowitz, como lugar de memoria para la comunidad asquenazí.",
+        "cities": ["Praga"]
+      }
+    ]
+  },
+  {
+    "year": "1540",
+    "events": [
+      {
+        "name": "Avraham Halevi Horowitz",
+        "text": "Nacido en Praga, estudió con el Maharal y el Rema, y se destacó como juez rabínico y autor de filosofía y ética judía.",
+        "cities": ["Praga", "Cracovia"]
+      }
+    ]
+  },
+   {
+    "year": "1553",
+    "events": [
+      {
+        "name": "Mordecai ben Abraham Jaffe",
+        "text": "Nombrado director de la yeshivá en Praga, promovió el estudio riguroso del Talmud y combatió el descuido talmúdico.",
+        "cities": ["Praga"]
+      }
+    ]
+  },
+  {
+    "year": "1555",
+    "events": [
+      {
+        "name": "Isaiah Horowitz",
+        "text": "Nace Isaiah Horowitz en Praga, discípulo del Rema, futuro promotor del estudio de la Torá en Jerusalén.",
+        "cities": ["Praga"]
+      }
+    ]
+  },
+  {
+    "year": "1561",
+    "events": [
+      {
+        "name": "Mordecai ben Avraham Yoffe en Venecia",
+        "text": "Tras la expulsión de Bohemia, Yoffe estudia astronomía en Venecia hasta 1571.",
+        "cities": ["Praga", "Venecia"]
+      }
+    ]
+  },
+  {
+    "year": "1570",
+    "events": [
+      {
+        "name": "Mordechai HaKohen de Alepo",
+        "text": "Rabino de Alepo, impulsó academias talmúdicas y renovó el estudio comunitario en la región.",
+        "cities": ["Alepo"]
+      }
+    ]
+  },
+  {
+    "year": "1571",
+    "events": [
+      {
+        "name": "Mordecai ben Avraham Yoffe en Grodno y Lublin",
+        "text": "Elegido rabino de Grodno y luego de Lublin, lideró el influyente Consejo de las Cuatro Tierras.",
+        "cities": ["Grodno", "Lublin"]
+      }
+    ]
+  },
     {
-      "year": "c. 1480",
+      "year": "1580",
       "events": [
         {
-          "name": "Jaim Ben Chaim de Worms",
-          "text": "Rabino destacado en Worms, parte de la comunidad asquenazí que enfrentó persecuciones y mantuvo la tradición rabínica durante finales del siglo XV. Su liderazgo fue crucial en la resistencia espiritual frente a los ataques externos, incluyendo la influencia del Malleus Maleficarum y la expulsión de los judíos de España en 1492.",
-          "cities": ["Worms"]
+          "name": "Juan Frayle en Vega de Bur",
+          "text": "Juan Frayle y su hermano Toribio, descendientes de un judío converso, establecen el apellido Frayle en Vega de Bur (Palencia), España, tras la expulsión de 1492.",
+          "cities": ["Vega de Bur"]
         },
         {
-          "name": "Malleus Maleficarum y Efraim Caro",
-          "text": "El Malleus Maleficarum, tratado sobre la caza de brujas, influyó en la persecución de minorías. Efraim Caro, rabino y erudito, enfrentó estos tiempos difíciles y la expulsión de los judíos de España, defendiendo a su comunidad y preservando el conocimiento judío.",
-          "cities": ["España"]
+          "name": "Refundación de Buenos Aires",
+          "text": "Juan de Garay refunda Buenos Aires en 1580 como parte del Virreinato del Perú, asegurando el control español en la región y desplazando a los pueblos originarios.",
+          "cities": ["Buenos Aires"]
         }
       ]
     },
     {
-      "year": "1492",
+      "year": "1581",
       "events": [
         {
-          "name": "Expulsión de los judíos de España",
-          "text": "El edicto de expulsión decretado por los Reyes Católicos forzó a miles de judíos a abandonar España, dispersándose hacia Italia, el Imperio Otomano y otras regiones. Esta diáspora afectó profundamente a las comunidades asquenazíes y sefardíes, incluyendo familias como los Kalonymus.",
-          "cities": ["España", "Italia", "Imperio Otomano"]
+          "name": "Juicios de Trier",
+          "text": "Entre 1581 y 1593 en Trier (Alemania) se llevan a cabo masivas persecuciones por brujería impulsadas por el príncipe-arzobispo Johann von Schönenberg.",
+          "cities": ["Trier"]
         }
       ]
     },
     {
-      "year": "siglo XVI",
+      "year": "1582",
       "events": [
         {
-          "name": "Juan Fraile y los masones / Rishonim",
-          "text": "Juan Fraile, figura vinculada a los masones, estuvo en contacto con las corrientes intelectuales de los Rishonim, los primeros comentaristas rabínicos que influyeron en la interpretación de la Torá durante este período.",
-          "cities": ["Europa"]
-        },
+          "name": "Creación de Salta",
+          "text": "En 1582 se funda la ciudad de Salta en el actual noroeste de Argentina, consolidando la colonización española.",
+          "cities": ["Salta"]
+        }
+      ]
+    },
+    {
+      "year": "1583",
+      "events": [
         {
-          "name": "Cristóbal Colón, judío y Kalonymus de Narbona",
-          "text": "Algunas teorías sugieren que Cristóbal Colón tenía orígenes judíos y conexiones con la familia Kalonymus de Narbona, lo que explicaría su interés en la exploración y la expansión hacia América.",
-          "cities": ["Narbona", "América"]
-        },
+          "name": "Marshall de Praga combate calumnias",
+          "text": "Marshall de Praga denuncia en 1583 las calumnias sobre la legitimidad matrimonial en Moravia, utilizando sermones públicos para proteger a familias asquenazíes.",
+          "cities": ["Moravia"]
+        }
+      ]
+    },
+    {
+      "year": "1585",
+      "events": [
         {
-          "name": "Lutero, Dieta de Worms y Salomón Azkenazi",
-          "text": "La Dieta de Worms (1521) fue un momento crucial en la Reforma protestante. Salomón Azkenazi, figura judía, estuvo presente en debates religiosos y políticos que marcaron la relación entre judíos, cristianos y autoridades imperiales.",
-          "cities": ["Worms"]
-        },
+          "name": "Jaim HaCohen de Alepo",
+          "text": "Nace en Egipto el rabino Jaim HaCohen (1585–1655), quien se traslada a Safed y luego a Alepo, donde revitaliza el estudio de la Torá y demuestra heroísmo al salvar manuscritos ante un ataque de piratas.",
+          "cities": ["Egipto", "Safed", "Alepo"]
+        }
+      ]
+    },
+    {
+      "year": "1586",
+      "events": [
         {
-          "name": "1522 Praga: nacimiento de Marshall y Leow",
-          "text": "En Praga nacieron figuras como Marshall y Leow, que más tarde serían líderes en la comunidad judía, contribuyendo al desarrollo cultural y espiritual de los asquenazíes.",
+          "name": "Esteban Bocskai",
+          "text": "Esteban Bocskai (1557–1606), noble húngaro, ejerce gran influencia en Transilvania y Polonia. Aunque no es rabino, su diplomacia afecta rutas comerciales donde intervenían médicos y mercaderes judíos.",
+          "cities": ["Kolozsvár", "Praga", "Viena"]
+        }
+      ]
+    },
+    {
+      "year": "1592",
+      "events": [
+        {
+          "name": "Marshall de Praga ante Rodolfo II",
+          "text": "El 23 de febrero de 1592, Marshall de Praga se reúne con el emperador Rodolfo II en Praga junto a su hermano Sinaí y su yerno Isaac Cohen, discutiendo la Cábala.",
           "cities": ["Praga"]
-        },
+        }
+      ]
+    },
+    {
+      "year": "1595",
+      "events": [
         {
-          "name": "Shaló y Reichrab Jaim (1559)",
-          "text": "Shaló y el Reichrab Jaim fueron líderes espirituales que guiaron a sus comunidades en tiempos de cambio y persecución, manteniendo la tradición rabínica y la cohesión social.",
-          "cities": ["Europa Central"]
-        },
+          "name": "Abraham Halevi Horowitz en Lviv",
+          "text": "En 1595 Abraham Halevi Horowitz es elegido juez rabínico en Lviv. Sus hijos, como Yaakov Me’Ferashin e Isaiah Horowitz, continúan su legado escribiendo importantes obras halájicas y éticas.",
+          "cities": ["Lviv"]
+        }
+      ]
+    },
+    {
+      "year": "1599",
+      "events": [
         {
-          "name": "Isaac ben Solomon Luria y la cábala luriana",
-          "text": "Isaac Luria, conocido como el Arí, revolucionó la mística judía con la cábala luriana, que tuvo un impacto profundo en la espiritualidad asquenazí y sefardí. Sus enseñanzas influyeron en figuras como el Maharal y en la defensa de la identidad judía frente a la adversidad.",
-          "cities": ["Safed"]
-        },
+          "name": "Primer bautizo Frayle en Vega de Bur",
+          "text": "El 2 de agosto de 1599 Toribio Frayle, hijo de Juan Frayle y María Barba, se convierte al cristianismo en Vega de Bur, consolidando la línea converso Frayle en Palencia.",
+          "cities": ["Vega de Bur"]
+        }
+      ]
+    },
+    {
+      "year": "1600",
+      "events": [
         {
-          "name": "Jaim Hakohen y los piratas / Encuentro con el emperador / Maharal",
-          "text": "Jaim Hakohen tuvo encuentros con piratas y autoridades imperiales, buscando proteger a las comunidades judías. El Maharal de Praga, contemporáneo suyo, fue un destacado líder espiritual y defensor de la comunidad, conocido por su sabiduría y misticismo.",
+          "name": "Contexto en Lucania",
+          "text": "En 1600, Lucania (hoy Basilicata) formaba parte del Reino de Nápoles bajo corona española. El apellido Verrastro, derivado de 'jabalí', recuerda a colonos y mercaderes asentados en la región.",
+          "cities": ["Lucania"]
+        }
+      ]
+    },
+    {
+      "year": "1609",
+      "events": [
+        {
+          "name": "Muerte del Maharal de Praga",
+          "text": "El 17 de septiembre de 1609 fallece Judah Loew ben Bezalel, el Maharal de Praga, en Praga. Fue un destacado talmudista y místico que influyó en la tradición asquenazí por generaciones.",
           "cities": ["Praga"]
         }
       ]
     },
     {
-      "year": "siglo XVII",
+      "year": "1618",
       "events": [
         {
-          "name": "La Guerra de los 30 años y liderazgo asquenazí en Jerusalén",
-          "text": "Durante la Guerra de los 30 años, Isaiah Ben Jacob Halevi fue jefe de la comunidad asquenazí en Jerusalén, enfrentando desafíos políticos y religiosos en un contexto de conflicto europeo y otomano.",
-          "cities": ["Jerusalén"]
-        },
-        {
-          "name": "Heráldica Sinay, Baal Shemtov y el Gaon de Vilna",
-          "text": "La heráldica Sinay simboliza la identidad judía en Europa. El Baal Shemtov fundó el jasidismo, movimiento espiritual que revitalizó la vida judía. El Gaon de Vilna fue un erudito clave en la oposición al jasidismo y en la consolidación del judaísmo ortodoxo.",
-          "cities": ["Europa del Este"]
-        },
-        {
-          "name": "María Teresa, Miklos Sinay y los Illuminati",
-          "text": "María Teresa de Austria y Miklos Sinay estuvieron vinculados a cambios políticos y sociales en Europa. Los Illuminati, sociedad secreta, surgieron en este contexto, influyendo en ideas de libertad y reforma, con repercusiones en comunidades judías y europeas.",
-          "cities": ["Europa Central"]
+          "name": "Inicio de la Guerra de los 30 Años",
+          "text": "En 1618 comienza la Guerra de los Treinta Años entre católicos y protestantes. Varias comunidades asquenazíes en Bohemia y Alemania son expulsadas y sufren persecuciones bajo la ocupación imperial.",
+          "cities": ["Praga", "Viena", "Breslau"]
         }
       ]
     }

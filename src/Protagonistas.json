@@ -1,5 +1,15 @@
 [
   {
+    "year": "1250 a.C.",
+    "male": "Aaron Hakohen",
+    "female": "Miriam"
+  },
+  {
+    "year": "1200 a.C.",
+    "male": "Eleazar",
+    "female": "?"
+  },
+  {
     "year": "c. 20 a.C. - 10 d.C.",
     "male": "Herodes el Grande (hakohen supervisando Templo)",
     "female": "Mical (resistencia femenina)"
@@ -23,5 +33,25 @@
     "year": "c. 50-70 d.C.",
     "male": "Simeon ben Gamaliel",
     "female": "Yalta (mujer fuerte en el Talmud)"
+  },
+  {
+    "year": "1850",
+    "male": "Mordejai Reuben Hakohen Sinay",
+    "female": "Rifka (Reina) "
+  },
+  {
+    "year": "1898",
+    "male": "León (Arn Leowe) Sinay",
+    "female": "Ana"
+  },
+  {
+    "year": "reconstruccion",
+    "male": "Abraham",
+    "female": "Rosa"
+  },
+  {
+    "year": "1991",
+    "male": "Lidiador Sinay",
+    "female": "Lidia Dora Sinay"
   }
 ]

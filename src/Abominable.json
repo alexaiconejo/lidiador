@@ -1,0 +1,188 @@
+{
+  "title": "Abominable",
+  "duration": "1991 - hoy",
+  "years": [
+    {
+      "year": "1991",
+      "events": [
+        {
+          "name": "Nacimiento de Lidiador",
+          "text": "El 6 de febrero de 1991 a las 21:55 hs nací en Buenos Aires. Un día húmedo de verano, la historia comenzó.",
+          "cities": ["Buenos Aires", "Argentina"]
+        }
+      ]
+    },
+    {
+      "year": "1993",
+      "events": [
+        {
+          "name": "Desmentido del Priorato de Sion",
+          "text": "Pierre Plantard admite ante un tribunal francés que el Priorato de Sion fue una invención. La conspiración se cae oficialmente."
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "events": [
+        {
+          "name": "Atentado a la AMIA",
+          "text": "Mueren 85 personas. En los escombros se rescatan 60.000 libros, 9.000 fotos, 120 pinturas, 17 instrumentos musicales y 32.000 diarios y revistas. La memoria se reconstruye con dolor y rescate.",
+          "cities": ["Buenos Aires"]
+        },
+        {
+          "name": "Inicio del colegio",
+          "text": "Comienza el colegio de monjas. Lloraba. Una infancia marcada por la imposición y el llanto contenido."
+        }
+      ]
+    },
+    {
+      "year": "1997",
+      "events": [
+        {
+          "name": "Arlt y el Rufián Melancólico",
+          "text": "Se publica 'La verdadera historia del Rufián Melancólico', revelando supuestos vínculos entre Roberto Arlt y Raquel Liberman con los tratantes de blancas. El pasado toma forma de novela y denuncia."
+        },
+        {
+          "name": "Mudanza a Lomas",
+          "text": "Lidiador se muda a Lomas de Zamora. Cambio de barrio, cambio de ritmo."
+        }
+      ]
+    },
+    {
+      "year": "2001",
+      "events": [
+        {
+          "name": "Crisis del 2001",
+          "text": "De la Rúa huye en helicóptero. Estallido social. La calle arde y el país también."
+        }
+      ]
+    },
+    {
+      "year": "2007",
+      "events": [
+        {
+          "name": "Árbol genealógico",
+          "text": "Empieza la búsqueda del linaje. Las ramas del pasado comienzan a desplegarse con fuerza."
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "events": [
+        {
+          "name": "Mayoría de edad",
+          "text": "El 6 de febrero cumplo 18 años. Arranca el CBC. Afuera la gripe porcina, adentro los sueños de juventud.",
+          "cities": ["Buenos Aires"]
+        },
+        {
+          "name": "Carta de Horacio",
+          "text": "El 9 de junio, Javier recibe un mail de su padre Horacio: 'Tu bisabuelo' —una pista sobre un crimen en 1889. Se abre la caja de Pandora familiar.",
+          "people": ["Javier", "Horacio"]
+        },
+        {
+          "name": "Viaje iniciático",
+          "text": "Javier viaja en tren a Santa Fe leyendo '50 años de colonización judía en la Argentina' de José Mendelson. Baja en Rafaela, duerme en un hotelucho, toma un micro a Moisés Ville. Camina por la calle Baron Hirsch, entre huellas y memorias.",
+          "cities": ["Santa Fe", "Rafaela", "Moisés Ville"]
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "events": [
+        {
+          "name": "Encuentro con Pine Katz",
+          "text": "Javier encuentra el libro de Pine Katz. Las piezas del rompecabezas comienzan a encajar en un relato inquietante."
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "events": [
+        {
+          "name": "Cine documental",
+          "text": "Filma 'Laguna' y 'Hasta el cielo'."
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "events": [
+        {
+          "name": "Publicación de 'Los crímenes de Moisés Ville'",
+          "text": "La investigación se transforma en libro. Javier revela una historia silenciada. La tinta denuncia lo que el tiempo intentó ocultar.",
+          "people": ["Javier Sinay"]
+        },
+        {
+          "name": "Reiki",
+          "text": "Me inicio en reiki"
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "events": [
+        {
+          "name": "Rodaje de 'Santos'",
+          "text": "Comienza el rodaje de 'Santos'."
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "events": [
+        {
+          "name": "Estreno de 'Santos'",
+          "text": "Se estrena 'Santos'. mi primer largometraje."
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "events": [
+        {
+          "name": "Lectura de Mirelman",
+          "text": "5 de febrero. Lectura de 'Jewish Buenos Aires, 1890–1939: In Search of an Identity' de Victor A. Mirelman. El espejo de una comunidad y sus contradicciones."
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "events": [
+        {
+          "name": "Caja de Letras",
+          "text": "Javier Sinay publica 'Caja de letras'. La memoria familiar y colectiva se sedimenta en el papel.",
+          "people": ["Javier Sinay"]
+        },
+        {
+          "name": "Tiempo de Aportes",
+          "text": "Nerina Visacovsky publica 'La Tribuna icufista: Tiempo de Aportes'. Las voces del judaísmo progresista resuenan."
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "events": [
+        {
+          "name": "El infierno prometido",
+          "text": "Gastón Ortiz Bandes publica 'El infierno prometido', una novela histórica pop sobre trata de mujeres. La ficción como testimonio.",
+          "people": ["Gastón Ortiz Bandes"]
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "events": [
+        {
+          "name": "Revelación",
+          "text": "22 de mayo, 22:32 hs. Paranoia, miedo, angustia, enojo, ansiedad. A partir del hallazgo de la Zwi Migdal, todo salió a la luz. La Polaquita, Tierra de amor y venganza, la trilogía de la trata. Golpes fuertes al corazón, presión baja cada vez que encontraba una frase clave. Llevé la cámara a lo de mi abuela. Me crucé con mi prima Rocío y mi tía Silvina. Llegaban justo mi tío y Vale. Vi a mi tío Dito. Era justo lo que necesitaba.",
+          "cities": ["Buenos Aires"],
+          "people": ["Rocío", "Silvina", "Dito", "Vale"]
+        },
+        {
+          "name": "La promesa",
+          "text": "Esa concepción patética del mundo. La tierra prometida. Los recursos naturales. Argentina. La promesa es para ellos. El mensaje es el mismo. Siempre estuvo ahí."
+        }
+      ]
+    }
+  ]
+}

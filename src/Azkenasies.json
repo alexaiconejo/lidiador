@@ -3,77 +3,452 @@
   "duration": "c. siglo XI - siglo XX",
   "years": [
     {
-      "year": "c. siglo XI - XII",
+      "year": "1250",
       "events": [
         {
-          "name": "Cruzadas y asentamiento en Worms",
-          "text": "Durante las Cruzadas, la comunidad judía en Worms sufrió ataques violentos. La familia Kalonymus se destacó como banqueros y líderes dentro del Sacro Imperio Romano Germánico, consolidando la influencia económica y cultural de los judíos asquenazíes en Europa Central[1][2].",
-          "cities": ["Worms", "Sacro Imperio Romano Germánico"]
-        },
-        {
-          "name": "Judá Halevi y El Kuzarí",
-          "text": "Judá Halevi, poeta y filósofo judío sefardí, escribió 'El Kuzarí', obra fundamental que influyó en el pensamiento judío asquenazí durante las Cruzadas en España, fortaleciendo la identidad y la reflexión teológica en tiempos de persecución[2].",
-          "cities": ["España"]
+          "name": "Nacimiento de Mordechai ben Hillel HaKohen",
+          "text": "Nace Mordechai ben Hillel HaKohen en Halberstadt, Alemania, en el seno de una familia de eruditos. Su madre, Zelda bat Jacob, lo introdujo al estudio de la Torá y la tradición sacerdotal.",
+          "cities": ["Halberstadt"]
         }
       ]
     },
     {
-      "year": "c. siglo XII",
+      "year": "1270",
       "events": [
         {
-          "name": "Eleazar Natan de Mainz e Isaac Hacohen de Worms",
-          "text": "Figuras prominentes en las comunidades de Mainz y Worms, participaron en la defensa y organización comunitaria frente a ataques, incluyendo incidentes violentos en iglesias. Su liderazgo fortaleció la cohesión social y religiosa de los asquenazíes[1][3].",
-          "cities": ["Mainz", "Worms"]
-        },
-        {
-          "name": "Nasi Abraham Ben Isaac de Narbona y Zerachia Ben Isaac",
-          "text": "Líderes rabínicos en Narbona y España, contribuyeron a la codificación legal y al fortalecimiento del judaísmo en la península ibérica, manteniendo vínculos con las comunidades asquenazíes del norte[1][3].",
-          "cities": ["Narbona", "España"]
+          "name": "Mordechai ben Hillel en Núremberg",
+          "text": "Mordechai ben Hillel HaKohen se establece en Núremberg como estudiante de Meir ben Baruch de Rothenburg.",
+          "cities": ["Núremberg"]
         }
       ]
     },
     {
-      "year": "c. siglo XIII",
+      "year": "1298",
       "events": [
         {
-          "name": "Joel Halevi de Bonn y masacres por acusaciones rituales",
-          "text": "Joel Halevi fue una figura destacada en Bonn durante una época marcada por masacres y persecuciones motivadas por acusaciones infundadas de asesinato ritual contra los judíos, que causaron gran sufrimiento y desplazamientos[1][2].",
-          "cities": ["Bonn"]
-        },
-        {
-          "name": "Kalonymus el joven (ben Yosh) de Worms",
-          "text": "Miembro de la influyente familia Kalonymus, destacó en Worms como líder espiritual y erudito, contribuyendo a la preservación y transmisión de la tradición asquenazí durante tiempos difíciles[1].",
-          "cities": ["Worms"]
-        },
-        {
-          "name": "Yachiel de París y Mordejai ben Hilel Hakohen “el Mardoqueo”",
-          "text": "Ambos fueron importantes rabinos que enfrentaron la política de Federico Barbarroja y defendieron a sus comunidades frente a presiones externas, fortaleciendo el estudio y la práctica del judaísmo asquenazí[1][2].",
-          "cities": ["París"]
+          "name": "Masacres de Rintfleisch y mártir Mordechai",
+          "text": "Durante las masacres de Rintfleisch en Franconia, Mordechai ben Hillel HaKohen es asesinado junto a su familia. Su madre logra escapar con las hijas menores y establece redes de enseñanza clandestina para huérfanas.",
+          "cities": ["Rintfleisch", "Franconia"]
         }
       ]
     },
     {
-      "year": "c. siglo XIII - XIV",
+      "year": "1300",
       "events": [
         {
           "name": "Moisés de León y el Zohar",
-          "text": "Moisés de León, místico y rabino, es tradicionalmente considerado el autor del Zohar, obra central de la cábala judía. Su trabajo tuvo un impacto profundo en la espiritualidad asquenazí y en la mística judía en general[1][2].",
-          "cities": ["España"]
+          "text": "Moisés de León, místico y rabino, es tradicionalmente considerado el autor del Zohar, obra central de la cábala judía.",
+          "cities": ["Cuenca", "Salamanca", "España"]
         }
       ]
     },
     {
-      "year": "c. siglo XIV",
+      "year": "1306",
       "events": [
         {
-          "name": "Aaron Hakoen Archot Chaim, Narbona y la peste negra",
-          "text": "Aaron Hakoen fue líder en Narbona durante la peste negra, que devastó a las comunidades judías. Su liderazgo ayudó a mantener la estructura social y religiosa en tiempos de crisis, enfrentando persecuciones y expulsiones[1][3].",
-          "cities": ["Narbona"]
-        },
+          "name": "Aharon HaKohen de Narbona y expulsión judía",
+          "text": "Aharon HaKohen, rabino provenzal y autor de 'Archot Chaim', es exiliado tras la expulsión de judíos de Francia. Organiza refugio en Aviñón para familias judías.",
+          "cities": ["Narbona", "Aviñón"]
+        }
+      ]
+    },
+    {
+      "year": "1328",
+      "events": [
         {
-          "name": "Príncipes en Bohemia y privilegios en Grodno",
-          "text": "Los judíos asquenazíes en Bohemia y Grodno gozaron de ciertos privilegios otorgados por los gobernantes locales, aunque también enfrentaron restricciones y conflictos, especialmente durante las guerras y bajo la influencia de la Orden del Dragón y los Reyes Católicos[1][2].",
-          "cities": ["Bohemia", "Grodno"]
+          "name": "Kalonymus ben Kalonymus en Aviñón",
+          "text": "Kalonymus ben Kalonymus, poeta y traductor provenzal, defiende la causa judía ante el Papa en Aviñón, fomentando la resistencia cultural durante el exilio.",
+          "cities": ["Aviñón", "Roma"]
+        }
+      ]
+    },
+    {
+      "year": "1348",
+      "events": [
+        {
+          "name": "Peste Negra y redes de apoyo HaKohen",
+          "text": "La Peste Negra arrasa Europa y pone en peligro a las comunidades judías. En Núremberg, la viuda Rachel bat Meir organiza una red de ayuda para enfermos y huérfanos, inspirada en las enseñanzas de Mordechai ben Hillel.",
+          "cities": ["Núremberg"]
+        }
+      ]
+    },
+    {
+      "year": "1492",
+      "events": [
+        {
+          "name": "Expulsión de judíos de España y migración HaKohen",
+          "text": "Con los Reyes Católicos se promulga el Decreto de Alhambra, expulsando a los judíos de España. Muchos HaKohen provenzales se trasladan al norte de Italia y al Sacro Imperio, donde fundan academias domésticas para refugiados.",
+          "cities": ["Toledo", "Venecia", "Ferrara"]
+        }
+      ]
+    },
+    {
+      "year": "1648",
+      "events": [
+        {
+          "name": "Masacres de Khmelnytsky en Polonia-Lituania",
+          "text": "Las revueltas de Bohdan Khmelnytsky provocan asesinatos de miles de judíos en Polonia-Lituania. La comunidad HaKohen de Lublin sufre grandes pérdidas y funda círculos de estudio solo para mujeres supervivientes.",
+          "cities": ["Lublin", "Cracovia"]
+        }
+      ]
+    },
+    {
+      "year": "1750",
+      "events": [
+        {
+          "name": "Bustannai HaKohen en Bagdad",
+          "text": "Bustannai HaKohen, exilarca de la comunidad en Sura, funda en Bagdad una yeshivá en la que las mujeres participan en el estudio del Talmud.",
+          "cities": ["Bagdad"]
+        }
+      ]
+    },
+    {
+      "year": "1812",
+      "events": [
+        {
+          "name": "Invasión napoleónica y emancipación parcial",
+          "text": "Con Napoleón en Rusia, varios shtetls asquenazíes reciben tolerancia temporal. En Vilna, la familia HaKohen aprovecha la apertura para incluir mujeres en la administración comunitaria.",
+          "cities": ["Vilna"]
+        }
+      ]
+    },
+    {
+      "year": "1881",
+      "events": [
+        {
+          "name": "Pogromos en el Imperio Ruso y emigración HaKohen",
+          "text": "Tras el asesinato de Alejandro II, estallan pogromos en el Imperio Ruso. La familia HaKohen de Odessa organiza partidas de refugiados hacia América, estableciendo redes de ayuda en Nueva York.",
+          "cities": ["Odessa", "Nueva York"]
+        }
+      ]
+    },
+    {
+      "year": "1908",
+      "events": [
+        {
+          "name": "Muhá Bacha y refugio en Vilna",
+          "text": "Durante las agitaciones políticas en el Imperio Ruso, Muhá Bacha HaKohen funda en Vilna un círculo literario feminista donde mujeres judías debaten igualdad de género y autonomía comunitaria.",
+          "cities": ["Vilna"]
+        }
+      ]
+    },
+    {
+      "year": "1388",
+      "events": [
+        {
+          "name": "Carta de privilegios en Trakai",
+          "text": "El Gran Duque de Lituania Otón de Wartenberg concede privilegios a los judíos de Trakai, estableciendo derechos de comercio y protección judicial. Desde entonces, la comunidad HaKohen se asentó en la región.",
+          "cities": ["Trakai"]
+        }
+      ]
+    },
+    {
+      "year": "1389",
+      "events": [
+        {
+          "name": "Privilegios en Grodno",
+          "text": "Se extienden privilegios a la comunidad judía en Grodno, permitiendo la creación de sinagogas y escuelas de estudio.",
+          "cities": ["Grodno"]
+        }
+      ]
+    },
+    {
+      "year": "1392",
+      "events": [
+        {
+          "name": "Tratado de Vytautas (Acuerdo de Ostrow)",
+          "text": "El Gran Duque Vytautas firma el Acuerdo de Ostrow con el rey Vladislao II Jagellón, confirmando derechos a las comunidades judías lituanas.",
+          "cities": ["Vilna", "Ostrow"]
+        }
+      ]
+    },
+    {
+      "year": "1398",
+      "events": [
+        {
+          "name": "Alianza de Vytautas con los mongoles",
+          "text": "Vytautas se alía con los mongoles para controlar el Mar Negro y fortalecer su posición en la región báltica.",
+          "cities": ["Vilna", "Mar Negro"]
+        }
+      ]
+    },
+    {
+      "year": "1399",
+      "events": [
+        {
+          "name": "Alianza cristiana y masacre en Posen",
+          "text": "Vytautas se une a los cristianos contra los mongoles y sufre derrota. En Posen, representantes de la comunidad judía son ejecutados bajo acusaciones de profanación de la hostia.",
+          "cities": ["Posen", "Poznań"]
+        }
+      ]
+    },
+    {
+      "year": "1400",
+      "events": [
+        {
+          "name": "Primeras influencias renacentistas en Vilna",
+          "text": "Algunas comunidades HaKohen de Vilna adoptan innovaciones culturales de Europa Occidental, iniciando traducciones médicas y textos humanísticos al hebreo.",
+          "cities": ["Vilna"]
+        }
+      ]
+    },
+    {
+      "year": "1407",
+      "events": [
+        {
+          "name": "Primer libelo de sangre en Cracovia",
+          "text": "En Cracovia aparece el primer libelo de sangre contra judíos, obligando a muchos a refugiarse en la iglesia de Santa Ana, que luego es incendiada. El Concilio de la Regencia restituye legislación antijudía.",
+          "cities": ["Cracovia"]
+        }
+      ]
+    },
+    {
+      "year": "1408",
+      "events": [
+        {
+          "name": "Segismundo de Hungría y la Orden del Dragón",
+          "text": "En 1408, Segismundo de Hungría funda la Orden del Dragón para defender el cristianismo contra el Imperio Otomano.",
+          "cities": ["Buda", "Hungría"]
+        }
+      ]
+    },
+    {
+      "year": "1410",
+      "events": [
+        {
+          "name": "Batalla de Grunwald",
+          "text": "La coalición polaco-lituana derrota a los Caballeros Teutónicos en Grunwald, marcando un punto de inflexión en la historia de la región báltica.",
+          "cities": ["Grunwald"]
+        }
+      ]
+    },
+    {
+      "year": "1413",
+      "events": [
+        {
+          "name": "Disputa de Tortosa",
+          "text": "Don Fernando de Aragón inaugura la Disputa de Tortosa para forzar la conversión de judíos. Ningún argumento judío se registró oficialmente y el Talmud es prohibido.",
+          "cities": ["Tortosa", "Aragón"]
+        }
+      ]
+    },
+    {
+      "year": "1414",
+      "events": [
+        {
+          "name": "Guerra del hambre en Europa",
+          "text": "Europa sufre una hambruna prolongada que afecta a todas las comunidades. En Vilna, se organizan despensas comunitarias para sostener a los más vulnerables.",
+          "cities": ["Vilna"]
+        }
+      ]
+    },
+    {
+      "year": "1415",
+      "events": [
+        {
+          "name": "Federico III asume el imperio",
+          "text": "Federico III asume el título de Emperador del Sacro Imperio. En Silesia, se imponen restricciones mayores a las comunidades judías.",
+          "cities": ["Breslau", "Silesia"]
+        }
+      ]
+    },
+    {
+      "year": "1420",
+      "events": [
+        {
+          "name": "Acusaciones en Viena y expulsión en Lyon",
+          "text": "Alberto V de Austria acusa a judíos de Viena de profanar hostias; muchos son encarcelados. Lyon expulsa a todos los judíos ese mismo año.",
+          "cities": ["Viena", "Lyon"]
+        }
+      ]
+    },
+    {
+      "year": "1421",
+      "events": [
+        {
+          "name": "Represalias en Viena",
+          "text": "El Archiduque Alberto respalda acusaciones contra la comunidad judía de Viena, con bautismos forzosos y expulsiones masivas.",
+          "cities": ["Viena"]
+        }
+      ]
+    },
+    {
+      "year": "1422",
+      "events": [
+        {
+          "name": "Guerra de Golub",
+          "text": "Los Caballeros Teutónicos atacan Polonia y Lituania en la guerra de Golub.",
+          "cities": ["Golub"]
+        }
+      ]
+    },
+    {
+      "year": "1427",
+      "events": [
+        {
+          "name": "Bula de Martín V",
+          "text": "El Papa Martín V prohíbe el transporte de judíos a Tierra Santa, afectando a la comunidad de Trieste.",
+          "cities": ["Roma", "Trieste"]
+        }
+      ]
+    },
+    {
+      "year": "1429",
+      "events": [
+        {
+          "name": "Juana de Arco y acción humanitaria",
+          "text": "En Orleans, Juana de Arco lidera la victoria francesa. En Rouen, algunos simpatizantes judíos organizan ayuda a los pobladores afectados.",
+          "cities": ["Orleans", "Rouen"]
+        }
+      ]
+    },
+    {
+      "year": "1434",
+      "events": [
+        {
+          "name": "Concilio de Basilea",
+          "text": "El Concilio de Basilea prohíbe a los judíos asistir a universidades y refuerza restricciones sobre su educación.",
+          "cities": ["Basel", "Zúrich"]
+        }
+      ]
+    },
+    {
+      "year": "1442",
+      "events": [
+        {
+          "name": "Bula de Martín V y sus efectos",
+          "text": "El Papa Martín V emite y luego retira una Bula que prohibía incitar contra los judíos, tras influencias políticas en Roma.",
+          "cities": ["Roma"]
+        }
+      ]
+    },
+    {
+      "year": "1447",
+      "events": [
+        {
+          "name": "Vlad II Dracul en Valaquia",
+          "text": "Vlad II Dracul asume el trono de Valaquia. Jakob ben Chajim, rabino de Worms, visita la corte como consejero.",
+          "cities": ["Valaquia", "Worms"]
+        }
+      ]
+    },
+    {
+      "year": "1449",
+      "events": [
+        {
+          "name": "Revuelta en Toledo",
+          "text": "Un alzamiento contra nuevos conversos en Toledo deja centenares de víctimas y expulsiones de marranos.",
+          "cities": ["Toledo"]
+        }
+      ]
+    },
+    {
+      "year": "1452",
+      "events": [
+        {
+          "name": "Juan de Capistrano y expulsiones en Baviera",
+          "text": "Juan de Capistrano convence a duques bávaros de expulsar a los judíos. En Breslau, muchos son quemados y crucificados.",
+          "cities": ["Baviera", "Breslau", "Wurzburg"]
+        }
+      ]
+    },
+    {
+      "year": "1454",
+      "events": [
+        {
+          "name": "Derrota polaca y ataques antijudíos",
+          "text": "Tras la derrota de Polonia ante la Orden Teutónica, el obispo Zbignev declara el malestar como castigo divino y las masacres se extienden en Cracovia.",
+          "cities": ["Cracovia", "Prusia"]
+        }
+      ]
+    },
+    {
+      "year": "1455",
+      "events": [
+        {
+          "name": "Masacre de judíos en Cracovia",
+          "text": "Una turba ataca y asesina a la comunidad judía de Cracovia; muchos logran huir a Lviv.",
+          "cities": ["Cracovia", "Lviv"]
+        }
+      ]
+    },
+    {
+      "year": "1459",
+      "events": [
+        {
+          "name": "Nace Maximiliano I de Habsburgo",
+          "text": "Maximiliano I de Habsburgo, futuro Emperador, nace en Wiener Neustadt; su reinado impactaría a las comunidades judías de la región.",
+          "cities": ["Wiener Neustadt", "Viena"]
+        }
+      ]
+    },
+    {
+      "year": "1464",
+      "events": [
+        {
+          "name": "David Kalonymus ben Jacob y la astrología",
+          "text": "David Kalonymus ben Jacob, astrólogo judío italiano, publica tratados en Nápoles y Viena, influyendo en el estudio de astronomía entre judíos asquenazíes.",
+          "cities": ["Nápoles", "Viena"]
+        }
+      ]
+    },
+    {
+      "year": "1478",
+      "events": [
+        {
+          "name": "Nacimiento de Felipe el Hermoso",
+          "text": "Felipe el Hermoso nace en Brujas; durante su vida, las políticas imperiales afectarían a la diáspora judía en Europa Occidental.",
+          "cities": ["Brujas"]
+        }
+      ]
+    },
+    {
+      "year": "1480",
+      "events": [
+        {
+          "name": "Nacimiento del Maharal de Praga",
+          "text": "Jose Chaim Loew (Maharal) nace en Praga, marcando el inicio de una gran influencia rabínica asquenazí en Europa Central.",
+          "cities": ["Praga"]
+        }
+      ]
+    },
+    {
+      "year": "1484",
+      "events": [
+        {
+          "name": "Bula Summis Desiderantes Affectibus",
+          "text": "El papa Inocencio VIII publica la bula que legitima la persecución de brujas, afectando indirectamente a judías acusadas de prácticas esotéricas.",
+          "cities": ["Roma"]
+        }
+      ]
+    },
+    {
+      "year": "1485",
+      "events": [
+        {
+          "name": "Fracaso de Heinrich Kramer en Innsbruck",
+          "text": "Heinrich Kramer intenta procesar a mujeres por brujería en Innsbruck, pero el obispo local desautoriza sus acusaciones.",
+          "cities": ["Innsbruck"]
+        }
+      ]
+    },
+    {
+      "year": "1487",
+      "events": [
+        {
+          "name": "Publicación del Malleus Maleficarum",
+          "text": "El Sacro Imperio vive crisis religiosa e inestabilidad. Heinrich Kramer publica el Malleus Maleficarum, exacerbando la caza de brujas en Europa.",
+          "cities": ["Estrasburgo", "Aquisgrán"]
+        }
+      ]
+    },
+    {
+      "year": "1488",
+      "events": [
+        {
+          "name": "Nacimiento de Yosef ben Efraim Caro",
+          "text": "Yosef ben Efraim Caro nace en Toledo, futuro autor del 'Shulján Aruj', codificación de la Halajá que influiría en judíos asquenazíes y sefardíes por siglos.",
+          "cities": ["Toledo"]
         }
       ]
     }

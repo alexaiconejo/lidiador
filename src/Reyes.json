@@ -3,106 +3,171 @@
   "duration": "c. 1010 - 586 a.C.",
   "years": [
     {
-      "year": "c. 1010-970 a.C.",
+      "year": "1010 a.C.",
       "events": [
         {
           "name": "Abiathar y el reinado de David",
-          "text": "Abiathar, hijo de Ahimelec, fue el único sacerdote sobreviviente tras la masacre ordenada por Saúl y apoyó a David durante su reinado. Fue un aliado clave en la consolidación del poder davídico, pero fue destituido por Salomón, quien lo reemplazó por Zadok, marcando el fin de la línea sacerdotal de Itamar y el retorno de la de Eleazar. Esta transición refleja tensiones internas en la línea hakohen y la centralización del poder religioso.",
-          "cities": ["Jerusalén"]
-        },
+          "text": "Abiathar, hijo de Ahimelec y nieto de Ahitob, sobrevivió a la masacre de Nob ordenada por Saúl, quien temía que los sacerdotes apoyaran a David (1 Samuel 22). Abiathar se convirtió en sacerdote durante el reinado de David, siendo un pilar en la legitimación religiosa del rey.",
+          "cities": ["Jerusalén", "Nob"]
+        }
+      ]
+    },
+    {
+      "year": "1009 a.C.",
+      "events": [
         {
-          "name": "División de los sacerdotes en 24 grupos",
-          "text": "Según 1 Crónicas 24, David organizó a los sacerdotes en 24 divisiones (mishmarot) para administrar el servicio en el Templo. Esta organización permitió una rotación ordenada y una mayor estabilidad en el culto, reflejando una estructura jerárquica que reforzaba la autoridad masculina y excluía a las mujeres del sacerdocio oficial.",
+          "name": "El harén de David: Mical y Betsabé",
+          "text": "Durante el reinado de David, Mical, hija del rey Saúl y primera esposa de David, y Betsabé, madre de Salomón, fueron figuras femeninas influyentes en el harén real. Betsabé, viuda de Urías y esposa de David, jugó un rol en asegurar la sucesión de su hijo Salomón.",
           "cities": ["Jerusalén"]
         }
       ]
     },
     {
-      "year": "c. 980-930 a.C.",
+      "year": "980 a.C.",
       "events": [
         {
           "name": "Ahimaaz, hijo de Zadok",
-          "text": "Ahimaaz sirvió como sacerdote durante el reinado de Salomón y es mencionado como mensajero clave durante la rebelión de Absalón (2 Samuel 15:27). Su rol refleja la continuidad de la línea sacerdotal de Eleazar y la importancia de la familia Zadokita en la política religiosa.",
+          "text": "Ahimaaz, hijo del sacerdote Zadok y miembro de la línea sacerdotal de Eleazar, sirvió como mensajero durante la rebelión de Absalón, hijo de David. Maacá, madre de Absalón, fue una figura destacada en la familia real.",
           "cities": ["Jerusalén"]
         }
       ]
     },
     {
-      "year": "c. 950-900 a.C.",
+      "year": "979 a.C.",
       "events": [
         {
-          "name": "Azariah I",
-          "text": "Azariah, descendiente de Zadok, sirvió como sacerdote en el reinado de Salomón. Su nombre común en la genealogía sacerdotal indica la continuidad del linaje hakohen y su influencia en el culto oficial.",
+          "name": "Harenes reales y sucesión",
+          "text": "Los harenes reales funcionaban como espacios estratégicos para alianzas políticas, con mujeres que influían en la sucesión y decisiones de poder. Aunque los sacerdotes estaban apartados de estos espacios, el harén intervenía indirectamente en nombramientos y facciones del poder.",
           "cities": ["Jerusalén"]
         }
       ]
     },
     {
-      "year": "c. 870-800 a.C.",
+      "year": "950 a.C.",
+      "events": [
+        {
+          "name": "Azariah I y el templo bajo Salomón",
+          "text": "Azariah I, hijo de Ahimaaz y nieto de Zadok, ejerció como sacerdote durante el apogeo del Reino Unido bajo Salomón, hijo de David y Betsabé. Fue testigo del esplendor del Primer Templo y del fortalecimiento del poder sacerdotal.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "949 a.C.",
+      "events": [
+        {
+          "name": "Naamá y la consolidación del harén de Salomón",
+          "text": "El harén de Salomón incluyó a mujeres extranjeras, como Naamá la amonita, madre de Roboam. Estas mujeres reforzaban alianzas políticas, aunque también introducían tensiones culturales y religiosas.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "870 a.C.",
       "events": [
         {
           "name": "Joash, sacerdote en Judá",
-          "text": "Joash fue sacerdote en el Reino de Judá, aunque su papel específico no está bien documentado. Su época estuvo marcada por tensiones políticas y religiosas, con la persistencia de prácticas idolátricas que los sacerdotes trataron de erradicar.",
+          "text": "Joash ejerció su sacerdocio en tiempos de la reina madre Atalía, hija de Acab y Jezabel, quien gobernó Judá tras la muerte de su hijo Ocozías. El sacerdocio luchaba por mantener la pureza del culto en medio del sincretismo religioso promovido por la corte.",
           "cities": ["Judá"]
-        },
+        }
+      ]
+    },
+    {
+      "year": "869 a.C.",
+      "events": [
         {
-          "name": "Jehoiada, sumo sacerdote",
-          "text": "Jehoiada fue sumo sacerdote durante el reinado de la reina Atalía y Joás. Lideró la restauración del templo y la eliminación de la idolatría (2 Reyes 11). Su influencia política fue decisiva para mantener la pureza religiosa y el poder sacerdotal, destacando el rol activo de los hakohen en la lucha contra la corrupción religiosa.",
+          "name": "El harén como centro de poder paralelo",
+          "text": "Las concubinas reales tenían influencia en las decisiones políticas y religiosas. La rivalidad dentro del harén afectaba la estabilidad del reino, y la sexualidad era utilizada como instrumento de alianzas y control sucesorio.",
+          "cities": ["Judá"]
+        }
+      ]
+    },
+    {
+      "year": "800 a.C.",
+      "events": [
+        {
+          "name": "Jehoiarib y la decadencia espiritual",
+          "text": "Jehoiarib lideró una división sacerdotal en tiempos de decadencia espiritual. Los sacerdotes enfrentaban la tarea de preservar su pureza frente al aumento del sincretismo y la corrupción emanada desde la corte.",
           "cities": ["Jerusalén"]
         }
       ]
     },
     {
-      "year": "c. 800-750 a.C.",
+      "year": "799 a.C.",
       "events": [
         {
-          "name": "Jehoiarib, cabeza de una división sacerdotal",
-          "text": "Jehoiarib lideró una de las 24 divisiones sacerdotales establecidas por David (1 Crónicas 24:7). Su descendencia sirvió en el Templo, evidenciando la importancia de las familias sacerdotales en la administración religiosa.",
+          "name": "Maacá y el culto a Asera",
+          "text": "Maacá, madre del rey Asa, fue retirada de su posición por promover el culto a Asera, lo que refleja los límites del poder femenino cuando entraba en conflicto con las reformas religiosas impulsadas por el sacerdocio.",
           "cities": ["Jerusalén"]
         }
       ]
     },
     {
-      "year": "c. 740-700 a.C.",
+      "year": "740 a.C.",
       "events": [
         {
-          "name": "Uriah, sacerdote bajo el rey Acaz",
-          "text": "Uriah participó en la construcción de un altar conforme a un modelo damasceno (2 Reyes 16:10-16), reflejando la influencia extranjera y las tensiones entre tradición y sincretismo religioso en Judá.",
+          "name": "Uriah y la introducción de cultos extranjeros",
+          "text": "Uriah sirvió como sacerdote durante el reinado de Acaz, quien introdujo altares damascenos en Jerusalén. La influencia extranjera alteraba las prácticas religiosas tradicionales y debilitaba la autoridad sacerdotal.",
           "cities": ["Jerusalén", "Damasco"]
-        },
-        {
-          "name": "Jotham, posible sacerdote",
-          "text": "Aunque más conocido como rey de Judá, Jotham podría haber tenido un homónimo en la línea sacerdotal, reflejando la frecuente superposición entre roles religiosos y políticos.",
-          "cities": ["Judá"]
         }
       ]
     },
     {
-      "year": "c. 640-580 a.C.",
+      "year": "739 a.C.",
       "events": [
         {
-          "name": "Hilkiah, sumo sacerdote",
-          "text": "Hilkiah fue sumo sacerdote durante el reinado del rey Josías y es conocido por descubrir el 'Libro de la Ley' en el Templo (2 Reyes 22:8-10). Este hallazgo impulsó una reforma religiosa que buscó erradicar la idolatría y reafirmar la autoridad sacerdotal, evidenciando la lucha interna por la pureza religiosa.",
-          "cities": ["Jerusalén"]
-        },
-        {
-          "name": "Shallum, sumo sacerdote",
-          "text": "Según la tradición, Shallum fue sumo sacerdote poco antes de la destrucción del Primer Templo, en un período de crisis espiritual y política que culminó con la caída de Jerusalén.",
+          "name": "Decadencia del harén y crisis religiosa",
+          "text": "El harén, antes instrumento de consolidación monárquica, se convirtió en un espacio influenciado por cultos extranjeros. La sexualidad se politizó, reflejando la crisis moral y religiosa de la época.",
           "cities": ["Jerusalén"]
         }
       ]
     },
     {
-      "year": "c. 620-586 a.C.",
+      "year": "640 a.C.",
       "events": [
         {
-          "name": "Seraiah, último sumo sacerdote del Primer Templo",
-          "text": "Seraiah fue el último sumo sacerdote antes de la destrucción del Primer Templo por Nabucodonosor en 586 a.C. (2 Reyes 25:18). Su época estuvo marcada por la decadencia espiritual y la pérdida de la autonomía de Judá, reflejando la crisis del sacerdocio hakohen.",
+          "name": "Hilkiah y la reforma de Josías",
+          "text": "Hilkiah, sumo sacerdote y padre de Safán, descubrió el 'Libro de la Ley' durante las reformas del rey Josías. Esta reforma centralizó el culto en Jerusalén, prohibió cultos ajenos y reguló el harén real con severidad.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "639 a.C.",
+      "events": [
+        {
+          "name": "Jedidá y las mujeres del harén reformado",
+          "text": "Jedidá, madre de Josías, fue una figura influyente en el harén. Durante la reforma, muchas mujeres fueron apartadas por vínculos con cultos extranjeros, mostrando el nuevo rol subordinado del harén frente al poder sacerdotal.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "620 a.C.",
+      "events": [
+        {
+          "name": "Seraiah, último sumo sacerdote",
+          "text": "Seraiah, considerado padre de Esdras según tradición, fue uno de los últimos sumos sacerdotes del Primer Templo. Su liderazgo coincidió con el colapso del poder real y la inminente amenaza de Babilonia.",
+          "cities": ["Jerusalén"]
+        }
+      ]
+    },
+    {
+      "year": "619 a.C.",
+      "events": [
+        {
+          "name": "Nehusta, la reina en el exilio",
+          "text": "Nehusta, esposa del rey Joaquín, fue deportada junto a su esposo a Babilonia. Su figura simboliza el fin de la influencia de las mujeres cortesanas y la caída del harén como institución.",
           "cities": ["Jerusalén", "Babilonia"]
-        },
+        }
+      ]
+    },
+    {
+      "year": "586 a.C.",
+      "events": [
         {
-          "name": "Exilio babilónico y pérdida del Arca",
-          "text": "Durante el exilio babilónico, el Templo fue destruido y se perdió el Arca de la Alianza, un símbolo central del culto israelita. La comunidad sacerdotal hakohen sufrió la dispersión y la pérdida de poder político y religioso, enfrentando un desafío existencial para preservar su identidad y tradiciones.",
+          "name": "Exilio babilónico y pérdida del Templo",
+          "text": "Con la destrucción del Templo, el sacerdocio se desplazó hacia formas legales y comunitarias. Las mujeres como Susana y otras matriarcas jugaron un rol clave en la conservación de la identidad durante el exilio.",
           "cities": ["Babilonia", "Jerusalén"]
         }
       ]

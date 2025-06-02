@@ -1,104 +1,291 @@
 {
   "title": "SANTO DE LOS SANTOS",
-  "duration": "1.200 - 587 AC",
+  "duration": "1250 - 985 a.C.",
   "years": [
+  {
+  "year": "1270 a.C.",
+  "events": [
     {
-      "year": "c. 1250 a.C.",
+      "name": "Nacimiento de Moisés",
+      "text": "En tiempos de gran tensión en Egipto, el faraón ordenó eliminar a todos los varones hebreos recién nacidos para controlar a la creciente población esclava. En medio de esta amenaza, la madre de Moisés decidió salvarlo colocando al bebé en una canasta sobre el río Nilo. La hija del faraón encontró al niño y lo crió en el palacio real. Por decisión silenciosa, la madre biológica permaneció cerca, amamantando a Moisés en secreto, mientras él crecía entre el lujo del palacio y la vida humilde de su pueblo."
+      ,
+      "cities": [
+        "Egipto"
+      ]
+    }
+  ]
+},
+{
+  "year": "1265 a.C.",
+  "events": [
+    {
+      "name": "Moisés asesina a un guardia egipcio",
+      "text": "Un día, Moisés vio a un guardia maltratando a un esclavo hebreo. La rabia estalló en su pecho. En un impulso violento, golpeó al egipcio y lo mató. Supo entonces que su vida en el palacio estaba condenada. Huir era la única salida.",
+      "cities": ["Egipto"]
+    }
+  ]
+},
+
+ {
+  "year": "1250 a.C.",
+  "events": [
+    {
+      "name": "Reencuentro con Aarón y Miriam",
+      "text": "En Madián, Moisés encontró refugio y silencio. Dios lo llamó desde una zarza que ardía sin consumirse. Temeroso, buscó apoyo en su hermano Aarón, quien lo aguardaba en el desierto. Miriam, su hermana, también acompañaba desde lejos, guardiana de su historia y de la promesa que aún debía cumplir.",
+      "cities": ["Madián", "Egipto"]
+    }
+  ]
+}
+,
+    {
+      "year": "1249 a.C.",
       "events": [
         {
-          "name": "Aarón y Moisés",
-          "text": "Aarón y Moisés lideraron la salida de Egipto según el relato bíblico (Éxodo 1-40). El sacerdocio se estableció como una línea patrilineal, excluyendo formalmente a las mujeres de roles sacerdotales (Levítico 21). Esta exclusión refleja el sistema patriarcal de la época, donde el poder religioso y político estaba monopolizado por hombres. Sin embargo, figuras femeninas como Miriam, profetisa y hermana de Moisés, ejercieron liderazgo espiritual (Éxodo 15:20). La Biblia registra tensiones con pueblos extranjeros, reflejando actitudes xenófobas propias de la época (Deuteronomio 7:1-5).",
-          "cities": ["Egipto", "Desierto de Sinaí"]
-        },
-        {
-          "name": "Puerta de los Leones",
-          "text": "La Puerta de los Leones en Micenas, construida con bloques ciclópeos, es un símbolo del poder militar y religioso en la cultura micénica (Wace, 1932). Aunque no vinculada directamente con Israel, refleja la importancia de símbolos de poder en sociedades patriarcales del Mediterráneo antiguo.",
-          "cities": ["Micenas"]
+          "name": "Comienzo de las Plagas de Egipto",
+          "text": "Aarón y Moisés confrontaron al faraón con señales y plagas. Aarón, como portavoz, ejecutó milagros como convertir la vara en serpiente (Éxodo 7). Esta etapa consolidó su autoridad divina ante Israel. La participación de Aarón en actos de poder marcó el comienzo de su rol mediador entre Dios y el pueblo, antes de asumir formalmente como sacerdote.",
+          "cities": [
+            "Egipto"
+          ]
         }
       ]
     },
     {
-      "year": "c. 1200 a.C.",
+      "year": "1248 a.C.",
       "events": [
         {
-          "name": "Eleazar",
-          "text": "Eleazar, hijo de Aarón, fue sumo sacerdote durante el período del Tabernáculo (Números 20:25-28). Su rol incluía mantener la pureza ritual y las normas religiosas. Las mujeres estaban excluidas del sacerdocio, aunque algunas, como Débora, ejercieron liderazgo como juezas (Jueces 4-5). La sociedad israelita era étnicamente cerrada, con leyes que prohibían matrimonios mixtos (Números 25), reflejando una preocupación por preservar la identidad frente a los pueblos vecinos.",
-          "cities": ["Desierto de Sinaí", "Israel"]
-        },
-        {
-          "name": "Phineas, 3er Kohen Gadol",
-          "text": "Phineas es conocido por su acción violenta contra una pareja israelita y moabita (Números 25:6-13), que detuvo una plaga. Este episodio muestra la severidad con la que se aplicaban las leyes religiosas y la intolerancia hacia la mezcla con extranjeros, reflejando un contexto de xenofobia institucionalizada.",
-          "cities": ["Israel", "Moab"]
-        },
-        {
-          "name": "Edad de Hierro",
-          "text": "La Edad de Hierro trajo cambios tecnológicos y sociales. En Israel, se consolidaron estructuras tribales y patriarcales. La Biblia refleja normas estrictas sobre género y sexualidad (Levítico 18), y leyes que regulaban la exclusión de extranjeros y prácticas religiosas ajenas (Deuteronomio 7).",
-          "cities": ["Israel", "Medio Oriente"]
-        },
-        {
-          "name": "Eneas",
-          "text": "Eneas, héroe de la Eneida de Virgilio, es un personaje mitológico que simboliza la fundación de Roma tras la caída de Troya. La obra refleja valores patriarcales y la centralidad del linaje masculino. Las mujeres, como Venus, tienen roles poderosos pero subordinados a la narrativa masculina.",
-          "cities": ["Troya", "Lacio"]
+          "name": "Éxodo y el cruce del Mar Rojo",
+          "text": "Tras la décima plaga, los hebreos salieron de Egipto. Moisés guió la huida y dividió las aguas del Mar Rojo. Miriam dirigió una danza con panderos, liderando a las mujeres en canto y celebración (Éxodo 15:20-21). Este episodio destaca su papel como figura espiritual femenina, reconocida por el pueblo aunque excluida del sacerdocio formal.",
+          "cities": [
+            "Egipto",
+            "Mar Rojo"
+          ]
         }
       ]
     },
     {
-      "year": "1184 a.C.",
+      "year": "1247 a.C.",
       "events": [
         {
-          "name": "Caída de Troya y Ascanio",
-          "text": "Según la tradición romana, Ascanio fundó Alba Longa y fue antecesor de Rómulo y Remo. Las fuentes clásicas muestran que el poder se transmitía por línea masculina, y las mujeres eran piezas en alianzas políticas. La historiografía moderna destaca la función simbólica de estas narrativas para legitimar el poder patriarcal.",
-          "cities": ["Troya", "Alba Longa"]
+          "name": "Maná, agua y conflictos",
+          "text": "En el desierto, el pueblo comenzó a quejarse. Dios proveyó maná y agua milagrosamente. Aarón estuvo presente como líder visible junto a Moisés. Sin embargo, la tensión con el pueblo fue constante. La autoridad de los hermanos comenzó a consolidarse tanto en lo religioso como en lo político.",
+          "cities": [
+            "Desierto de Sinaí"
+          ]
         }
       ]
     },
     {
-      "year": "c. 1100 a.C.",
+      "year": "1246 a.C.",
       "events": [
         {
-          "name": "Bukki",
-          "text": "Bukki, hijo de Abisuá, fue sumo sacerdote durante la consolidación del culto israelita (1 Crónicas 6). La exclusión formal de mujeres del sacerdocio se mantuvo, aunque mujeres como Hulda ejercieron profecía (2 Reyes 22). La sociedad israelita aplicaba leyes que protegían la identidad étnica y religiosa, limitando la integración de extranjeros.",
-          "cities": ["Israel"]
+          "name": "Entrega de la Ley y construcción del Arca",
+          "text": "En el Monte Sinaí, Moisés recibió las Tablas de la Ley. Aarón fue designado para asistir mientras Moisés subía (Éxodo 24:14). Paralelamente, se dieron instrucciones para construir el Arca de la Alianza y el Santuario móvil (Éxodo 25-31), donde Aarón y sus hijos servirían como sacerdotes. El diseño incluía el 'Santo de los Santos', espacio exclusivo para el sumo sacerdote una vez al año.",
+          "cities": [
+            "Monte Sinaí"
+          ]
         }
       ]
     },
     {
-      "year": "c. 1080 a.C.",
+      "year": "1245 a.C.",
       "events": [
         {
-          "name": "Uzzi",
-          "text": "Uzzi continuó la línea sacerdotal (1 Crónicas 6). La Biblia registra tensiones sociales y religiosas, con normas estrictas sobre pureza y exclusión. La homosexualidad era condenada explícitamente (Levítico 18:22), reflejando la moral patriarcal dominante.",
-          "cities": ["Israel"]
+          "name": "El Becerro de Oro",
+          "text": "Mientras Moisés estaba en el monte, Aarón cedió a la presión del pueblo y fabricó un becerro de oro (Éxodo 32). Este acto fue condenado severamente. Moisés rompió las tablas y ordenó castigo. A pesar de este pecado, Aarón fue perdonado y posteriormente consagrado como Sumo Sacerdote. Este episodio revela las tensiones internas en la conducción espiritual y política.",
+          "cities": [
+            "Monte Sinaí"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1244 a.C.",
+      "events": [
+        {
+          "name": "Consagración de Aarón como Sumo Sacerdote",
+          "text": "Dios ordenó a Moisés consagrar a Aarón y a sus hijos (Éxodo 28-29; Levítico 8-9). Aarón vistió ropas sagradas, incluyendo el efod y el pectoral. Se estableció el rol exclusivo del Kohen Gadol, encargado de los sacrificios y de entrar una vez al año al 'Santo de los Santos' en Yom Kippur. Este acto institucionalizó el sacerdocio patrilineal, excluyendo a mujeres y a otras tribus.",
+          "cities": [
+            "Tabernáculo del desierto"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1243 a.C.",
+      "events": [
+        {
+          "name": "La vara de almendro de Aarón",
+          "text": "Tras una rebelión de los levitas (Números 17), Dios mandó colocar una vara por cada jefe tribal. Sólo la de Aarón floreció, confirmando su elección divina como Sumo Sacerdote. Este milagro selló su legitimidad ante las tribus. La vara fue guardada en el Arca, junto a las Tablas y una porción de maná.",
+          "cities": [
+            "Desierto"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1242 a.C.",
+      "events": [
+        {
+          "name": "Roles diferenciados de Moisés y Aarón",
+          "text": "Moisés continuó como profeta y líder político; Aarón se dedicó al culto. Esta división de funciones refleja la creación de una estructura institucional en el campamento israelita: poder espiritual-sacerdotal (Aarón) y poder profético-legal (Moisés). Miriam continuó siendo reconocida como profetisa, aunque tuvo un conflicto con sus hermanos en Números 12, que terminó con un castigo divino por cuestionar la autoridad de Moisés.",
+          "cities": [
+            "Campamento israelita"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1241 a.C.",
+      "events": [
+        {
+          "name": "Muerte de Miriam",
+          "text": "Miriam murió en Cades (Números 20:1). Su muerte marcó el fin de una generación de líderes espirituales. Aunque excluida del sacerdocio, su figura es crucial como símbolo del liderazgo femenino en el relato bíblico.",
+          "cities": [
+            "Cades"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1240 a.C.",
+      "events": [
+        {
+          "name": "Muerte de Aarón",
+          "text": "Aarón murió en el monte Hor (Números 20:22-29). Debido a una desobediencia de Aarón y Moisés en Meribá, Dios decretó que no entrarían en la Tierra Prometida y que Aarón moriría en ese lugar. Antes de morir, Moisés le quitó las vestiduras sacerdotales y se las entregó a su hijo Eleazar, quien fue designado para sucederlo como Sumo Sacerdote. Esta transición marcó el primer relevo generacional en el linaje de los Kohanim Gedolim, asegurando la continuidad del sacerdocio levítico.",
+          "cities": [
+            "Monte Hor",
+            "Meribá"
+          ]
         },
         {
-          "name": "Ahitub",
-          "text": "Ahitub sirvió en un período de transición (1 Samuel 14). La Biblia documenta conflictos entre sacerdotes y reyes, reflejando luchas por el poder en un sistema patriarcal. La exclusión de mujeres y extranjeros persistió, aunque algunas mujeres ejercieron influencia política indirecta.",
-          "cities": ["Israel"]
+          "name": "Muerte de Nadab y Abiú",
+          "text": "Los hijos mayores de Aarón, Nadab y Abiú, murieron al ofrecer 'fuego extraño' (Levítico 10:1-2), un sacrificio no autorizado según las estrictas normas del culto levítico. Este episodio ejemplifica la severidad de las leyes rituales y la intolerancia divina hacia cualquier desviación en el servicio al Tabernáculo. Como consecuencia, sólo Eleazar y otro hijo de Aarón, Itamar, quedaron habilitados para ejercer el sacerdocio, fortaleciendo así la disciplina y pureza del sistema religioso israelita.",
+          "cities": [
+            "Desierto de Sinaí"
+          ]
         }
       ]
     },
     {
-      "year": "c. 1050 a.C.",
+      "year": "1239 a.C.",
       "events": [
         {
-          "name": "Eli",
-          "text": "Eli fue sumo sacerdote y juez (1 Samuel 1-4). Su mandato terminó debido a la corrupción de sus hijos, lo que refleja las tensiones dentro del sistema patriarcal. Ana, madre de Samuel, es una figura femenina destacada que desafió las normas al orar por un hijo, mostrando la agencia femenina dentro de límites sociales estrictos.",
-          "cities": ["Israel"]
-        },
-        {
-          "name": "Ahijah (Ahías)",
-          "text": "Ahijah fue sacerdote durante el reinado de Saúl (1 Samuel 14). La Biblia muestra un contexto de tensiones políticas y religiosas, con exclusión de minorías y control masculino del poder religioso.",
-          "cities": ["Israel"]
+          "name": "Eleazar asume como Kohen Gadol",
+          "text": "Tras la muerte de Aarón, Eleazar asumió el cargo de Sumo Sacerdote (Números 20:28), encargándose de mantener la continuidad y la estricta observancia del culto en el Tabernáculo. Durante su mandato no se registraron episodios de rebeldía ni desviaciones graves, lo que indica un fortalecimiento de la autoridad sacerdotal y un mayor respeto por las leyes de pureza y ritualidad. Eleazar estableció una era de disciplina y orden en el sistema religioso de Israel.",
+          "cities": [
+            "Desierto",
+            "Campamento israelita"
+          ]
         }
       ]
     },
     {
-      "year": "c. 1040-985 a.C.",
+      "year": "1210 a.C.",
       "events": [
         {
-          "name": "Ahimelec",
-          "text": "Ahimelec ayudó a David (1 Samuel 21) y fue asesinado por orden de Saúl, evidenciando la violencia política y religiosa en un sistema patriarcal y excluyente. David es una figura compleja que, aunque mantiene normas patriarcales, también muestra episodios de misericordia y alianzas con extranjeros.",
-          "cities": ["Israel"]
+          "name": "Fines de Eleazar y sucesión de Finés",
+          "text": "Finés, hijo de Eleazar, es recordado por su acción en Números 25, cuando ejecutó a una pareja israelita que cometía idolatría y relaciones ilícitas con mujeres moabitas. Esta intervención, aunque violenta, fue vista como una defensa decisiva de la pureza religiosa y moral del pueblo, y por ello Finés fue recompensado divinamente con el sacerdocio perpetuo. Su sucesión aseguró la continuidad de la línea sacerdotal y reforzó la vigilancia sobre la integridad del culto israelita.",
+          "cities": [
+            "Sitím",
+            "Israel"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1190 a.C.",
+      "events": [
+        {
+          "name": "Edad de Hierro: consolidación tribal",
+          "text": "Durante este período se asentaron las tribus israelitas en Canaán. El sacerdocio jugó un rol crucial en consolidar la identidad tribal, étnica y religiosa. Las leyes de Deuteronomio prohibían matrimonios mixtos, y se reforzó la autoridad patriarcal. No obstante, el Libro de Jueces destaca la figura de Débora, una mujer líder, juez y profetisa que lideró una victoria militar (Jueces 4–5).",
+          "cities": [
+            "Canaán",
+            "Israel"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1120 a.C.",
+      "events": [
+        {
+          "name": "Bukki, hijo de Abisúa, asume el sacerdocio",
+          "text": "Bukki fue parte de la línea sucesoria de los kohanim según 1 Crónicas 6. No se registra un hecho sobresaliente en su período, lo que indica una época posiblemente estable, aunque marcada por la exclusión sistemática de mujeres y extranjeros del culto.",
+          "cities": [
+            "Israel"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1100 a.C.",
+      "events": [
+        {
+          "name": "Uzzi continúa la línea sacerdotal",
+          "text": "Uzzi, hijo de Bukki, asumió como Kohen Gadol. La época se caracteriza por un énfasis creciente en la pureza ritual y el control religioso sobre la vida social. Las leyes de Levítico regulaban severamente la sexualidad, incluyendo la condena explícita a la homosexualidad (Levítico 18:22).",
+          "cities": [
+            "Israel"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1080 a.C.",
+      "events": [
+        {
+          "name": "Ahitub ejerce el sacerdocio durante los inicios de la monarquía",
+          "text": "Ahitub fue sacerdote en tiempos previos a la instauración del reino unido. Su ministerio ocurrió en un contexto de conflictos internos entre tribus y consolidación de estructuras centralizadas. Las mujeres, aunque ausentes del sacerdocio, comenzaron a influir en relatos proféticos y políticos, como Ana, madre de Samuel.",
+          "cities": [
+            "Israel"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1050 a.C.",
+      "events": [
+        {
+          "name": "Eli como Sumo Sacerdote y Juez",
+          "text": "Eli fue una figura dual: juez y sumo sacerdote. Según 1 Samuel, su mandato terminó trágicamente por la corrupción de sus hijos, Ofni y Finees. La historia resalta los desafíos de la transmisión familiar del poder. Ana, madre de Samuel, desafió normas al orar directamente a Dios, siendo escuchada. Su oración marca un hito de agencia femenina en la narrativa bíblica.",
+          "cities": [
+            "Silo"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1040 a.C.",
+      "events": [
+        {
+          "name": "Nacimiento de Samuel",
+          "text": "Samuel nació como respuesta al voto de Ana, quien lo dedicó al servicio en el santuario de Silo (1 Samuel 1). Aunque no fue Kohen Gadol, ejerció autoridad profética y religiosa, actuando como puente entre la era tribal y la monarquía. Su historia ilustra cómo las mujeres, como Ana, podían alterar el rumbo religioso incluso sin tener roles formales.",
+          "cities": [
+            "Silo"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1020 a.C.",
+      "events": [
+        {
+          "name": "Ahimelec apoya a David",
+          "text": "Ahimelec, descendiente de Ahitub, fue asesinado por orden de Saúl tras brindar ayuda a David (1 Samuel 21-22). Este acto refleja la tensión entre el poder político y el religioso. Abiatar, su hijo, escapó y fue el último descendiente de Elí en ejercer como sacerdote, lo que cerró una línea marcada por crisis sucesivas.",
+          "cities": [
+            "Nob"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "985 a.C.",
+      "events": [
+        {
+          "name": "Fin del sacerdocio de Abiatar",
+          "text": "Abiatar fue removido por el rey Salomón por haber apoyado a Adonías en su disputa por el trono (1 Reyes 2:26-27). Este evento marcó el fin de la línea sacerdotal de Elí y el inicio de la centralización del culto en Jerusalén bajo la dinastía davídica. Comienza así una nueva etapa en la historia del sacerdocio.",
+          "cities": [
+            "Jerusalén"
+          ]
         }
       ]
     }
