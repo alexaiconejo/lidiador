@@ -278,6 +278,46 @@
       ]
     },
     {
+  "year": "1015 a.C.",
+  "events": [
+    {
+      "name": "Samuel designa jueces a sus hijos",
+      "text": "Cuando Samuel envejeció, puso a sus hijos Joel y Abías como jueces en Beerseba. Sin embargo, ellos no siguieron su ejemplo: se dejaron corromper por la avaricia, aceptaron sobornos y pervirtieron la justicia (1 Samuel 8:1-3). Este fracaso en la sucesión sacerdotal impulsó la demanda del pueblo por un rey.",
+      "cities": ["Beerseba", "Silo"]
+    }
+  ]
+},
+    {
+  "year": "1014 a.C.",
+  "events": [
+    {
+      "name": "Rechazo a los hijos de Samuel y surgimiento de la monarquía",
+      "text": "El pueblo rechazó a los hijos de Samuel como jueces, pidiendo un rey como el resto de las naciones. Samuel se mostró reticente, pero Dios le indicó que no lo rechazaban a él, sino a Dios mismo como rey. Este momento sella el tránsito institucional de una teocracia tribal a una monarquía centralizada.",
+      "cities": ["Silo", "Ramá"]
+    }
+  ]
+},
+{
+  "year": "990 a.C.",
+  "events": [
+    {
+      "name": "Hemán, nieto de Samuel, como vidente y músico real",
+      "text": "Hemán, nieto del profeta Samuel según 1 Crónicas 6:33, fue uno de los tres levitas nombrados por David para dirigir la música en el santuario. Reconocido como 'vidente del rey', combinó función espiritual y artística en la corte. También fue el autor del Salmo 88, de tono sombrío y profundamente humano.",
+      "cities": ["Jerusalén"]
+    }
+  ]
+},
+{
+  "year": "989 a.C.",
+  "events": [
+    {
+      "name": "Los hijos y las hijas de Hemán",
+      "text": "Dios otorgó a Hemán catorce hijos y tres hijas (1 Crónicas 25:5). Todos ellos participaron en el culto musical del Templo bajo la supervisión del rey David. Los hijos de Hemán —entre ellos Buquías, Matanías, Uziel y otros— representaban una dinastía levítica de cantores que fusionaba profecía, música y liturgia.",
+      "cities": ["Jerusalén"]
+    }
+  ]
+},
+    {
       "year": "985 a.C.",
       "events": [
         {

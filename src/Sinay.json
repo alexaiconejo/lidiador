@@ -1,6 +1,6 @@
 {
   "title": "Los Secretos del Sinay",
-  "duration": "1480 - XVII",
+  "duration": "1480 - 1703",
   "years": [
   {
     "year": "1480",
@@ -244,6 +244,96 @@
           "name": "Inicio de la Guerra de los 30 Años",
           "text": "En 1618 comienza la Guerra de los Treinta Años entre católicos y protestantes. Varias comunidades asquenazíes en Bohemia y Alemania son expulsadas y sufren persecuciones bajo la ocupación imperial.",
           "cities": ["Praga", "Viena", "Breslau"]
+        }
+      ]
+    },
+      {
+      "year": "1621",
+      "events": [
+        {
+          "name": "Paz de Nikolsburg",
+          "text": "El 31 de diciembre, durante la Guerra de los Treinta Años, se firmó la Paz de Nikolsburg. Gábor Bethlen renunció al título de rey de Hungría a cambio de que el emperador Fernando II ratificara el Tratado de Viena de 1606, que reconocía la independencia de Transilvania y la libertad religiosa.",
+          "cities": ["Nikolsburg"]
+        }
+      ]
+    },
+    {
+      "year": "1628",
+      "events": [
+        {
+          "name": "Piratas y comerciantes judíos",
+          "text": "Moses Cohen Henriques, pirata sefardí, colaboró con Piet Hein para capturar la flota del tesoro español en la bahía de Matanzas, Cuba. La operación, sin derramamiento de sangre, permitió a los holandeses apoderarse de oro, plata e índigo, contribuyendo luego a la fundación de la colonia de Nueva Holanda en Brasil.",
+          "cities": ["Matanzas", "Ámsterdam"]
+        }
+      ]
+    },
+    {
+      "year": "1630",
+      "events": [
+        {
+          "name": "Represión contra pueblos originarios",
+          "text": "Entre 1630 y 1700, los pueblos originarios como los Mapuches y Vilelas sufrieron matanzas por parte de colonizadores españoles en Argentina, como parte de expediciones de sometimiento territorial.",
+          "cities": ["Mapu", "Tucumán"]
+        }
+      ]
+    },
+    {
+      "year": "1648",
+      "events": [
+        {
+          "name": "Paz de Westfalia",
+          "text": "El 24 de octubre se firmaron los tratados de Osnabrück y Münster, poniendo fin a la Guerra de los Treinta Años y estableciendo el principio moderno de soberanía nacional en Europa.",
+          "cities": ["Münster", "Osnabrück"]
+        }
+      ]
+    },
+    {
+      "year": "1654",
+      "events": [
+        {
+          "name": "Moisés Henriques huye de Brasil",
+          "text": "Tras la reconquista portuguesa del norte de Brasil, Moisés Cohen Henriques escapó y terminó como asesor de Henry Morgan, el célebre pirata del Caribe.",
+          "cities": ["Recife", "Caribe"]
+        }
+      ]
+    },
+    {
+      "year": "1668",
+      "events": [
+        {
+          "name": "Saqueo de Puerto Príncipe",
+          "text": "El 29 de marzo, filibusteros atacaron Puerto Príncipe, enfrentando a milicias locales. Encerraron vecinos en iglesias, torturaron para obtener riquezas y usaron tácticas de terror similares a las de 'El Olonés'.",
+          "cities": ["Puerto Príncipe"]
+        }
+      ]
+    },
+    {
+      "year": "1674",
+      "events": [
+        {
+          "name": "Morgan nombrado gobernador",
+          "text": "Tras saqueos en Panamá y presión diplomática, Henry Morgan fue enviado a Inglaterra. En 1674, fue nombrado caballero y regresó a Jamaica como Teniente de Gobernador.",
+          "cities": ["Londres", "Jamaica"]
+        }
+      ]
+    },
+    {
+      "year": "1698",
+      "events": [
+        {
+          "name": "Nacimiento del Baal Shem Tov",
+          "text": "Nace Israel ben Eliezer, más tarde conocido como el Baal Shem Tov, fundador del jasidismo. Vivió en la actual Ucrania y renovó la espiritualidad judía asquenazí con un enfoque místico y alegre.",
+          "cities": ["Okopy", "Medzhybizh"]
+        }
+      ]
+    },
+        {
+      "year": "1703",
+      "events": [
+        {
+          "name": "Reclutamiento forzado de judíos en el ejército ruso",
+          "text": "Durante el reinado de Pedro el Grande, el Imperio ruso intensificó el reclutamiento de jóvenes judíos para su ejército. Las comunidades asquenazíes en Lituania y Polonia intentaron resistir mediante sobornos o envío de miembros menos aptos.",
+          "cities": ["Vilna", "San Petersburgo"]
         }
       ]
     }

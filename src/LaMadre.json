@@ -2,23 +2,76 @@
   "title": "La Madre",
   "duration": "∞ - 1250 a.C.",
   "years": [
+   
+     {
+      "year": "#",
+      "events": [
+        {
+          "name": "YHVH",
+          "text": "Todas las tradiciones mitológicas y esotéricas evocan una primera era de Oro, un tiempo en el que todo estaba en armonía y en unidad con el todo. Tetragrámaton (en griego antiguo: Τετραɣράμματον [tetragrámmaton]; en latín: Tetragrammaton) es la combinación de cuatro letras hebreas יהוה transliterada como YHVH o YHWH que la Biblia hebrea emplea como nombre propio del Dios único de judíos, samaritanos y cristianos. En la cosmogonía órfica, Fanes o Fanetes (en griego antiguo Φάνης, -ητος; latín: Phănes, -ētis; «luminoso» o «revelador») es una divinidad primordial y mística. Es la deidad primigenia que constituye el origen de la procreación y la generación de todas las cosas. Identificado con el dios gnóstico Iao. Demogorgon (demiurgo, demonio, monstruo) georgeos, quien trabaja la tierra.",
+          "cities": [
+            "-0, -0"
+          ]
+        }
+      ]
+    },
     {
+      "year": "100000000000 a.C.",
+      "events": [
+        {
+          "name": "La Madre",
+          "text": "El término procede del griego antiguo χάος, espacio que se abre, o hendidura, y procede del verbo χάω, que en formas derivadas significa bostezar. Hay una primera inspiración, una inhalación del universo o primera escisión o sacrificio, un ir hacia adentro del todo y que da pie a una chispa. Lo que hay más allá, lo ultravioleta o pitido tan agudo que no se puede oír. El estado prístino del cosmos. Hesíodo utiliza «Χάος» con género neutro. Aristófanes escribe «Χάους» también como neutro, pero sugiere que pudiera ser una entidad femenina.",
+          "cities": [
+            "-0, -0"
+          ]
+        }
+      ]
+    },
+      {
+      "year": "900000 a.C.",
+      "events": [
+        {
+          "name": "La oscuridad y la noche",
+          "text": "Del Caos surgieron Érebo y la negra Noche (Nix). De la Noche a su vez nacieron el Éter y el Día (Hemera), a los que alumbró preñada en contacto amoroso con Érebo» muestra una primera división hombre mujer, es el resultado de esa primera escinción, entre polos, entre géneros. En el genesis de a biblia coincide con idea de comienzo de la creación por el cielo.",
+          "cities": [
+            "-0, -0"
+          ]
+        }
+      ]
+    },
+      {
       "year": "∞",
       "events": [
         {
-          "name": "La era de Oro",
-          "text": "Todos los textos mitológicos o esotéricos hablan de una era dorada donde los humanos vivían en armonía, sin necesidad de leyes ni castigos. Esta edad primigenia está asociada a un tiempo donde los linajes sacerdotales eran espirituales, sin distinción de género ni propiedad. Lo femenino era central y lo transicional era sagrado.",
-          "cities": [""]
-        },
+          "name": "Éter",
+          "text": "En mitología griega se le llama éter, que representa a la vez el quinto elemento, una sustancia que no es ninguna a la vez y que contiene todo lo que existe. ",
+          "cities": [
+            "∞; ∞"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "13800000000 a.C.",
+      "events": [
         {
-          "name": "Visiones primordiales",
-          "text": "El dios dragón-sol aparece en visiones junto a ángeles, demonios, planetas y elementos. Agni y Soma encarnan la dualidad sagrada, fuego y agua como génesis. Estas visiones anteceden a la figura del HaKohen como mediador entre planos. La Tierra es comprendida como cuerpo materno, útero, y templo.",
-          "cities": [""]
-        },
+          "name": "El dragón",
+          "text": "Sol de soles. El dios dragón-sol surge en los primeros registros orales. Un rayo de luz en los primeros ojos que lo persiben, en una nebulosa de vapor del magma, el el primer recuerdo de cualquier visión, una silueta serpenteante de luz. Agni y Soma encarnan la dualidad sagrada: el fuego primordial en oposición al flujo mutable que lo contiene como génesis. Este sol viaja en órbita alrededor de un sol mayor: Sagittarius A*, el centro galáctico, un agujero negro supermasivo. Así como el ombligo en relación al cuerpo, o el núcleo al átomo, giramos también como sistema alrededor de esta fuente invisible. Representa el color amarillo, la nota sol, y es llamado también Big Bang. El comienzo del tiempo",
+          "cities": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "year": "100000 a.C.",
+      "events": [
         {
-          "name": "La Madre",
-          "text": "Figura arquetípica presente en Devaki, Eva, Ishtar, Sara y Jocabed. Encarnan el inicio del linaje espiritual y la transmisión del conocimiento. Su rol será ancestral para la futura casta HaKohen, que heredará no solo por sangre, sino por vocación y conexión con lo sagrado femenino.",
-          "cities": [""]
+          "name": "Eva",
+          "text": "Figura arquetípica presente en Devaki y Eva, encarnan el símbolo primigenio de la mujer, pero también representan esotéricamente al planeta Tierra: vientre de vida y cuerpo que tiembla. Una masa planetaria que gira, que vibra, y que, al fragmentarse, podría haber dado forma a los planetas del sistema como los conocemos. Gea era hija directa del kaos, coincide con el comienzo de la biblia que creado en principio el cielo y la tierra como materia.",
+          "cities": [
+            ""
+          ]
         }
       ]
     },
@@ -26,54 +79,196 @@
       "year": "50000 a.C.",
       "events": [
         {
-          "name": "Atlántida y razas antiguas",
-          "text": "Mitos de continentes perdidos como la Atlántida, donde existían linajes solares, andróginos y transespirituales que precedieron las castas sacerdotales. Surgen las razas simbólicas y el conflicto entre pueblos. El linaje HaKohen se vincula a los pueblos semitas originarios de África, como los cusitas.",
-          "cities": ["Etiopía", "Egipto"]
-        },
-        {
-          "name": "Edad de Hierro Mítica",
-          "text": "La transición hacia el metal y la violencia marca el inicio del patriarcado como sistema. Las primeras castas sacerdotales aparecen para contener el caos, y la voz femenina se codifica en símbolos y diosas silenciadas. El linaje HaKohen resiste esta transición con memoria ritual.",
-          "cities": [""]
+          "name": "El Enemigo",
+          "text": "La misoginia es el inicio de todo hecho cultural y de la tradición oral. La reclusión en la montaña de las pitonisas, los sacrificios rituales humanos, el miedo, la enemistad, el abuso, el ejercicio de la fuerza. Saturno como una nebulosa gris. A su vez, una división entre padre e hijo: una subordinación de la masa uraniana y la aparición de una nueva masa, Saturno. La enemistad de Caín y Abel representa el enfrentamiento entre razas. La historia escrita, judeocéntrica, borra toda memoria de mujer, de extranjera o de persona transgénero. Mi misión con este escrito es reencontrarla. Eduard Schuré, en su obra xenófoba *Los Grandes Iniciados*, describe un primer momento en que la raza negra domina a la raza blanca; y se dividen entonces quienes escriben de izquierda a derecha, como los arios que se rebelan, y de derecha a izquierda, quienes se sincretizan con la gnosis negra. Xenofobia y misoginia: el origen de todo. El que se autoproclama superior.",
+          "cities": [
+            ""
+          ]
         }
       ]
     },
     {
-      "year": "8000 - 5000 a.C.",
+      "year": "12000 a.C.",
+      "events": [
+        {
+          "name": "Nadie sabe nada.",
+          "text": "Neptuno. El color azul, el espacio entre los ojos o el fondo de la pupila y la nota Si. Los Anunakis son unos supuestos seres que enseñan las primordiales enseñanzas humanas. Los atlántides, una raza perdida. Un gran hueco en la historia y, de repente, la cultura egipcia en su esplendor. Intuiciones.  Según la mitología mesopotámica, los anunnas eran, inicialmente, los dioses más poderosos y vivían con Anu Edur en el cielo. Posteriormente, sin que se haya establecido un motivo claro de este cambio, fueron los igigis los considerados como dioses celestes mientras el término anunna se empleaba para designar a los dioses del inframundo, especialmente a siete dioses que hacían la función de jueces en el inframundo.Los anunnakis son un grupo de deidades sumerias y acadias identificadas en los textos con los anunnas y los igigis, dioses mayores. En el mito de Atrahasis se afirma que, antes de la creación del ser humano, los dioses tenían que trabajar para vivir. Entonces, los anunnas lograron que una categoría de dioses inferiores, los igigis, trabajaran para ellos, hasta que se rebelaron y se negaron a seguir trabajando, entonces decidieron exterminarlos. Enki creó a la humanidad para que esta asumiera la responsabilidad de realizar las tareas que los Igigi habían abandonado y a través del culto suministrarían el alimento y oro a los dioses.",
+          "cities": [
+            "neptuno"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "7999 a.C.",
+      "events": [
+        {
+          "name": "Edad de los Metales",
+          "text": "Agricultura, domesticación. Primero habitantes en el Gran Chaco. Dominio humano sobre la tierra",
+          "cities": [
+            "Gran Chaco",
+            "Irak"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "3800 a.C.",
+      "events": [
+        {
+          "name": "El Zigurat de Ur",
+          "text": "Madre de todas las ciudades de occidente, la ciudad de Ur poseía en su epicentro un templo para adorar la deidad Sin o Nannar Dios de la luna. Cerca del monte Sinaí. La cima del templo de color azul, llamado Zigurat, de Ur también asociado al planeta Urano, dios de los Cielos u Olimpo representaba físicamente el lugar donde habitabanlos Dioses que a la vez era el mismo Rey y su familia. La red neuronal y el sistema solar, Urano representa la coronilla de la espina dorsal, el color violeta que es lo más álgido de lo perceptible y la nota musical Si.",
+          "cities": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "year": "8000 a.C.",
       "events": [
         {
           "name": "El joven Ram",
-          "text": "Ram, sabio druida transgresor, viaja por Escitia y se exilia en el monte Albori. Enseña el Zodiaco y funda el calendario de los Aryas. Su figura anticipa a los profetas HaKohen: errantes, visionarios, vinculados a lo cósmico y al ciclo lunar. Se opone a los sacrificios patriarcales.",
-          "cities": ["Balk", "Bamyan", "Occitania", "Egipto"]
-        },
-        {
-          "name": "Edad de los Metales",
-          "text": "Agricultura, domesticación y rituales con signos. La figura del HaKohen surge como aquel que consagra objetos y cuerpos. La tierra sagrada del Gran Chaco conecta con saberes del sur que influirán en migraciones posteriores. La espiritualidad transcontinental es un hecho.",
-          "cities": ["Gran Chaco", "Irak"]
+          "text": "Rama, sabio druida transgresor, se pelea con su padre y se va al bosque. El encuentro de lo masculino con lo femenino. Un hombre que llega al clan de mujeres y logra conectar. Mercurio, la comunicación, el canal, el puente que une lo uno con lo otro, lo masculino con lo femenino, lo marica, el sutil límite. Raptada la princesa y recuperada, no puede volver al clan y es excomulgada; representa a Lilith también. Representa el color verde, la garganta y la nota Re. El bioma, la necesidad de fusión entre lo uno y lo otro.",
+          "cities": [
+            "Balk",
+            "Bamyan",
+            "Occitania",
+            "Egipto"
+          ]
         }
       ]
     },
     {
-      "year": "3870 - 3300 a.C.",
+      "year": "3800 a.C.",
       "events": [
         {
-          "name": "Línea de Set",
-          "text": "Set, reemplazando a Abel, representa el desvío del linaje. De su descendencia surge Enoc, que 'camina con Dios'. Enoc encarna la línea oculta del sacerdocio HaKohen que no muere, sino que asciende. Este linaje espiritual transciende la genética y anticipa la idea del alma queer.",
-          "cities": [""]
+          "name": "Set",
+          "text": "Set es el hijo que nace luego que que Caín sea exiliado. La profecía de la salvación, jupiter, el que todo lo da. Es la esperanza de lo que no existe, por ende no es n color, sino que es iridisente, tornasol, el número áureo pi, el eterno horizonte, el ideal y la utipía. Asociado a la deidad egipcia Seth. En astrología jupiter es la expansión, la buenas suerte. Zeus como deseo de lo absoluto. Expandirse es poseerlo todo hasta serlo, al fin y al cabo quien tome el trono del Zigurat. ",
+          "cities": [
+            "Ur"
+          ]
         }
       ]
     },
     {
-      "year": "3800 - 3100 a.C.",
+      "year": "3799 a.C.",
       "events": [
         {
-          "name": "Fundación de Ur",
-          "text": "Nacimiento de la civilización sumeria. Ur será matriz del linaje HaKohen, donde se cruzan culto lunar, genealogía patriarcal y figuras de poder como Inanna, deidad de lo dual. El zigurat es símbolo del ascenso espiritual, un cuerpo en transición hacia el cielo.",
-          "cities": ["Ur"]
-        },
+          "name": "Enos",
+          "text": "significa literlmente raza humana y simbioliza todo un perhíodo de expansión humana. Sin datos de  la madre de su desendencia ni de sus hermanas. Representa también la primera victoria de la dominación masculina. La anulación de la femeneidad del relato, la palabra hombre como sinonimo de humano. Control del fuego. Prometeo. Le roba el fuego a los dioses. Llama a lo divino, es un puente que traza lo superior con lo inferior, ls tercera generación, los nietos primigenios, el apellido o el árbol de la vida. Comienza a Invocar el nombre de Yhave. El nombre del padre del padre, el abuelo Dios.",
+          "cities": [
+            "Ur",
+            "Babilonia",
+            "Egipto"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "3798 a.C.",
+      "events": [
+        {
+          "name": "Kenan",
+          "text": "Hijo de Enos, primero sin registro de madre ni otra mujer vinculada, su significado es 'posesión', probablemente referido a la primogenitura, el adulto hombre mayor, el dueño y poseedor del lineaje en el nombre del linaje judío primero.",
+          "cities": [
+            "Ur",
+            "Babilonia",
+            "Egipto"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "3797 a.C.",
+      "events": [
+        {
+          "name": "Jared",
+          "text": "Literalmente significa descender, lo que nos habla de un linaje que se transmite de generación en generación. Es decir descendencia, la ramificación del árbol de la vida.",
+          "cities": [
+            "Ur",
+            "Babilonia",
+            "Egipto"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "3796 a.C.",
+      "events": [
+        {
+          "name": "Enoc",
+          "text": "El que caminó con los Dioses, no muere, sube en cuerpo y alma al cielo. Me pregunto si no será el Zigurat ese cielo y si caminar con los Dioses no será caminar con los gobernantes.",
+          "cities": [
+            "Ur",
+            "Babilonia",
+            "Egipto"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "3795 a.C.",
+      "events": [
+        {
+          "name": "Matusalem",
+          "text": "Según la biblia, la persona más longevo de la historia. Representa en sí al abuelo sabio, el hermitaño, escondido en una cueva, poseedor de toda sabiduría. Simboliza la generación previa al diluvio universal, conocimiento y pasados ancenstrales perdidos.",
+          "cities": [
+            "Ur",
+            "Babilonia",
+            "Egipto"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "3794 a.C.",
+      "events": [
         {
           "name": "Inicio de la Historia",
-          "text": "La escritura fija las historias. Aparece el bronce, los imperios y el calendario. Se forma la estructura que luego intentará controlar el linaje HaKohen, pero también lo documentará. La historia escrita borra a lo trans y lo femenino; los HaKohen preservarán lo que se niega.",
-          "cities": ["Ur", "Babilonia", "Egipto"]
+          "text": "Sumerios, escritura. La escritura fija las historias. Aparece el bronce, los imperios y el calendario.",
+          "cities": [
+            "Ur",
+            "Babilonia",
+            "Egipto"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2750 a.C.",
+      "events": [
+        {
+          "name": "La infancia de Noé",
+          "text": "Noé nació en tiempos en que 'los hombres comenzaron a multiplicarse sobre la faz de la tierra' (Génesis 6:1). Era hijo de Lamec, descendiente directo de Set, hijo de Adán. Según el Génesis 5:29, Lamec lo llamó Noé diciendo: 'Este nos aliviará de nuestras labores y del trabajo de nuestras manos, a causa de la tierra que maldijo el Señor'. Algunos textos posteriores, como el Libro de Enoc, lo describen como un niño 'diferente', cuyo nacimiento causó asombro porque brillaba. Su niñez transcurrió en una época de creciente violencia y corrupción, cuando 'toda carne había corrompido su camino sobre la tierra'. Su nombre significa descanso.",
+          "cities": [
+            "Mesopotamia"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2850 a.C.",
+      "events": [
+        {
+          "name": "Naama",
+          "text": "Heb. נַעֲמָה Na{amâh, «placentera [agradable; satisfacción]». Naamá, descendiente de Caín, fue hija de Lamec y de Sila. Su hermano fue Tubalcaín, padre de los forjadores de cobre y hierro. Yabal y Yubal eran sus medio hermanos, hijos de la otra esposa de Lamec, Adá. es la única mujer en la prehistoria bíblica que aparece como hija de alguna persona. Por lo general sólo se mencionan hijos. La interpretación habitual habla del su amabilidad, pero su sentido semiótico pareciera tener otros sentidos. Algunas tradiciones judías medievales la asocian con el canto.",
+          "cities": [
+            "Mesopotamia"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2390 a.C.",
+      "events": [
+        {
+          "name": "El Arca",
+          "text": "A los 500 años según la tradición, Noé se casa con Naamá, descendiente de Caín. Tienen tres hijos: Sem, Cam y Jafet. Comienza a tener visiones del colapso del mundo por la corrupción humana. Construye un arca siguiendo un plan revelado en sueños o visiones. Noe es interpretado como la justicia en abrigo de piel, sólo se preocupa por sí mismo, decide quien se salva y quién no, oficiando como juez, ejecuta las ordenes divinas sin cuestionarlas.",
+          "cities": [
+            "Shuruppak",
+            "región montañosa de Ararat"
+          ]
         }
       ]
     },
@@ -81,9 +276,73 @@
       "year": "2348 a.C.",
       "events": [
         {
-          "name": "El Diluvio y Noé",
-          "text": "El Diluvio transforma el mundo. Sem, hijo de Noé, es identificado con Melquisedec, un sacerdote sin genealogía clara. Aquí comienza la línea mística HaKohen: un linaje elegido no por sangre, sino por destino. El Día de la Expiación surge como rito de transición colectiva.",
-          "cities": ["Salem"]
+          "name": "Linaje y decadencia",
+          "text": "La ruptura familiar comienza cuando nace una nieta, hija de Sem, y una parte del clan intenta asesinarla al considerarla una amenaza a que se corrompa nuevamente la humanidad, decide dejarla con vida, pero no se recompone el vinculo familiar. Tras el descenso de las aguas, Noé planta viñas y cae en una fuerte embriaguez, Cam es maldecido por reirse y abusar de su padre, destinando a su descendencia como esclava de la de sus hermanos, dando origen a la tribu Cananea, enemiga de los judíos. Sometimiento entre tribus hermanas, reencor y punitivismo en los comienzos de la historia.",
+          "cities": [
+            "Ararat",
+            "Salem",
+            "Ur"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2348 a.C.",
+      "events": [
+        {
+          "name": "El rey de Salem",
+          "text": "Sem es vincuclado al personaje de Melsiquedec. El rey de Salem. Según otro Midrash,  Melquisedec, rey de Shelem es Shem, quien era sacerdote , y de quien se dice Y Melquisedec, rey de Shelem, sacó pan y vino, y fue sacerdote del Dios Altísimo. Considerado el sucesor de la justicia de Noé Y tomó Sem y se adornó la vestidura, y la puso sobre la cabeza de ambos, y andando hacia atrás, cubrió la desnudez de su padre; y sus rostros estaban hacia atrás, y no vieron la desnudez de su padre. Sem significa nombre o renombre, semitas son justamente quienes decienden de Sem.",
+          "cities": [
+            "Salem"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2348 a.C.",
+      "events": [
+        {
+          "name": "Emzara, las mujeres del arca",
+          "text": "Emzara, esposa de Noé; Sedeqetelebab, esposa de Sem; Na'eltama'uk, esposa de Cam; y Adataneses, esposa de Jafet. Se añade que los tres hijos construyeron una ciudad cada uno con el nombre de sus esposas. Según los Oráculos Sibilinos las esposas de Sem, Cam y Jafet disfrutaron de vidas increíblemente largas, viviendo durante siglos, mientras hablaban con cada generación que veían ir y venir. Según el prefacio de los Oráculos , la sibila autora era nuera de Noé: la sibila babilónica , Sambethe , quien, 900 años después del Diluvio, supuestamente se mudó a Grecia y comenzó a escribir los Oráculos..",
+          "cities": [
+            "Salem"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2348 a.C.",
+      "events": [
+        {
+          "name": "Tamar, la hija del sacerdote",
+          "text": "En la Biblia, la hija de un sacerdote, mientras sea soltera y pertenezca a la familia paterna, se le permite comer una ofrenda elevada , así como un pecho y una pierna. Por otro lado, si comete adulterio, su castigo es más severo que el de una hija de Israel: Si profana a su padre, será quemada en el fuego,dice literal. Primera aparición escrita de mujeres prendidas fuego como castigo masculino, agravado por el vinculo con la familia sacerdotal. Tamar era la hija de Sem",
+          "cities": [
+            "Salem"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2248 a.C.",
+      "events": [
+        {
+          "name": "Semitas",
+          "text": "Los 5 hijos de Sem dan origen a lo que luego serán pueblos Aram y su descendencia aramea, Arpajsad vinculado a los hebreros. Elam son Elamitas, Asur son Asiria y Lud los lídios.",
+          "cities": [
+            "Salem"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2248 a.C.",
+      "events": [
+        {
+          "name": "Apajsad el rey",
+          "text": "Arpajsad también se menciona en el Libro de Judit (Capítulo 1) como el nombre de un rey de los medos a quien Nabucodonosor derrotó. En el Corán se le llama Arfakshu",
+          "cities": [
+            "Media"
+          ]
         }
       ]
     },
@@ -92,130 +351,191 @@
       "events": [
         {
           "name": "Apogeo de Ur",
-          "text": "Ur alcanza su esplendor, centro de culto a Sin, el dios lunar. Lo nocturno y lo oculto se valoran. Esta ciudad será la cuna de Abraham y del linaje que derivará en los HaKohen errantes, que migrarán por generaciones llevando libros, fuego y memoria.",
-          "cities": ["Ur"]
+          "text": "Ur alcanza su esplendor, centro de culto a Sin, el dios lunar.",
+          "cities": [
+            "Ur"
+          ]
+        }]},
+        {
+          "year": "2100 a.C.",
+          "events": [
+            {
+              "name": "Ishtar",
+              "text": "Diosa, mujer, temida, hermosa, sexualizada y demonizada. Multiples amantes.",
+              "cities": [
+                "Ur"
+              ]
+            }
+          ]
         },
         {
-          "name": "Reú, patriarca mesopotámico",
-          "text": "Reú mantiene la conexión entre los patriarcas y la tierra. Su línea sostiene el fuego sacerdotal que luego devendrá en Torah oral y esotérica. El linaje HaKohen descenderá de esta raíz por medio de Serug y Taré.",
-          "cities": ["Mesopotamia"]
-        }
-      ]
-    },
-    {
-      "year": "2000 a.C.",
-      "events": [
-        {
-          "name": "Abraham nace en Ur",
-          "text": "Abraham, patriarca del monoteísmo, nace en Ur y parte a Canaán. Su pacto con lo divino marca el inicio de la alianza HaKohen: portar el conocimiento, aún en diáspora. Su esposa Sarai es figura transicional: cambia su nombre, su función y desafía la esterilidad impuesta.",
-          "cities": ["Ur", "Haran", "Canaán"]
+          "year": "2100 a.C.",
+          "events": [
+            {
+              "name": "Selah",
+              "text": "A su hijo lo llamaron Selah es una palabra hebrea que aparece en la Biblia, especialmente en los Salmos, y generalmente se interpreta como una señal de pausa o reflexión. Se cree que indica un momento para parar, considerar lo que se acaba de leer o escuchar, y estar preparado para lo que sigue. Su esposa es nombrada como Mu'ak , hija de Kesed (otro hijo de Arphachsad).",
+              "cities": [
+                "Ur"
+              ]
+            },
+            {
+              "name": "Reú, patriarca mesopotámico",
+              "text": "Reú. El linaje desciende de esta raíz por medio de Serug y Taré.",
+              "cities": [
+                "Mesopotamia"
+              ]
+            }
+          ]
         },
         {
-          "name": "Significado de Sara",
-          "text": "Sara significa 'gobernante', 'princesa'. Representa liderazgo femenino en un sistema que lo niega. Su transformación corporal en la vejez para concebir es símbolo de lo transmutable, del cuerpo como vehículo de milagro. Sara es proto-Kohenet.",
-          "cities": [""]
+          "year": "2000 a.C.",
+          "events": [
+            {
+              "name": "Abraham nace en Ur",
+              "text": "Abraham, patriarca del monoteísmo, nace en Ur y parte a Canaán. Su pacto con lo divino marca el inicio de la alianza HaKohen: portar el conocimiento, aún en diáspora. Su esposa Sarai es figura transicional: cambia su nombre, su función y desafía la esterilidad impuesta.",
+              "cities": [
+                "Ur",
+                "Haran",
+                "Canaán"
+              ]
+            },
+            {
+              "name": "Significado de Sara",
+              "text": "Sara significa 'gobernante', 'princesa'. Representa liderazgo femenino en un sistema que lo niega. Su transformación corporal en la vejez para concebir es símbolo de lo transmutable, del cuerpo como vehículo de milagro. Sara es proto-Kohenet.",
+              "cities": [
+                ""
+              ]
+            },
+            {
+              "name": "Melquisedec y Abraham",
+              "text": "Melquisedec, rey de Salem y sacerdote del Dios Altísimo, bendice a Abraham. Esta figura es clave para la tradición HaKohen: un sacerdote sin tribu, sin padre ni madre conocidos, cuyo linaje espiritual será perpetuado por quienes viven entre mundos.",
+              "cities": [
+                "Salem"
+              ]
+            },
+            {
+              "name": "Descendencia patriarcal",
+              "text": "La línea de Reú a Taré, de Taré a Abraham, legitima la continuidad del linaje espiritual. Esta genealogía es conservada en la tradición HaKohen como árbol simbólico, pero también como red de transmisión de sabiduría, justicia y mutación.",
+              "cities": [
+                "Ur"
+              ]
+            }
+          ]
         },
         {
-          "name": "Melquisedec y Abraham",
-          "text": "Melquisedec, rey de Salem y sacerdote del Dios Altísimo, bendice a Abraham. Esta figura es clave para la tradición HaKohen: un sacerdote sin tribu, sin padre ni madre conocidos, cuyo linaje espiritual será perpetuado por quienes viven entre mundos.",
-          "cities": ["Salem"]
+          "year": "1791 a.C.",
+          "events": [
+            {
+              "name": "Nacimiento de Jacob y Esaú",
+              "text": "Desde el vientre, Jacob y Esaú luchan. La inversión del derecho de primogenitura es símbolo del cambio de paradigma. El menor, el queer, el excluido, será el bendecido. Esta lógica será central en el linaje HaKohen, donde lo desviado es lo sagrado.",
+              "cities": [
+                "Canaán"
+              ]
+            },
+            {
+              "name": "Jacob engaña a Isaac",
+              "text": "Jacob, guiado por su madre Rebeca, toma la bendición disfrazado de su hermano. El disfraz, el cruce de identidades, la actuación performativa: todos elementos que resonarán en la forma de interpretar lo sagrado desde una perspectiva transfeminista.",
+              "cities": [
+                ""
+              ]
+            }
+          ]
         },
         {
-          "name": "Descendencia patriarcal",
-          "text": "La línea de Reú a Taré, de Taré a Abraham, legitima la continuidad del linaje espiritual. Esta genealogía es conservada en la tradición HaKohen como árbol simbólico, pero también como red de transmisión de sabiduría, justicia y mutación.",
-          "cities": ["Ur"]
-        }
-      ]
-    },
-    {
-      "year": "1791 a.C.",
-      "events": [
-        {
-          "name": "Nacimiento de Jacob y Esaú",
-          "text": "Desde el vientre, Jacob y Esaú luchan. La inversión del derecho de primogenitura es símbolo del cambio de paradigma. El menor, el queer, el excluido, será el bendecido. Esta lógica será central en el linaje HaKohen, donde lo desviado es lo sagrado.",
-          "cities": ["Canaán"]
+          "year": "1750 a.C.",
+          "events": [
+            {
+              "name": "Jacob en Harán",
+              "text": "Jacob trabaja para Labán y se casa con Lea y Raquel. De sus uniones nacen las 12 tribus de Israel. En el sueño de la escalera aparece la conexión entre planos. Este sueño es recuperado por los HaKohen como símbolo de ascensión espiritual a través de los cuerpos múltiples.",
+              "cities": [
+                "Haran",
+                "Betel"
+              ]
+            }
+          ]
         },
         {
-          "name": "Jacob engaña a Isaac",
-          "text": "Jacob, guiado por su madre Rebeca, toma la bendición disfrazado de su hermano. El disfraz, el cruce de identidades, la actuación performativa: todos elementos que resonarán en la forma de interpretar lo sagrado desde una perspectiva transfeminista.",
-          "cities": [""]
-        }
-      ]
-    },
-    {
-      "year": "1750 a.C.",
-      "events": [
-        {
-          "name": "Jacob en Harán",
-          "text": "Jacob trabaja para Labán y se casa con Lea y Raquel. De sus uniones nacen las 12 tribus de Israel. En el sueño de la escalera aparece la conexión entre planos. Este sueño es recuperado por los HaKohen como símbolo de ascensión espiritual a través de los cuerpos múltiples.",
-          "cities": ["Haran", "Betel"]
-        }
-      ]
-    },
-    {
-      "year": "1700 a.C.",
-      "events": [
-        {
-          "name": "Declive del Imperio Babilónico",
-          "text": "La caída del Imperio marca el paso de poder hacia nuevas formas religiosas. Los HaKohen transitan este cambio como nómades del espíritu, preservando secretos ancestrales mientras se adaptan al exilio constante.",
-          "cities": [""]
-        }
-      ]
-    },
-    {
-      "year": "1644 a.C.",
-      "events": [
-        {
-          "name": "Muerte de Jacob",
-          "text": "Muere Jacob, patriarca de las doce tribus. Su descendencia incluye figuras clave como Judá y José, portadores del linaje que derivará en los HaKohen que cruzarán Egipto y fundarán tradiciones esotéricas y legales.",
-          "cities": [""]
-        }
-      ]
-    },
-    {
-      "year": "1600 a.C.",
-      "events": [
-        {
-          "name": "Agamenón y Micenas",
-          "text": "Mientras en Oriente se forman los linajes sacerdotales, en Occidente Agamenón reina en Micenas. La comparación entre ambos mundos revela cómo lo sagrado se vincula al poder patriarcal en un lado, y al conocimiento simbólico del otro.",
-          "cities": ["Micenas"]
-        }
-      ]
-    },
-    {
-      "year": "1575 a.C.",
-      "events": [
-        {
-          "name": "Nacimiento de las tribus de Israel",
-          "text": "Jacob engendra a los ancestros de las doce tribus. Esta estructura será la base del sacerdocio HaKohen, cuya función será guiar, interpretar y proteger la tradición en tiempos de opresión.",
-          "cities": [""]
+          "year": "1700 a.C.",
+          "events": [
+            {
+              "name": "Declive del Imperio Babilónico",
+              "text": "La caída del Imperio marca el paso de poder hacia nuevas formas religiosas. Los HaKohen transitan este cambio como nómades del espíritu, preservando secretos ancestrales mientras se adaptan al exilio constante.",
+              "cities": [
+                ""
+              ]
+            }
+          ]
         },
         {
-          "name": "Esaú se convierte en Edom",
-          "text": "Esaú, excluido del linaje espiritual, se convierte en Edom. Su figura marca el límite del pacto, pero también lo periférico: lo queer, lo otro, también forma parte del relato.",
-          "cities": [""]
+          "year": "1644 a.C.",
+          "events": [
+            {
+              "name": "Muerte de Jacob",
+              "text": "Muere Jacob, patriarca de las doce tribus. Su descendencia incluye figuras clave como Judá y José, portadores del linaje que derivará en los HaKohen que cruzarán Egipto y fundarán tradiciones esotéricas y legales.",
+              "cities": [
+                ""
+              ]
+            }
+          ]
         },
         {
-          "name": "Establecimiento en Egipto",
-          "text": "José se convierte en gobernador en Egipto. El pueblo de Jacob se asienta en Gosén. Esta estadía forjará los valores del HaKohen: sabiduría en la opresión, códigos rituales, y el deber de liberar.",
-          "cities": ["Egipto", "Gosén"]
+          "year": "1600 a.C.",
+          "events": [
+            {
+              "name": "Agamenón y Micenas",
+              "text": "Mientras en Oriente se forman los linajes sacerdotales, en Occidente Agamenón reina en Micenas. La comparación entre ambos mundos revela cómo lo sagrado se vincula al poder patriarcal en un lado, y al conocimiento simbólico del otro.",
+              "cities": [
+                "Micenas"
+              ]
+            }
+          ]
         },
         {
-          "name": "Judá y Tamar",
-          "text": "Tamar, mujer transgresora, se disfraza y logra gestar la línea davídica. Este relato encierra capas de género, justicia y transformación. Tamar es figura queer ancestral dentro del linaje HaKohen.",
-          "cities": [""]
-        }
-      ]
-    },
-    {
-      "year": "1200 a.C.",
-      "events": [
+          "year": "1575 a.C.",
+          "events": [
+            {
+              "name": "Nacimiento de las tribus de Israel",
+              "text": "Jacob engendra a los ancestros de las doce tribus. Esta estructura será la base del sacerdocio HaKohen, cuya función será guiar, interpretar y proteger la tradición en tiempos de opresión.",
+              "cities": [
+                ""
+              ]
+            },
+            {
+              "name": "Esaú se convierte en Edom",
+              "text": "Esaú, excluido del linaje espiritual, se convierte en Edom. Su figura marca el límite del pacto, pero también lo periférico: lo queer, lo otro, también forma parte del relato.",
+              "cities": [
+                ""
+              ]
+            },
+            {
+              "name": "Establecimiento en Egipto",
+              "text": "José se convierte en gobernador en Egipto. El pueblo de Jacob se asienta en Gosén. Esta estadía forjará los valores del HaKohen: sabiduría en la opresión, códigos rituales, y el deber de liberar.",
+              "cities": [
+                "Egipto",
+                "Gosén"
+              ]
+            },
+            {
+              "name": "Judá y Tamar",
+              "text": "Tamar, mujer transgresora, se disfraza y logra gestar la línea davídica. Este relato encierra capas de género, justicia y transformación. Tamar es figura queer ancestral dentro del linaje HaKohen.",
+              "cities": [
+                ""
+              ]
+            }
+          ]
+        },
         {
-          "name": "Auge de la cultura olmeca",
-          "text": "En simultáneo con los patriarcas, en América surge la civilización olmeca, con cultos solares, estructuras rituales y figuras andróginas. Estos paralelos refuerzan la noción de una red espiritual transcontinental que también sostendrán los HaKohen en el exilio.",
-          "cities": ["San Lorenzo", "La Venta"]
+          "year": "1200 a.C.",
+          "events": [
+            {
+              "name": "Auge de la cultura olmeca",
+              "text": "En simultáneo con los patriarcas, en América surge la civilización olmeca, con cultos solares, estructuras rituales y figuras andróginas. Estos paralelos refuerzan la noción de una red espiritual transcontinental que también sostendrán los HaKohen en el exilio.",
+              "cities": [
+                "San Lorenzo",
+                "La Venta"
+              ]
+            }
+          ]
         }
       ]
     }
-  ]
-}

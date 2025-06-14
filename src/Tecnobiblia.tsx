@@ -9,12 +9,14 @@ import kalonymus from "./Kalonymus.json";
 import litvak from "./Litvak.json";
 import sinay from "./Sinay.json";
 import protagonistasData from "./Protagonistas.json";
-import Protagonists from "./Protagonistas";
+import Protagonists from "./Protagonistas.js";
 import abominable from "./Abominable.json";
 import reconstruccion from "./Reconstruccion.json";
 import impuros from "./Impuros.json";
+import madre from "./LaMadre.json";
 import indeseables from "./Indeseables.json";
-import Logo from "./Logo.jsx"
+import Logo from "./Logo.jsx";
+
 import {
   FaCrown,
   FaStarOfDavid,
@@ -36,7 +38,7 @@ import styles from "./Timeline.module.css";
 interface Event {
   name: string;
   text: string;
-  cities: string[];
+  cities?: string[];
 }
 
 interface Year {
@@ -57,7 +59,7 @@ interface ProtagonistEntry {
   female: string;
 }
 
-const Timeline: React.FC = () => {
+const Tecnobiblia: React.FC = () => {
   const eventRefs = useRef<(HTMLDivElement | null)[]>([]);
   const [activeEvent, setActiveEvent] = useState<{
     year: string;
@@ -67,7 +69,7 @@ const Timeline: React.FC = () => {
   } | null>(null);
 
   const chapters: Chapter[] = [
-    santoDeLosSantos,
+   madre, santoDeLosSantos,
     reyes,
     rebeldes,
     estrella,
@@ -77,9 +79,10 @@ const Timeline: React.FC = () => {
     sinay,
   litvak,
 indeseables,
-impuros, reconstruccion, abominable  ];
+impuros, reconstruccion, abominable];
 
 const chapterIcons = [
+    <FaStarOfDavid />,   // Madre
   <FaStarOfDavid />,   // Santo de los Santos
   <FaCrown />,         // Reyes
   <FaRebel />,         // Rebeldes
@@ -207,6 +210,10 @@ useEffect(() => {
   </h3>
   <h4>Lidiador Sinay</h4>
 </section>
+<section className={styles.SecondSection}>
+  <h3>LA PALABRA</h3>
+  <h4>#Hakohen #TrataDePersonas #León #Sionismo #AMIA #IdishColonizationAsossiation #LaVarsovia #ZwiMigdal #Inteligencia #Jueces #Policía #MapaDelPoderEconomico #Argentina #MoisesVille #Rosario #Dinastia #Astrología #ÁrbolGenealógico #ConstelaciónFamiliar #Reiki #Talmud #Piratas</h4>
+</section>
 <div className={styles.sidebarNav}>
 {chapters.map((_, idx) => (
   <button
@@ -278,9 +285,10 @@ backgroundRepeat: "repeat",
                             />
                             <div>
                               <strong className={styles.eventContentStrong}>{event.name}</strong>
-                              <div className={styles.eventContentCities}>
-                                {event.cities.join(", ")}
-                              </div>
+                             <div className={styles.eventContentCities}>
+  {Array.isArray(event.cities) ? event.cities.join(", ") : ""}
+</div>
+
                               <p className={styles.eventContentText}>{event.text}</p>
                               <button onClick={() => speakText(event.text)}>🔊 Escuchar</button>
 
@@ -311,4 +319,4 @@ backgroundRepeat: "repeat",
   );
 };
 
-export default Timeline;
+export default Tecnobiblia;

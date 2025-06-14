@@ -27,6 +27,21 @@
   box-sizing: border-box;
 }
 
+.SecondSection {
+  width: 100%;
+  height: 100vh;
+  color: #222;
+  background: linear-gradient(135deg, #f0f4ff 0%, #d9e2ff 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 15rem;
+  text-align: center;
+  z-index: 3000;
+  box-sizing: border-box;
+}
+
 /* Estilos para los títulos */
 .titleSection h1 {
   font-size: 3.5rem;
