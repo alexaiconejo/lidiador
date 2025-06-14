@@ -2,7 +2,17 @@ import React, { useState, useEffect } from 'react';
 import styles from './Red.module.css';
 import { Link } from 'react-router-dom';
 
-const nodes = [
+interface Node {
+  id: number;
+  label: string;
+}
+
+interface Position {
+  x: number;
+  y: number;
+}
+
+const nodes: Node[] = [
   { id: 1, label: 'MUSICA' },
   { id: 2, label: 'TECNOLOGIA' },
   { id: 3, label: 'DISEÑO' },
@@ -13,42 +23,36 @@ const nodes = [
   { id: 8, label: 'DISEÑO WEB' },
 ];
 
-const Red = () => {
-  const [positions, setPositions] = useState([]);
-  const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
-  const [hover, setHover] = useState(false); // Estado para controlar el hover
+const Red: React.FC = () => {
+  const [positions, setPositions] = useState<Position[]>([]);
+  const [mousePos, setMousePos] = useState<Position>({ x: 0, y: 0 });
+  const [hover, setHover] = useState(false);
 
-  // Generar posiciones aleatorias para los nodos inicialmente
   useEffect(() => {
-    const initialPositions = nodes.map(() => ({
+    const initialPositions: Position[] = nodes.map(() => ({
       x: Math.random() * window.innerWidth,
       y: Math.random() * window.innerHeight,
     }));
     setPositions(initialPositions);
   }, []);
 
-  // Manejar el movimiento del mouse
   useEffect(() => {
-    const handleMouseMove = (e) => {
+    const handleMouseMove = (e: MouseEvent) => {
       setMousePos({ x: e.clientX, y: e.clientY });
     };
 
     window.addEventListener('mousemove', handleMouseMove);
-    return () => {
-      window.removeEventListener('mousemove', handleMouseMove);
-    };
+    return () => window.removeEventListener('mousemove', handleMouseMove);
   }, []);
 
-  // Función para mover los nodos cercanos al mouse
   const moveNodes = () => {
     const newPositions = positions.map((pos) => {
       const distance = Math.sqrt(
         Math.pow(mousePos.x - pos.x, 2) + Math.pow(mousePos.y - pos.y, 2)
       );
-      const proximity = Math.min(1, Math.max(0, 100 / distance)); // Controlar la proximidad
+      const proximity = Math.min(1, Math.max(0, 100 / distance));
 
-      // Si está cerca del mouse, acercar el nodo hacia el mouse
-      const moveFactor = proximity * 30; // Cuánto se mueve
+      const moveFactor = proximity * 30;
       const angle = Math.atan2(mousePos.y - pos.y, mousePos.x - pos.x);
 
       return {
@@ -56,14 +60,15 @@ const Red = () => {
         y: pos.y + moveFactor * Math.sin(angle),
       };
     });
+
     setPositions(newPositions);
   };
 
-  // Llamar a moveNodes cada frame
   useEffect(() => {
     const interval = setInterval(() => {
       moveNodes();
-    }, 16); // 60fps
+    }, 16);
+
     return () => clearInterval(interval);
   }, [positions, mousePos]);
 
@@ -72,10 +77,7 @@ const Red = () => {
       <Link to="/crear" className={styles.link}>
         <div className={styles.whiteLayer}></div>
 
-        {/* Mostrar el texto "Lidiador" cuando se haga hover */}
-        {hover && (
-          <div className={styles.lidiadorText}>LIDIADOR</div>
-        )}
+        {hover && <div className={styles.lidiadorText}>LIDIADOR</div>}
 
         {positions.map((pos, index) => (
           <div
@@ -86,8 +88,8 @@ const Red = () => {
               top: pos.y,
               transform: 'translate(-50%, -50%)',
             }}
-            onMouseEnter={() => setHover(true)} // Activar hover
-            onMouseLeave={() => setHover(false)} // Desactivar hover
+            onMouseEnter={() => setHover(true)}
+            onMouseLeave={() => setHover(false)}
           >
             <button
               className={styles.button}
@@ -98,12 +100,13 @@ const Red = () => {
           </div>
         ))}
 
-        {/* Dibujar líneas entre los nodos de manera más fluida */}
         {positions.map((pos1, i) =>
           positions.slice(i + 1).map((pos2, j) => (
             <svg key={`line-${i}-${i + j + 1}`} className={styles.line}>
               <path
-                d={`M${pos1.x} ${pos1.y} Q${(pos1.x + pos2.x) / 2} ${(pos1.y + pos2.y) / 2} ${pos2.x} ${pos2.y}`}
+                d={`M${pos1.x} ${pos1.y} Q${(pos1.x + pos2.x) / 2} ${
+                  (pos1.y + pos2.y) / 2
+                } ${pos2.x} ${pos2.y}`}
                 stroke="white"
                 strokeWidth="1"
                 fill="none"

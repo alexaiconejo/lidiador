@@ -1,29 +1,38 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import styles from './Galaxia.module.css';
 
-const Galaxia = () => {
-  const [dots, setDots] = useState([]);
+interface Dot {
+  id: number;
+  x: number;
+  y: number;
+  size: number;
+  animationDelay: number;
+}
 
-  // Crear puntos aleatorios
+const Galaxia = () => {
+  const [dots, setDots] = useState<Dot[]>([]); // <-- tipo explícito Dot[]
+
   useEffect(() => {
     const generateDots = () => {
-      const numDots = 100; // Número de puntos
-      const dotsArray = [];
+      const numDots = 100;
+      const dotsArray: Dot[] = [];
+
       for (let i = 0; i < numDots; i++) {
         dotsArray.push({
           id: i,
           x: Math.random() * window.innerWidth,
           y: Math.random() * window.innerHeight,
-          size: Math.random() * 2 + 1, // Tamaño aleatorio de los puntos
-          animationDelay: Math.random() * 3, // Retardo aleatorio para animación
+          size: Math.random() * 2 + 1,
+          animationDelay: Math.random() * 3,
         });
       }
+
       setDots(dotsArray);
     };
 
     generateDots();
-    // Regenerar puntos cuando la ventana cambie de tamaño
     window.addEventListener('resize', generateDots);
+
     return () => {
       window.removeEventListener('resize', generateDots);
     };

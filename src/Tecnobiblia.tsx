@@ -15,7 +15,7 @@ import reconstruccion from "./Reconstruccion.json";
 import impuros from "./Impuros.json";
 import madre from "./LaMadre.json";
 import indeseables from "./Indeseables.json";
-import Logo from "./Logo.jsx";
+import Logo from "./Logo.tsx";
 
 import {
   FaCrown,
@@ -60,7 +60,7 @@ interface ProtagonistEntry {
 }
 
 const Tecnobiblia: React.FC = () => {
-  const eventRefs = useRef<(HTMLDivElement | null)[]>([]);
+const eventRefs = useRef<(HTMLLIElement | null)[]>([]);
   const [activeEvent, setActiveEvent] = useState<{
     year: string;
     text: string;

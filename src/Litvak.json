@@ -55,7 +55,7 @@
       ]
     },
     {
-      "year": 1777,
+      "year": "1777",
       "events": [
         {
           "name": "Yaakov Yosef HaKohen de Polnoy",
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "year": 1778,
+      "year": "1778",
       "events": [
         {
           "name": "José II de Habsburgo",
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "year": 1779,
+      "year": "1779",
       "events": [
         {
           "name": "Illuminatis",
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "year": 1780,
+      "year": "1780",
       "events": [
         {
           "name": "María Teresa de Austria",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "year": 1781,
+      "year": "1781",
       "events": [
         {
           "name": "José II de Habsburgo",
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "year": 1782,
+      "year": "1782",
       "events": [
         {
           "name": "Elías ben Shlomó Zalman (Gaón de Vilna)",
@@ -130,699 +130,587 @@
         }
       ]
     },
+   {
+    "year": "1783",
+    "events": [
+      {
+        "name": "Naphtali Wessely",
+        "text": "Publica 'Divrei Shalom ve-Emet', apoyando las reformas ilustradas de José II y abogando por la integración cultural de los judíos en la sociedad alemana. Es un hito de la Haskalá, o Ilustración judía.",
+        "cities": ["Berlín", "Viena"]
+      }
+    ]
+  },
+  {
+    "year": "1784",
+    "events": [
+      {
+        "name": "Adam Weishaupt",
+        "text": "La Orden de los Iluminados es prohibida en Baviera tras presiones de la Iglesia y la nobleza. Documentos confiscados revelan su organización secreta, provocando escándalo en Europa.",
+        "cities": ["Múnich", "Ingolstadt"]
+      }
+    ]
+  },
+  {
+    "year": "1785",
+    "events": [
+      {
+        "name": "Miklos Sinay",
+        "text": "En su vejez, Miklos Sinay escribe ensayos teológicos y políticos influenciados por el pensamiento ilustrado protestante. Defiende una reforma universitaria integral y la educación laica.",
+        "cities": ["Debrecen", "Viena"]
+      }
+    ]
+  },
+  {
+    "year": "1786",
+    "events": [
+      {
+        "name": "Moses Mendelssohn",
+        "text": "Muere el 4 de enero Moses Mendelssohn, filósofo judío alemán y figura clave de la Haskalá. Promovió el diálogo entre judaísmo y modernidad, y tradujo la Torá al alemán en caracteres hebreos.",
+        "cities": ["Berlín"]
+      }
+    ]
+  },
+  {
+    "year": "1787",
+    "events": [
+      {
+        "name": "José II de Habsburgo",
+        "text": "Ordena nuevas reformas centralizadoras que limitan el poder de la nobleza y la Iglesia. Entre ellas, establece el matrimonio civil y reforma el sistema judicial, pero genera resistencias en Hungría y los Países Bajos.",
+        "cities": ["Viena", "Buda", "Bruselas"]
+      }
+    ]
+  },
+  {
+    "year": "1788",
+    "events": [
+      {
+        "name": "Elías ben Shlomó Zalman (Gaón de Vilna)",
+        "text": "Comienza a redactar sus comentarios sobre el Zohar y textos cabalísticos clásicos, intentando conciliar mística y halajá desde una óptica racional. Su autoridad rabínica se afianza en Europa Oriental.",
+        "cities": ["Vilna"]
+      }
+    ]
+  },
+  {
+    "year": "1789",
+    "events": [
+      {
+        "name": "Revolución Francesa",
+        "text": "El estallido de la Revolución Francesa introduce los principios de ciudadanía, secularismo e igualdad jurídica. La Asamblea Nacional debate por primera vez el estatus de los judíos franceses.",
+        "cities": ["París"]
+      }
+    ]
+  },
+  {
+    "year": "1790",
+    "events": [
+      {
+        "name": "Marquis de Clermont-Tonnerre",
+        "text": "El 23 de diciembre defiende en la Asamblea Francesa la igualdad de derechos para los judíos: 'A los judíos como individuos, todo; como nación, nada'. Es una frase clave en la emancipación moderna.",
+        "cities": ["París"]
+      }
+    ]
+  },
+  {
+    "year": "1791",
+    "events": [
+      {
+        "name": "Revolución Francesa",
+        "text": "La Asamblea Nacional otorga ciudadanía plena a los judíos franceses el 28 de septiembre, marcando el inicio formal de la emancipación judía en Europa occidental.",
+        "cities": ["París", "Alsacia", "Lorena"]
+      }
+    ]
+  },
+  {
+    "year": "1792",
+    "events": [
+      {
+        "name": "República Francesa",
+        "text": "Se proclama la Primera República Francesa. Se intensifican las tensiones con las monarquías absolutistas europeas, incluidas Austria y Prusia, donde el antisemitismo aún domina la legislación.",
+        "cities": ["París", "Viena", "Berlín"]
+      }
+    ]
+  },
+  {
+    "year": "1793",
+    "events": [
+      {
+        "name": "Revolución Francesa",
+        "text": "Durante el Reinado del Terror, numerosos judíos son perseguidos por sus vínculos con el comercio y la nobleza. Sin embargo, los derechos adquiridos no son revocados oficialmente.",
+        "cities": ["París", "Burdeos"]
+      }
+    ]
+  },
+  {
+    "year": "1794",
+    "events": [
+      {
+        "name": "Kether Shem Tov",
+        "text": "Se imprime por primera vez 'Kether Shem Tov', una recopilación de enseñanzas del Baal Shem Tov. Marca el paso del jasidismo oral al texto escrito, consolidando la memoria del movimiento.",
+        "cities": ["Slavita", "Medzhybizh"]
+      },
+      {
+        "name": "Elías ben Shlomó Zalman (Gaón de Vilna)",
+        "text": "En Vilna se queman públicamente obras jasídicas como el Zawaat Ribash. El Gaón de Vilna intensifica su rechazo al jasidismo y prohíbe matrimonios y rituales conjuntos con jasidim. Sostiene una vida retirada, se niega a asumir cargos rabínicos y defiende el estudio de ciencias naturales como herramienta para comprender la Torá.",
+        "cities": ["Vilna"]
+      }
+    ]
+  },
+  {
+    "year": "1795",
+    "events": [
+      {
+        "name": "Tercera Partición de Polonia",
+        "text": "Se consuma la tercera partición de Polonia entre Rusia, Prusia y Austria. Miles de comunidades judías quedan bajo control zarista, comenzando una era de restricciones y pogromos.",
+        "cities": ["Varsovia", "Vilna", "Lviv"]
+      }
+    ]
+  },
+  {
+    "year": "1796",
+    "events": [
+      {
+        "name": "Aaron HaLevi ben Moses de Staroselye",
+        "text": "Instiga a Shneur Zalman de Liadi a publicar el 'Tanya', obra fundacional del jasidismo de Jabad. El libro aparece en Slavita y comienza a circular como guía espiritual para el 'hombre promedio'.",
+        "cities": ["Slavita", "Liadi"]
+      }
+    ]
+  },
+  {
+    "year": "1797",
+    "events": [
+      {
+        "name": "Partición de Polonia",
+        "text": "La supremacía polaca llega a su fin tras la tercera partición del país. Las comunidades judías son incorporadas al Imperio Ruso, al Imperio Austriaco y a Prusia.",
+        "cities": ["Varsovia", "Vilna", "Cracovia"]
+      }
+    ]
+  },
+  {
+    "year": "1798",
+    "events": [
+      {
+        "name": "Aaron HaLevi de Staroselye",
+        "text": "Viaja por pueblos de Europa del Este para reunir dinero y sobornar guardias a fin de visitar a su maestro, Shneur Zalman, encarcelado por decreto real. Se refuerza el liderazgo de la rama Jabad en tiempos de persecución.",
+        "cities": ["Liadi", "Vítebsk", "Liozna"]
+      }
+    ]
+  },
+  {
+    "year": "1803",
+    "events": [
+      {
+        "name": "Miklos Sinay",
+        "text": "Se retira de la vida pública. El botánico Sámuel Diószegi se despide de él en el cementerio protestante de Debrecen. Su escudo familiar representa una pirámide y una serpiente, símbolos de su trabajo en historia de la iglesia y antigüedades.",
+        "cities": ["Debrecen"]
+      }
+    ]
+  },
+  {
+    "year": "1806",
+    "events": [
+      {
+        "name": "Zsigmond Sinay",
+        "text": "Nace Zsigmond, hijo de Sándor Sinay. En este mismo año, fuerzas inglesas invaden Buenos Aires y son derrotadas por milicias criollas lideradas por Santiago de Liniers.",
+        "cities": ["Buenos Aires", "Debrecen"]
+      }
+    ]
+  },
+  {
+    "year": "1807",
+    "events": [
+      {
+        "name": "Ducado de Varsovia",
+        "text": "Se establece el Ducado de Varsovia por Napoleón I tras el Tratado de Tilsit. Gobernado por Federico Augusto I de Sajonia, simboliza el renacimiento polaco. Mientras tanto, una segunda invasión inglesa a Buenos Aires es repelida.",
+        "cities": ["Varsovia", "Buenos Aires"]
+      }
+    ]
+  },
+  {
+    "year": "1808",
+    "events": [
+      {
+        "name": "Miklos Sinay",
+        "text": "Muere Miklos Sinay en Debrecen. Su legado perdura en la teología protestante húngara y en estudios filológicos sobre la Antigüedad.",
+        "cities": ["Debrecen"]
+      }
+    ]
+  },
+  {
+    "year": "1810",
+    "events": [
+      {
+        "name": "Revolución de Mayo",
+        "text": "Estalla la Revolución de Mayo en Buenos Aires. Los pueblos originarios del norte argentino y del Chaco sufren ataques por parte del ejército revolucionario en su afán por consolidar el control del territorio.",
+        "cities": ["Buenos Aires", "Salta", "Chaco"]
+      }
+    ]
+  },
+  {
+    "year": "1811",
+    "events": [
+      {
+        "name": "Junta Grande",
+        "text": "Se amplía el poder ejecutivo con la creación de la Junta Grande, incorporando representantes de las provincias interiores del Virreinato del Río de la Plata.",
+        "cities": ["Buenos Aires", "Córdoba", "Tucumán"]
+      }
+    ]
+  },
+  {
+    "year": "1812",
+    "events": [
+      {
+        "name": "Aaron de Staroselye",
+        "text": "Tras la muerte de Shneur Zalman, Aaron se establece como rabino en Staroselye. Atrae discípulos y funda una corriente jasídica propia conocida como los Jasidim de Staroselye.",
+        "cities": ["Staroselye"]
+      }
+    ]
+  },
+  {
+    "year": "1813",
+    "events": [
+      {
+        "name": "Hirsch Ascenso familiar",
+        "text": "El abuelo paterno de Samson Raphael Hirsch es ennoblecido tras financiar la formación de un regimiento bávaro contra Napoleón. La familia judía gana prestigio en el sur de Alemania.",
+        "cities": ["Múnich", "Frankfurt"]
+      }
+    ]
+  },
+  {
+    "year": "1814",
+    "events": [
+      {
+        "name": "Nacimiento de Miklos III Sinay",
+        "text": "Nace Miklos Sinay III, descendiente de una línea protestante ilustrada. Ese mismo año, el Segundo Triunvirato establece las Provincias Unidas del Río de la Plata.",
+        "cities": ["Debrecen", "Buenos Aires"]
+      }
+    ]
+  },
+  {
+    "year": "1818",
+    "events": [
+      {
+        "name": "Karl Marx",
+        "text": "Nace en Tréveris Moisés Mordecai Marx Levi, luego conocido como Karl Marx. Criado en el protestantismo, desarrollará una crítica radical al judaísmo como expresión del mercantilismo burgués.",
+        "cities": ["Tréveris"]
+      }
+    ]
+  },
+  {
+    "year": "1820",
+    "events": [
+      {
+        "name": "Aaron de Staroselye",
+        "text": "Publica en Shklov su obra 'Sha'are Abodah' ('Las puertas del servicio'), donde sistematiza la teología jasídica de Jabad con enfoque en la devoción diaria, la unidad divina y la introspección.",
+        "cities": ["Shklov"]
+      }
+    ]
+  },
+  {
+    "year": "1826",
+    "events": [
+      {
+        "name": "Bernardino Rivadavia",
+        "text": "Es nombrado el primer presidente de las Provincias Unidas del Río de la Plata bajo un régimen unitario. Su breve mandato intenta modernizar las instituciones al estilo europeo.",
+        "cities": ["Buenos Aires"]
+      }
+    ]
+  },
+  {
+    "year": "1830",
+    "events": [
+      {
+        "name": "Adam Weishaupt",
+        "text": "Muere en Gotha el fundador de los Illuminati de Baviera, Adam Weishaupt. Tras recibir protección del duque Ernesto II de Sajonia-Altenburgo, escribió obras en defensa del iluminismo racionalista y republicano, denunciando su persecución en Baviera.",
+        "cities": ["Gotha"]
+      },
+      {
+        "name": "Emilia Plater",
+        "text": "Emilia Plater participa activamente en el Levantamiento de Noviembre contra el Imperio ruso. Convertida en símbolo del nacionalismo polaco-lituano, lucha vestida como hombre en las guerrillas patriotas del este europeo.",
+        "cities": ["Vilna", "Lituania"]
+      }
+    ]
+  },
+  {
+    "year": "1831",
+    "events": [
+      {
+        "name": "Moritz von Hirsch",
+        "text": "Nace en Múnich Moritz von Hirsch, heredero de una poderosa familia judía bávara. Su abuelo paterno fue ennoblecido por financiar un regimiento bávaro durante las guerras napoleónicas.",
+        "cities": ["Múnich"]
+      }
+    ]
+  },
+  {
+    "year": "1843",
+    "events": [
+      {
+        "name": "Zona de Asentamiento",
+        "text": "El zar Nicolás I ordena la expulsión de los judíos en un radio de 80 km de la frontera con el Imperio austríaco, profundizando las restricciones dentro de la Zona de Asentamiento. Las provincias de Astracán y el Cáucaso son excluidas de la zona.",
+        "cities": ["Kiev", "Astracán", "Cáucaso Norte"]
+      }
+    ]
+  },
+  {
+    "year": "1850",
+    "events": [
+      {
+        "name": "Reuben HaKohen Sinay",
+        "text": "Nace Reuben (Revn) HaKohen Sinay en Augustów, Lituania. Su padre, Arn HaKohen Sinay, era reconocido en la comunidad judía local. En este mismo período, surge en Europa el concepto racializado de 'ario' como contraposición ideológica al judaísmo.",
+        "cities": ["Augustów"]
+      }
+    ]
+  },
+  {
+    "year": "1855",
+    "events": [
+      {
+        "name": "Moritz von Hirsch",
+        "text": "Moritz von Hirsch se casa con Clara Bischoffsheim, hija del banquero Jonathan-Raphaël Bischoffsheim. Se asocia con la casa bancaria Bischoffsheim & Goldschmidt y comienza a acumular una vasta fortuna con concesiones ferroviarias y especulación de azúcar y cobre.",
+        "cities": ["Bruselas", "París", "Viena"]
+      },
+      {
+        "name": "Fallecimiento de Arn Sinay",
+        "text": "Muere Arn HaKohen Sinay, padre de Reuben, en Lituania. Su familia se muda a Grodno, una de las principales ciudades de la Zona de Asentamiento, conocida por su vibrante vida judía.",
+        "cities": ["Grodno"]
+      }
+    ]
+  },
+  {
+    "year": "1861",
+    "events": [
+      {
+        "name": "Unificación de Italia",
+        "text": "Se completa la unificación italiana bajo la dinastía de los Saboya, integrando varios estados independientes, con fuerte resistencia en el sur, especialmente en el Reino de las Dos Sicilias.",
+        "cities": ["Italia"]
+      },
+      {
+        "name": "Aarón HaKohen Sinay",
+        "text": "Publica en Lemberg su comentario sobre el Pentateuco titulado Avodat HaLevi (עבודת הלוי), basado en la tradición oral del rabino Shneur Zalman y su obra Tanya, escrito años antes pero editado en este año.",
+        "cities": ["Lemberg"]
+      }
+    ]
+  },
+  {
+    "year": "1862",
+    "events": [
+      {
+        "name": "Bartolomé Mitre",
+        "text": "Líder unitario y liberal. Consolidación nacional tras la batalla de Pavón. Se inicia la Guerra de la Triple Alianza (1865) contra Paraguay. En Buenos Aires son detenidos Dominguito Sarmiento, Mitre Jr., Casal y Britos.",
+        "cities": [
+          "Buenos Aires"
+        ]
+      },
+      {
+        "name": "Nacimiento de supuesto Aarón del Censo",
+        "text": "Se menciona el supuesto nacimiento de un personaje conocido como 'Aarón del Censo' en este periodo.",
+        "cities": [
+          "Argentina"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1868",
+    "events": [
+      {
+        "name": "Domingo Faustino Sarmiento",
+        "text": "Presidente liberal (1868-1874). Promueve la educación pública con creación de escuelas y formación de maestros. Continúa la Guerra de la Triple Alianza hasta su final en 1870.",
+        "cities": [
+          "Argentina"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1869",
+    "events": [
+      {
+        "name": "Moritz von Hirsch",
+        "text": "Nombrado Barón en reconocimiento a la labor bancaria de su padre Josef von Hirsch para la corona. Su madre Caroline Wertheimer provenía de familia judía ortodoxa de Fráncfort del Meno.",
+        "cities": [
+          "Múnich",
+          "Fráncfort del Meno"
+        ]
+      },
+      {
+        "name": "Isabel II de España",
+        "text": "Durante su reinado se inicia la restauración de relaciones con la diáspora judía. La Constitución española de 1869 permite la libertad de culto, un cambio importante tras siglos de intolerancia.",
+        "cities": [
+          "España"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1870",
+    "events": [
+      {
+        "name": "Bartolomé Mitre",
+        "text": "Como presidente, funda el diario La Nación. La policía controla disturbios en fiestas y prostíbulos. En la calle Córdoba se identifican cuatro madamas reconocidas por su actividad.",
+        "cities": [
+          "Buenos Aires"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1871",
+    "events": [
+      {
+        "name": "Fiebre amarilla en Buenos Aires",
+        "text": "La epidemia conocida como 'Reina el espanto' provoca cadáveres en las calles. Sarmiento se retira temporalmente. La vida social vuelve con descontrol y libertinaje, destacándose el bar 'La Pandora'.",
+        "cities": [
+          "Buenos Aires"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1872",
+    "events": [
+      {
+        "name": "Sacerdotes conversos",
+        "text": "Ordenarse sacerdote era una estrategia adoptada por judíos conversos para demostrar sinceridad religiosa. Entre ellos, D. Blas Frayle, D. Joseph Frayle y D. Benito Frayle, asesinado ese año.",
+        "cities": [
+          "Argentina"
+        ]
+      },
+      {
+        "name": "Conquista del Desierto",
+        "text": "Campañas militares de exterminio contra pueblos indígenas lideradas por Julio Argentino Roca (1872-1879). Uso de tácticas brutales como envenenamiento de agua y destrucción de recursos. Víctimas: mapuches, puelches, ranqueles y tehuelches.",
+        "cities": [
+          "Patagonia",
+          "Sur de Argentina"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1874",
+    "events": [
+      {
+        "name": "Nicolás Avellaneda",
+        "text": "Presidente nacionalista (1874-1880). Promueve la inmigración europea para poblar el país. Continúa la campaña de la Conquista del Desierto bajo el liderazgo de Roca.",
+        "cities": [
+          "Argentina",
+          "Rosario"
+        ]
+      },
+      {
+        "name": "Normativa sobre prostitución en Rosario",
+        "text": "Se aprueba la primera norma local para demarcar zonas de radicación de prostíbulos, respuesta a la creciente problemática social.",
+        "cities": [
+          "Rosario"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1875",
+    "events": [
+      {
+        "name": "Tráfico de mujeres en Buenos Aires",
+        "text": "Hernán Gerber vende a 12 mujeres, dos adquiridas por un rufián rosarino. Ese mismo año, la ciudad de Buenos Aires vota la primera ordenanza sobre la problemática de la prostitución.",
+        "cities": [
+          "Buenos Aires",
+          "Rosario"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1876",
+    "events": [
+      {
+        "name": "Nacimiento de Migl HaKohen Sinay",
+        "text": "Nace el 3 de septiembre en Grodno, Rusia, Migl HaKohen Sinay, hijo de Reuben HaKohen Sinay, continuando la línea familiar.",
+        "cities": [
+          "Grodno"
+        ]
+      },
+      {
+        "name": "Viaje por Rusia",
+        "text": "Migl HaKohen Sinay realiza un viaje por Rusia, dentro del contexto de la diáspora judía y las restricciones de la Zona de Asentamiento.",
+        "cities": [
+          "Rusia"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1879",
+    "events": [
+      {
+        "name": "Masacre de la Comarca de los Andes",
+        "text": "En el marco de la Conquista del Desierto, el ejército argentino atacó comunidades mapuches en la Comarca de los Andes, matando a cientos de indígenas y destruyendo sus comunidades, marcando una de las peores matanzas del periodo.",
+        "cities": [
+          "Comarca de los Andes"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1880",
+    "events": [
+      {
+        "name": "Julio Argentino Roca",
+        "text": "Asume la presidencia (1880-1886) con el partido Autonomista Nacional. Se federaliza Buenos Aires como capital del país y se consolida el territorio con la Campaña del Desierto.",
+        "cities": [
+          "Buenos Aires",
+          "Argentina"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1881",
+    "events": [
+      {
+        "name": "Represión en el Imperio Zarista Ruso",
+        "text": "Tras el atentado al zar Alejandro II, el imperio implementa normas restrictivas: prohibición de escuelas y profesiones liberales para judíos, y expulsión a las afueras de la Zona de Asentamiento.",
+        "cities": [
+          "Rusia"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1882",
+    "events": [
+      {
+        "name": "Donación de Moritz von Hirsch para judíos rusos",
+        "text": "Hirsch dona 10.000 libras para repatriación de refugiados y ofrece 2.000.000 de libras para crear un sistema de educación secular en la Zona de Asentamiento Judía. El gobierno ruso acepta el dinero pero rechaza la participación extranjera en su administración.",
+        "cities": [
+          "Rusia"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1883",
+    "events": [
+      {
+        "name": "Bienvenida en Sarafand a colonos judíos",
+        "text": "Los habitantes árabes de Sarafand recibieron a los colonos judíos con palabras de fraternidad, destacando la convivencia histórica entre ambos pueblos.",
+        "cities": [
+          "Sarafand",
+          "Palestina"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1884",
+    "events": [
+      {
+        "name": "Estudio del Talmud",
+        "text": "Durante este año se profundiza el estudio del Talmud, texto fundamental del judaísmo rabínico.",
+        "cities": []
+      }
+    ]
+  },
     {
-      "year": 1783,
-      "events": [
-        {
-          "name": "Naphtali Wessely",
-          "text": "Publica 'Divrei Shalom ve-Emet', apoyando las reformas ilustradas de José II y abogando por la integración cultural de los judíos en la sociedad alemana. Es un hito de la Haskalá, o Ilustración judía.",
-          "cities": [
-            "Berlín",
-            "Viena"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1784,
-      "events": [
-        {
-          "name": "Adam Weishaupt",
-          "text": "La Orden de los Iluminados es prohibida en Baviera tras presiones de la Iglesia y la nobleza. Documentos confiscados revelan su organización secreta, provocando escándalo en Europa.",
-          "cities": [
-            "Múnich",
-            "Ingolstadt"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1785,
-      "events": [
-        {
-          "name": "Miklos Sinay",
-          "text": "En su vejez, Miklos Sinay escribe ensayos teológicos y políticos influenciados por el pensamiento ilustrado protestante. Defiende una reforma universitaria integral y la educación laica.",
-          "cities": [
-            "Debrecen",
-            "Viena"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1786,
-      "events": [
-        {
-          "name": "Moses Mendelssohn",
-          "text": "Muere el 4 de enero Moses Mendelssohn, filósofo judío alemán y figura clave de la Haskalá. Promovió el diálogo entre judaísmo y modernidad, y tradujo la Torá al alemán en caracteres hebreos.",
-          "cities": [
-            "Berlín"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1787,
-      "events": [
-        {
-          "name": "José II de Habsburgo",
-          "text": "Ordena nuevas reformas centralizadoras que limitan el poder de la nobleza y la Iglesia. Entre ellas, establece el matrimonio civil y reforma el sistema judicial, pero genera resistencias en Hungría y los Países Bajos.",
-          "cities": [
-            "Viena",
-            "Buda",
-            "Bruselas"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1788,
-      "events": [
-        {
-          "name": "Elías ben Shlomó Zalman (Gaón de Vilna)",
-          "text": "Comienza a redactar sus comentarios sobre el Zohar y textos cabalísticos clásicos, intentando conciliar mística y halajá desde una óptica racional. Su autoridad rabínica se afianza en Europa Oriental.",
-          "cities": [
-            "Vilna"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1789,
-      "events": [
-        {
-          "name": "Revolución Francesa",
-          "text": "El estallido de la Revolución Francesa introduce los principios de ciudadanía, secularismo e igualdad jurídica. La Asamblea Nacional debate por primera vez el estatus de los judíos franceses.",
-          "cities": [
-            "París"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1790,
-      "events": [
-        {
-          "name": "Marquis de Clermont-Tonnerre",
-          "text": "El 23 de diciembre defiende en la Asamblea Francesa la igualdad de derechos para los judíos: 'A los judíos como individuos, todo; como nación, nada'. Es una frase clave en la emancipación moderna.",
-          "cities": [
-            "París"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1791,
-      "events": [
-        {
-          "name": "Revolución Francesa",
-          "text": "La Asamblea Nacional otorga ciudadanía plena a los judíos franceses el 28 de septiembre, marcando el inicio formal de la emancipación judía en Europa occidental.",
-          "cities": [
-            "París",
-            "Alsacia",
-            "Lorena"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1792,
-      "events": [
-        {
-          "name": "República Francesa",
-          "text": "Se proclama la Primera República Francesa. Se intensifican las tensiones con las monarquías absolutistas europeas, incluidas Austria y Prusia, donde el antisemitismo aún domina la legislación.",
-          "cities": [
-            "París",
-            "Viena",
-            "Berlín"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1793,
-      "events": [
-        {
-          "name": "Revolución Francesa",
-          "text": "Durante el Reinado del Terror, numerosos judíos son perseguidos por sus vínculos con el comercio y la nobleza. Sin embargo, los derechos adquiridos no son revocados oficialmente.",
-          "cities": [
-            "París",
-            "Burdeos"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1794,
-      "events": [
-        {
-          "name": "Kether Shem Tov",
-          "text": "Se imprime por primera vez 'Kether Shem Tov', una recopilación de enseñanzas del Baal Shem Tov. Marca el paso del jasidismo oral al texto escrito, consolidando la memoria del movimiento.",
-          "cities": [
-            "Slavita",
-            "Medzhybizh"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1795,
-      "events": [
-        {
-          "name": "Tercera Partición de Polonia",
-          "text": "Se consuma la tercera partición de Polonia entre Rusia, Prusia y Austria. Miles de comunidades judías quedan bajo control zarista, comenzando una era de restricciones y pogromos.",
-          "cities": [
-            "Varsovia",
-            "Vilna",
-            "Lviv"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1794,
-      "events": [
-        {
-          "name": "Elías ben Shlomó Zalman (Gaón de Vilna)",
-          "text": "En Vilna se queman públicamente obras jasídicas como el Zawaat Ribash. El Gaón de Vilna intensifica su rechazo al jasidismo y prohíbe matrimonios y rituales conjuntos con jasidim. Sostiene una vida retirada, se niega a asumir cargos rabínicos y defiende el estudio de ciencias naturales como herramienta para comprender la Torá.",
-          "cities": [
-            "Vilna"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1796,
-      "events": [
-        {
-          "name": "Aaron HaLevi ben Moses de Staroselye",
-          "text": "Instiga a Shneur Zalman de Liadi a publicar el 'Tanya', obra fundacional del jasidismo de Jabad. El libro aparece en Slavita y comienza a circular como guía espiritual para el 'hombre promedio'.",
-          "cities": [
-            "Slavita",
-            "Liadi"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1797,
-      "events": [
-        {
-          "name": "Partición de Polonia",
-          "text": "La supremacía polaca llega a su fin tras la tercera partición del país. Las comunidades judías son incorporadas al Imperio Ruso, al Imperio Austriaco y a Prusia.",
-          "cities": [
-            "Varsovia",
-            "Vilna",
-            "Cracovia"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1798,
-      "events": [
-        {
-          "name": "Aaron HaLevi de Staroselye",
-          "text": "Viaja por pueblos de Europa del Este para reunir dinero y sobornar guardias a fin de visitar a su maestro, Shneur Zalman, encarcelado por decreto real. Se refuerza el liderazgo de la rama Jabad en tiempos de persecución.",
-          "cities": [
-            "Liadi",
-            "Vítebsk",
-            "Liozna"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1803,
-      "events": [
-        {
-          "name": "Miklos Sinay",
-          "text": "Se retira de la vida pública. El botánico Sámuel Diószegi se despide de él en el cementerio protestante de Debrecen. Su escudo familiar representa una pirámide y una serpiente, símbolos de su trabajo en historia de la iglesia y antigüedades.",
-          "cities": [
-            "Debrecen"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1806,
-      "events": [
-        {
-          "name": "Zsigmond Sinay",
-          "text": "Nace Zsigmond, hijo de Sándor Sinay. En este mismo año, fuerzas inglesas invaden Buenos Aires y son derrotadas por milicias criollas lideradas por Santiago de Liniers.",
-          "cities": [
-            "Buenos Aires",
-            "Debrecen"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1807,
-      "events": [
-        {
-          "name": "Ducado de Varsovia",
-          "text": "Se establece el Ducado de Varsovia por Napoleón I tras el Tratado de Tilsit. Gobernado por Federico Augusto I de Sajonia, simboliza el renacimiento polaco. Mientras tanto, una segunda invasión inglesa a Buenos Aires es repelida.",
-          "cities": [
-            "Varsovia",
-            "Buenos Aires"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1808,
-      "events": [
-        {
-          "name": "Miklos Sinay",
-          "text": "Muere Miklos Sinay en Debrecen. Su legado perdura en la teología protestante húngara y en estudios filológicos sobre la Antigüedad.",
-          "cities": [
-            "Debrecen"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1810,
-      "events": [
-        {
-          "name": "Revolución de Mayo",
-          "text": "Estalla la Revolución de Mayo en Buenos Aires. Los pueblos originarios del norte argentino y del Chaco sufren ataques por parte del ejército revolucionario en su afán por consolidar el control del territorio.",
-          "cities": [
-            "Buenos Aires",
-            "Salta",
-            "Chaco"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1811,
-      "events": [
-        {
-          "name": "Junta Grande",
-          "text": "Se amplía el poder ejecutivo con la creación de la Junta Grande, incorporando representantes de las provincias interiores del Virreinato del Río de la Plata.",
-          "cities": [
-            "Buenos Aires",
-            "Córdoba",
-            "Tucumán"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1812,
-      "events": [
-        {
-          "name": "Aaron de Staroselye",
-          "text": "Tras la muerte de Shneur Zalman, Aaron se establece como rabino en Staroselye. Atrae discípulos y funda una corriente jasídica propia conocida como los Jasidim de Staroselye.",
-          "cities": [
-            "Staroselye"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1813,
-      "events": [
-        {
-          "name": "Hirsch Ascenso familiar",
-          "text": "El abuelo paterno de Samson Raphael Hirsch es ennoblecido tras financiar la formación de un regimiento bávaro contra Napoleón. La familia judía gana prestigio en el sur de Alemania.",
-          "cities": [
-            "Múnich",
-            "Frankfurt"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1814,
-      "events": [
-        {
-          "name": "Nacimiento de Miklos III Sinay",
-          "text": "Nace Miklos Sinay III, descendiente de una línea protestante ilustrada. Ese mismo año, el Segundo Triunvirato establece las Provincias Unidas del Río de la Plata.",
-          "cities": [
-            "Debrecen",
-            "Buenos Aires"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1818,
-      "events": [
-        {
-          "name": "Karl Marx",
-          "text": "Nace en Tréveris Moisés Mordecai Marx Levi, luego conocido como Karl Marx. Criado en el protestantismo, desarrollará una crítica radical al judaísmo como expresión del mercantilismo burgués.",
-          "cities": [
-            "Tréveris"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1820,
-      "events": [
-        {
-          "name": "Aaron de Staroselye",
-          "text": "Publica en Shklov su obra 'Sha'are Abodah' ('Las puertas del servicio'), donde sistematiza la teología jasídica de Jabad con enfoque en la devoción diaria, la unidad divina y la introspección.",
-          "cities": [
-            "Shklov"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1826,
-      "events": [
-        {
-          "name": "Bernardino Rivadavia",
-          "text": "Es nombrado el primer presidente de las Provincias Unidas del Río de la Plata bajo un régimen unitario. Su breve mandato intenta modernizar las instituciones al estilo europeo.",
-          "cities": [
-            "Buenos Aires"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1830,
-      "events": [
-        {
-          "name": "Adam Weishaupt",
-          "text": "Muere en Gotha el fundador de los Illuminati de Baviera, Adam Weishaupt. Tras recibir protección del duque Ernesto II de Sajonia-Altenburgo, escribió obras en defensa del iluminismo racionalista y republicano, denunciando su persecución en Baviera.",
-          "cities": [
-            "Gotha"
-          ]
-        },
-        {
-          "name": "Emilia Plater",
-          "text": "Emilia Plater participa activamente en el Levantamiento de Noviembre contra el Imperio ruso. Convertida en símbolo del nacionalismo polaco-lituano, lucha vestida como hombre en las guerrillas patriotas del este europeo.",
-          "cities": [
-            "Vilna",
-            "Lituania"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1831,
-      "events": [
-        {
-          "name": "Moritz von Hirsch",
-          "text": "Nace en Múnich Moritz von Hirsch, heredero de una poderosa familia judía bávara. Su abuelo paterno fue ennoblecido por financiar un regimiento bávaro durante las guerras napoleónicas.",
-          "cities": [
-            "Múnich"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1843,
-      "events": [
-        {
-          "name": "Zona de Asentamiento",
-          "text": "El zar Nicolás I ordena la expulsión de los judíos en un radio de 80 km de la frontera con el Imperio austríaco, profundizando las restricciones dentro de la Zona de Asentamiento. Las provincias de Astracán y el Cáucaso son excluidas de la zona.",
-          "cities": [
-            "Kiev",
-            "Astracán",
-            "Cáucaso Norte"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1850,
-      "events": [
-        {
-          "name": "Reuben HaKohen Sinay",
-          "text": "Nace Reuben (Revn) HaKohen Sinay en Augustów, Lituania. Su padre, Arn HaKohen Sinay, era reconocido en la comunidad judía local. En este mismo período, surge en Europa el concepto racializado de 'ario' como contraposición ideológica al judaísmo.",
-          "cities": [
-            "Augustów"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1855,
-      "events": [
-        {
-          "name": "Moritz von Hirsch",
-          "text": "Moritz von Hirsch se casa con Clara Bischoffsheim, hija del banquero Jonathan-Raphaël Bischoffsheim. Se asocia con la casa bancaria Bischoffsheim & Goldschmidt y comienza a acumular una vasta fortuna con concesiones ferroviarias y especulación de azúcar y cobre.",
-          "cities": [
-            "Bruselas",
-            "París",
-            "Viena"
-          ]
-        },
-        {
-          "name": "Fallecimiento de Arn Sinay",
-          "text": "Muere Arn HaKohen Sinay, padre de Reuben, en Lituania. Su familia se muda a Grodno, una de las principales ciudades de la Zona de Asentamiento, conocida por su vibrante vida judía.",
-          "cities": [
-            "Grodno"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1861,
-      "events": [
-        {
-          "name": "Unificación de Italia",
-          "text": "Se completa la unificación italiana bajo la dinastía de los Saboya, integrando varios estados independientes, con fuerte resistencia en el sur, especialmente en el Reino de las Dos Sicilias.",
-          "cities": [
-            "Italia"
-          ]
-        },
-        {
-          "name": "Aarón HaKohen Sinay",
-          "text": "Publica en Lemberg su comentario sobre el Pentateuco titulado Avodat HaLevi (עבודת הלוי), basado en la tradición oral del rabino Shneur Zalman y su obra Tanya, escrito años antes pero editado en este año.",
-          "cities": [
-            "Lemberg"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1862,
-      "events": [
-        {
-          "name": "Bartolomé Mitre",
-          "text": "Líder unitario y liberal. Consolidación nacional tras la batalla de Pavón. Se inicia la Guerra de la Triple Alianza (1865) contra Paraguay. En Buenos Aires son detenidos Dominguito Sarmiento, Mitre Jr., Casal y Britos.",
-          "cities": [
-            "Buenos Aires"
-          ]
-        },
-        {
-          "name": "Nacimiento de supuesto Aarón del Censo",
-          "text": "Se menciona el supuesto nacimiento de un personaje conocido como 'Aarón del Censo' en este periodo.",
-          "cities": [
-            "Argentina"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1868,
-      "events": [
-        {
-          "name": "Domingo Faustino Sarmiento",
-          "text": "Presidente liberal (1868-1874). Promueve la educación pública con creación de escuelas y formación de maestros. Continúa la Guerra de la Triple Alianza hasta su final en 1870.",
-          "cities": [
-            "Argentina"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1869,
-      "events": [
-        {
-          "name": "Moritz von Hirsch",
-          "text": "Nombrado Barón en reconocimiento a la labor bancaria de su padre Josef von Hirsch para la corona. Su madre Caroline Wertheimer provenía de familia judía ortodoxa de Fráncfort del Meno.",
-          "cities": [
-            "Múnich",
-            "Fráncfort del Meno"
-          ]
-        },
-        {
-          "name": "Isabel II de España",
-          "text": "Durante su reinado se inicia la restauración de relaciones con la diáspora judía. La Constitución española de 1869 permite la libertad de culto, un cambio importante tras siglos de intolerancia.",
-          "cities": [
-            "España"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1870,
-      "events": [
-        {
-          "name": "Bartolomé Mitre",
-          "text": "Como presidente, funda el diario La Nación. La policía controla disturbios en fiestas y prostíbulos. En la calle Córdoba se identifican cuatro madamas reconocidas por su actividad.",
-          "cities": [
-            "Buenos Aires"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1871,
-      "events": [
-        {
-          "name": "Fiebre amarilla en Buenos Aires",
-          "text": "La epidemia conocida como 'Reina el espanto' provoca cadáveres en las calles. Sarmiento se retira temporalmente. La vida social vuelve con descontrol y libertinaje, destacándose el bar 'La Pandora'.",
-          "cities": [
-            "Buenos Aires"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1872,
-      "events": [
-        {
-          "name": "Sacerdotes conversos",
-          "text": "Ordenarse sacerdote era una estrategia adoptada por judíos conversos para demostrar sinceridad religiosa. Entre ellos, D. Blas Frayle, D. Joseph Frayle y D. Benito Frayle, asesinado ese año.",
-          "cities": [
-            "Argentina"
-          ]
-        },
-        {
-          "name": "Conquista del Desierto",
-          "text": "Campañas militares de exterminio contra pueblos indígenas lideradas por Julio Argentino Roca (1872-1879). Uso de tácticas brutales como envenenamiento de agua y destrucción de recursos. Víctimas: mapuches, puelches, ranqueles y tehuelches.",
-          "cities": [
-            "Patagonia",
-            "Sur de Argentina"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1874,
-      "events": [
-        {
-          "name": "Nicolás Avellaneda",
-          "text": "Presidente nacionalista (1874-1880). Promueve la inmigración europea para poblar el país. Continúa la campaña de la Conquista del Desierto bajo el liderazgo de Roca.",
-          "cities": [
-            "Argentina",
-            "Rosario"
-          ]
-        },
-        {
-          "name": "Normativa sobre prostitución en Rosario",
-          "text": "Se aprueba la primera norma local para demarcar zonas de radicación de prostíbulos, respuesta a la creciente problemática social.",
-          "cities": [
-            "Rosario"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1875,
-      "events": [
-        {
-          "name": "Tráfico de mujeres en Buenos Aires",
-          "text": "Hernán Gerber vende a 12 mujeres, dos adquiridas por un rufián rosarino. Ese mismo año, la ciudad de Buenos Aires vota la primera ordenanza sobre la problemática de la prostitución.",
-          "cities": [
-            "Buenos Aires",
-            "Rosario"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1876,
-      "events": [
-        {
-          "name": "Nacimiento de Migl HaKohen Sinay",
-          "text": "Nace el 3 de septiembre en Grodno, Rusia, Migl HaKohen Sinay, hijo de Reuben HaKohen Sinay, continuando la línea familiar.",
-          "cities": [
-            "Grodno"
-          ]
-        },
-        {
-          "name": "Viaje por Rusia",
-          "text": "Migl HaKohen Sinay realiza un viaje por Rusia, dentro del contexto de la diáspora judía y las restricciones de la Zona de Asentamiento.",
-          "cities": [
-            "Rusia"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1879,
-      "events": [
-        {
-          "name": "Masacre de la Comarca de los Andes",
-          "text": "En el marco de la Conquista del Desierto, el ejército argentino atacó comunidades mapuches en la Comarca de los Andes, matando a cientos de indígenas y destruyendo sus comunidades, marcando una de las peores matanzas del periodo.",
-          "cities": [
-            "Comarca de los Andes"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1880,
-      "events": [
-        {
-          "name": "Julio Argentino Roca",
-          "text": "Asume la presidencia (1880-1886) con el partido Autonomista Nacional. Se federaliza Buenos Aires como capital del país y se consolida el territorio con la Campaña del Desierto.",
-          "cities": [
-            "Buenos Aires",
-            "Argentina"
-          ]
-        }
-      ]
-    },
-    {
-      "yearRange": "1881-1884",
-      "events": [
-        {
-          "name": "Represión en el Imperio Zarista Ruso",
-          "text": "Tras el atentado al zar Alejandro II, el imperio implementa normas restrictivas: prohibición de escuelas y profesiones liberales para judíos, y expulsión a las afueras de la Zona de Asentamiento.",
-          "cities": [
-            "Rusia"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1882,
-      "events": [
-        {
-          "name": "Donación de Moritz von Hirsch para judíos rusos",
-          "text": "Hirsch dona 10.000 libras para repatriación de refugiados y ofrece 2.000.000 de libras para crear un sistema de educación secular en la Zona de Asentamiento Judía. El gobierno ruso acepta el dinero pero rechaza la participación extranjera en su administración.",
-          "cities": [
-            "Rusia"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1883,
-      "events": [
-        {
-          "name": "Bienvenida en Sarafand a colonos judíos",
-          "text": "Los habitantes árabes de Sarafand recibieron a los colonos judíos con palabras de fraternidad, destacando la convivencia histórica entre ambos pueblos.",
-          "cities": [
-            "Sarafand",
-            "Palestina"
-          ]
-        }
-      ]
-    },
-    {
-      "year": 1884,
-      "events": [
-        {
-          "name": "Estudio del Talmud",
-          "text": "Durante este año se profundiza el estudio del Talmud, texto fundamental del judaísmo rabínico.",
-          "cities": []
-        }
-      ]
-    },
-    {
-      "year": 1885,
+      "year": "1885",
       "events": [
         {
           "name": "Fundación de la Compañía Jevra Kedusha",
@@ -834,7 +722,7 @@
       ]
     },
     {
-      "year": 1886,
+      "year": "1886",
       "events": [
         {
           "name": "Miguel Juárez Celman",
@@ -846,7 +734,7 @@
       ]
     },
     {
-      "year": 1887,
+      "year": "1887",
       "events": [
         {
           "name": "Sociedad Safah Brura",
@@ -880,7 +768,7 @@
       ]
     },
     {
-      "year": 1888,
+      "year": "1888",
       "events": [
         {
           "name": "Nacimiento de León Duckler",
@@ -905,7 +793,7 @@
       ]
     },
     {
-      "year": 1890,
+      "year": "1890",
       "events": [
         {
           "name": "Crisis económica y Revolución del Parque",
@@ -938,7 +826,7 @@
       ]
     },
     {
-      "year": 1891,
+      "year": "1891",
       "events": [
         {
           "name": "Establecimiento en Moisés Ville",
@@ -974,7 +862,7 @@
       ]
     },
     {
-      "year": 1892,
+      "year": "1892",
       "events": [
         {
           "name": "Crimen y violencia en Argentina",
@@ -997,7 +885,7 @@
       ]
     },
     {
-      "year": 1893,
+      "year": "1893",
       "events": [
         {
           "name": "El club de los 40 y 'Mujeres Libertadas'",
@@ -1009,7 +897,7 @@
       ]
     },
     {
-      "year": 1894,
+      "year": "1894",
       "events": [
         {
           "name": "Fundación de la AMIA",
@@ -1031,7 +919,7 @@
       ]
     },
     {
-      "year": 1891,
+      "year": "1891",
       "events": [
         {
           "name": "Fundación de YICO",
@@ -1049,7 +937,7 @@
       ]
     },
     {
-      "year": 1894,
+      "year": "1894",
       "events": [
         {
           "name": "Pogromo en Grodno",
@@ -1061,7 +949,7 @@
       ]
     },
     {
-      "year": 1895,
+      "year": "1895",
       "events": [
         {
           "name": "Presidencia de José Evaristo Uriburu",
@@ -1076,7 +964,7 @@
       ]
     },
     {
-      "year": 1896,
+      "year": "1896",
       "events": [
         {
           "name": "Cita de Teodoro Herzl sobre el sionismo",

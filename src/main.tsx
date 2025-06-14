@@ -6,7 +6,6 @@ import Tecnobiblia from './Tecnobiblia.tsx'
 import Root from './routes/Root.tsx';  // Asegúrate de que esta ruta esté bien configurada
 import { createHashRouter, RouterProvider } from 'react-router-dom';
 import './index.css';
-import Mapa from './Mapa.jsx'
 
 // Configuración de las rutas
 const router = createHashRouter([
@@ -18,7 +17,6 @@ const router = createHashRouter([
       { path: "/crear", element: <Crear /> },  // Ruta para la página "Crear"
       { path: "/conoceme", element: <Crear /> }, // Ruta para "Conóceme"
       { path: "/creemos", element: <Crear /> }, // Ruta para "Creemos"
-      { path: "/mapa", element: <Mapa /> }, // Ruta para "Creemos"
       { path: "/tecnobiblia", element: <Tecnobiblia /> }
 
       

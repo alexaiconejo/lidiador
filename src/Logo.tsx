@@ -1,5 +1,4 @@
 // Logo.jsx
-import React from "react";
 import { PiStarOfDavidLight } from "react-icons/pi";
 import { HiMoon } from "react-icons/hi";
 import { CgCross } from "react-icons/cg";
