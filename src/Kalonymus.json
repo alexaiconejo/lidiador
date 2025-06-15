@@ -47,6 +47,15 @@
       }
     ]
   },
+   {
+    "year": "951",
+    "events": [
+      {
+        "name": "Desarrollo de la mística judía temprana",
+        "text": "Surge la mística judía en textos como el Sefer Yetzirá, que enfatizan que justos anónimos sostienen el mundo. (Autor tradicional: Anónimo, ya que la autoría exacta del Sefer Yetzirá es objeto de debate)"
+      }
+    ]
+  },
   {
     "year": "876",
     "events": [
@@ -165,6 +174,25 @@
         "name": "Moisés ben Kalonymus en Maguncia",
         "text": "Moisés ben Kalonymus HaKohen continuó la tradición rabínica en Maguncia. Autor de piyutim y dayan, fue educado por su padre Meshullam. Casado con Miriam bat David, tuvo tres hijos.",
         "cities": ["Maguncia", "Lucca"]
+      }
+    ]
+  },
+  {"year": "1060",
+"events":[   {"name": "Moisés ben Kalonymus en Maguncia",
+      "text":
+        "Desde allí [Lucca] hay seis días de viaje hasta la gran ciudad de Roma. Roma es la cabeza de los reinos de la cristiandad y contiene alrededor de 200 judíos, que ocupan una posición honorable y no pagan tributo, y entre ellos hay funcionarios del papa Alejandro [III], el jefe espiritual de toda la cristiandad. Grandes eruditos residen aquí, a la cabeza de ellos están R. Daniel [Anav], el rabino jefe, y R. Yechiel, un funcionario del papa. Es un joven apuesto, inteligente y sabio, y tiene la entrada al palacio del papa; porque es el administrador de su casa y de todo lo que tiene. Es nieto de R. Natan, que compuso el Aruch y sus comentarios.",
+         "cities": ["Roma", "Lucca"]
+      }]},
+  
+    {
+    "year": "1280",
+    "events": [
+      {
+        "name": "Redacción del Zohar",
+        "text": "Se escribe el Zohar, una obra central de la Cábala atribuida tradicionalmente a Rabí Simeón bar Yochai, que profundiza en las nociones místicas de los tzadikim, aunque sin mencionar explícitamente a los 36 justos.",
+        "cities": [
+          "Castilla"
+        ]
       }
     ]
   },

@@ -14,6 +14,7 @@ import abominable from "./Abominable.json";
 import reconstruccion from "./Reconstruccion.json";
 import impuros from "./Impuros.json";
 import madre from "./LaMadre.json";
+import rabino from "./Rabino.json";
 import indeseables from "./Indeseables.json";
 import Logo from "./Logo.tsx";
 
@@ -78,11 +79,12 @@ const eventRefs = useRef<(HTMLLIElement | null)[]>([]);
     azkenasies,
     sinay,
   litvak,
+  rabino,
 indeseables,
 impuros, reconstruccion, abominable];
 
 const chapterIcons = [
-    <FaStarOfDavid />,   // Madre
+  <FaStarOfDavid />,   // Madre
   <FaStarOfDavid />,   // Santo de los Santos
   <FaCrown />,         // Reyes
   <FaRebel />,         // Rebeldes
@@ -92,6 +94,7 @@ const chapterIcons = [
   <FaBookDead />,      // Azkenasies
   <FaMountain />,      // Sinaí
   <FaFlag />,          // Litvak (Lituania)
+  <FaFlag />,          // Rabino 
   <FaPaw />,          // Impuros (León)
   <FaTractor />,       // Indeseables (Revolución Agrícola)
   <FaRecycle />,       // Reconstrucción
@@ -136,6 +139,7 @@ useEffect(() => {
     protagonistasMap[year] = { male, female };
   });
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const getHakohenProtagonists = (year: string) => {
   const years = Object.keys(protagonistasMap).sort(); // ordena años en orden ascendente
   let closestYear: string | null = null;
@@ -182,7 +186,7 @@ useEffect(() => {
     window.addEventListener("scroll", handleScroll, { passive: true });
     handleScroll();
     return () => window.removeEventListener("scroll", handleScroll);
-  }, [allEvents]);
+  }, [allEvents, getHakohenProtagonists]);
 
   let eventIndex = 0;
   const activeBackgroundUrl = chapters

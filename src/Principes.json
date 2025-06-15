@@ -2,22 +2,32 @@
   "title": "Los Príncipes y las luchas sociales",
   "duration": "70 - 850",
   "years": [
-    {
-      "year": "70",
-      "events": [
-        {
-          "name": "Tito y las 4 familias / Exilio en Roma / Berenice de Judea",
-          "text": "Tras la destrucción del Segundo Templo, Tito deportó a las familias sacerdotales Anav, de Pomis, dei Rossi y degli Adolescentoli, vinculadas a la línea HaKohen. Estas casas se asentaron en Roma, donde tejieron redes de poder rabínico. Berenice de Judea, hija de Herodes Agripa I, simbolizó los vínculos entre la nobleza judía y el poder imperial romano.",
-          "cities": ["Jerusalén", "Roma"]
-        }
-      ]
-    },
+{
+    "year": "71",
+    "events": [
+      {
+        "name": "Deportación de familias sacerdotales según tradiciones familiares",
+        "text": "después de la caída de Jerusalén en sus manos y la destrucción del segundo Beit ha-Mikdash (Templo de Jerusalén), el emperador romano Tito tomó prisioneros a los patriarcas de cuatro familias nobles de la provincia de Yehuda y de la ciudad de Jerusalén y los exilió a Roma. Según tradiciones genealógicas judías-italianas posteriores, familias sacerdotales como Anav, de Pomis, dei Rossi y degli Adolescentoli vinculadas a la línea HaKohen, fueron deportadas por Tito tras la destrucción del Segundo Templo y se asentaron en Roma.",
+        "cities": ["Jerusalén"]
+      }
+    ]
+  },
+   {
+    "year": "72",
+    "events": [
+      {
+        "name": "Asentamiento de las familias sacerdotales en Roma",
+        "text": "Las familias sacerdotales deportadas fueron establecidas en Roma. Allí comenzaron a integrarse en la comunidad judía local, adaptándose a un nuevo entorno mientras mantenían tradiciones religiosas y sociales propias. Tanaim es ",
+        "cities": ["Roma"]
+      }
+    ]
+  },
     {
       "year": "110",
       "events": [
         {
           "name": "Shimón ben Gamliel II y la herencia sacerdotal",
-          "text": "Shimón ben Gamliel II, hijo de Gamliel II y descendiente de la casa HaKohen, nació en Galilea en tiempos difíciles. Desde pequeño fue instruido en la tradición y la memoria del Templo, preparándose para preservar el linaje y la ley en el exilio.",
+          "text": "Shimón ben Gamliel II, hijo de Gamliel II y descendiente de la casa HaKohen, nació en Galilea en tiempos difíciles. Desde pequeño fue instruido en la tradición y la memoria del Templo, preparándose para preservar el linaje y la ley en el exilio. ",
           "cities": ["Galilea"]
         }
       ]
@@ -27,7 +37,7 @@
       "events": [
         {
           "name": "Judá HaNasi y la línea HaKohen",
-          "text": "Judá HaNasi, hijo de Shimón ben Gamliel II y su esposa Miriam, descendía del linaje HaKohen por vía materna. Como presidente del Sanedrín, consolidó la unión de la estirpe de Hilel con la sacerdotal, compilando la Mishná y protegiendo derechos hereditarios y legales.",
+          "text": "Judá HaNasi, hijo de Shimón ben Gamliel II y su esposa Miriam, descendía del linaje HaKohen por vía materna. Como presidente del Sanedrín, consolidó la unión de la estirpe de Hilel con la sacerdotal, compilando la Mishná y protegiendo derechos hereditarios y legales. Fue un líder clave de la comunidad judía en la Judea ocupada por los romanos después de la revuelta de Bar Kokhba . Como Nasí, su riqueza era comparable a la de los gobernantes romanos, y destinó gran parte de ella a auxiliar a los menos favorecidos. Desde los días de Moshé Rabeinu hasta Rabeinu HaKadosh, nunca se encontró un gran conocimiento de la Torá junto con una gran riqueza.",
           "cities": ["Galilea"]
         }
       ]
@@ -37,7 +47,7 @@
       "events": [
         {
           "name": "Casa de Judá HaNasi",
-          "text": "En la residencia de Judá HaNasi, su familia participaba en la vida intelectual y legal, destacando la protección de las mujeres y esclavas dentro de la comunidad.",
+          "text": "En la residencia de Judá HaNasi, su familia participaba en la vida intelectual y legal, editor de la Mishná en su forma real. Se refieren a él como: Príncipe y Maestro por excelencia, y como: Rabeinu HaKadosh, Nuestro Santo Rabino.",
           "cities": ["Galilea"]
         }
       ]
@@ -72,6 +82,15 @@
         }
       ]
     },
+   {
+  "year": "300",
+  "events": [
+    {
+      "name": "Primera mención en el Talmud de los santos ocultos",
+      "text": "El Talmud babilónico, compilado por generaciones de sabios conocidos como Amoraim entre los siglos III y V, menciona en el tratado Sanedrín 97b y Sucá 45b que en cada generación existen al menos 36 tzadikim (justos) que 'ven el rostro de la Shejiná'. Estos justos anónimos, conocidos más tarde como 'Lamed Vav Tzadikim', sostienen espiritualmente al mundo aunque su identidad es desconocida incluso para ellos mismos. Esta idea inaugura el concepto de los 'santos ocultos', cuya mera existencia garantiza la continuidad del mundo."
+    }
+  ]
+},
     {
       "year": "310",
       "events": [

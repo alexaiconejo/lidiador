@@ -1,0 +1,529 @@
+ {
+  "title": "Rabino",
+  "duration": "1850 - 1898",
+  "years": [
+    {
+    "year": "1850",
+    "events": [
+      {
+        "name": "Reuben HaKohen Sinay",
+        "text": "Nace Reuben (Revn) HaKohen Sinay en Augustów, Lituania. Su padre, Arn HaKohen Sinay, era reconocido en la comunidad judía local. En este mismo período, surge en Europa el concepto racializado de 'ario' como contraposición ideológica al judaísmo.",
+        "cities": ["Augustów"]
+      }
+    ]
+  },
+  {
+    "year": "1855",
+    "events": [
+      {
+        "name": "Moritz von Hirsch",
+        "text": "Moritz von Hirsch se casa con Clara Bischoffsheim, hija del banquero Jonathan-Raphaël Bischoffsheim. Se asocia con la casa bancaria Bischoffsheim & Goldschmidt y comienza a acumular una vasta fortuna con concesiones ferroviarias y especulación de azúcar y cobre.",
+        "cities": ["Bruselas", "París", "Viena"]
+      },
+      {
+        "name": "Fallecimiento de Arn Sinay",
+        "text": "Muere Arn HaKohen Sinay, padre de Reuben, en Lituania. Su familia se muda a Grodno, una de las principales ciudades de la Zona de Asentamiento, conocida por su vibrante vida judía.",
+        "cities": ["Grodno"]
+      }
+    ]
+  },
+  {
+    "year": "1861",
+    "events": [
+      {
+        "name": "Unificación de Italia",
+        "text": "Se completa la unificación italiana bajo la dinastía de los Saboya, integrando varios estados independientes, con fuerte resistencia en el sur, especialmente en el Reino de las Dos Sicilias.",
+        "cities": ["Italia"]
+      },
+      {
+        "name": "Aarón HaKohen Sinay",
+        "text": "Publica en Lemberg su comentario sobre el Pentateuco titulado Avodat HaLevi (עבודת הלוי), basado en la tradición oral del rabino Shneur Zalman y su obra Tanya, escrito años antes pero editado en este año.",
+        "cities": ["Lemberg"]
+      }
+    ]
+  },
+  {
+    "year": "1862",
+    "events": [
+      {
+        "name": "Bartolomé Mitre",
+        "text": "Líder unitario y liberal. Consolidación nacional tras la batalla de Pavón. Se inicia la Guerra de la Triple Alianza (1865) contra Paraguay. En Buenos Aires son detenidos Dominguito Sarmiento, Mitre Jr., Casal y Britos.",
+        "cities": [
+          "Buenos Aires"
+        ]
+      },
+      {
+        "name": "Nacimiento de supuesto Aarón del Censo",
+        "text": "Se menciona el supuesto nacimiento de un personaje conocido como 'Aarón del Censo' en este periodo.",
+        "cities": [
+          "Argentina"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1868",
+    "events": [
+      {
+        "name": "Domingo Faustino Sarmiento",
+        "text": "Presidente liberal (1868-1874). Promueve la educación pública con creación de escuelas y formación de maestros. Continúa la Guerra de la Triple Alianza hasta su final en 1870.",
+        "cities": [
+          "Argentina"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1869",
+    "events": [
+      {
+        "name": "Moritz von Hirsch",
+        "text": "Nombrado Barón en reconocimiento a la labor bancaria de su padre Josef von Hirsch para la corona. Su madre Caroline Wertheimer provenía de familia judía ortodoxa de Fráncfort del Meno.",
+        "cities": [
+          "Múnich",
+          "Fráncfort del Meno"
+        ]
+      },
+      {
+        "name": "Isabel II de España",
+        "text": "Durante su reinado se inicia la restauración de relaciones con la diáspora judía. La Constitución española de 1869 permite la libertad de culto, un cambio importante tras siglos de intolerancia.",
+        "cities": [
+          "España"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1870",
+    "events": [
+      {
+        "name": "Bartolomé Mitre",
+        "text": "Como presidente, funda el diario La Nación. La policía controla disturbios en fiestas y prostíbulos. En la calle Córdoba se identifican cuatro madamas reconocidas por su actividad.",
+        "cities": [
+          "Buenos Aires"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1871",
+    "events": [
+      {
+        "name": "Fiebre amarilla en Buenos Aires",
+        "text": "La epidemia conocida como 'Reina el espanto' provoca cadáveres en las calles. Sarmiento se retira temporalmente. La vida social vuelve con descontrol y libertinaje, destacándose el bar 'La Pandora'.",
+        "cities": [
+          "Buenos Aires"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1872",
+    "events": [
+      {
+        "name": "Sacerdotes conversos",
+        "text": "Ordenarse sacerdote era una estrategia adoptada por judíos conversos para demostrar sinceridad religiosa. Entre ellos, D. Blas Frayle, D. Joseph Frayle y D. Benito Frayle, asesinado ese año.",
+        "cities": [
+          "Argentina"
+        ]
+      },
+      {
+        "name": "Conquista del Desierto",
+        "text": "Campañas militares de exterminio contra pueblos indígenas lideradas por Julio Argentino Roca (1872-1879). Uso de tácticas brutales como envenenamiento de agua y destrucción de recursos. Víctimas: mapuches, puelches, ranqueles y tehuelches.",
+        "cities": [
+          "Patagonia",
+          "Sur de Argentina"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1874",
+    "events": [
+      {
+        "name": "Nicolás Avellaneda",
+        "text": "Presidente nacionalista (1874-1880). Promueve la inmigración europea para poblar el país. Continúa la campaña de la Conquista del Desierto bajo el liderazgo de Roca.",
+        "cities": [
+          "Argentina",
+          "Rosario"
+        ]
+      },
+      {
+        "name": "Normativa sobre prostitución en Rosario",
+        "text": "Se aprueba la primera norma local para demarcar zonas de radicación de prostíbulos, respuesta a la creciente problemática social.",
+        "cities": [
+          "Rosario"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1875",
+    "events": [
+      {
+        "name": "Tráfico de mujeres en Buenos Aires",
+        "text": "Hernán Gerber vende a 12 mujeres, dos adquiridas por un rufián rosarino. Ese mismo año, la ciudad de Buenos Aires vota la primera ordenanza sobre la problemática de la prostitución.",
+        "cities": [
+          "Buenos Aires",
+          "Rosario"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1876",
+    "events": [
+      {
+        "name": "Nacimiento de Migl HaKohen Sinay",
+        "text": "Nace el 3 de septiembre en Grodno, Rusia, Migl HaKohen Sinay, hijo de Reuben HaKohen Sinay, continuando la línea familiar.",
+        "cities": [
+          "Grodno"
+        ]
+      },
+      {
+        "name": "Viaje por Rusia",
+        "text": "Migl HaKohen Sinay realiza un viaje por Rusia, dentro del contexto de la diáspora judía y las restricciones de la Zona de Asentamiento.",
+        "cities": [
+          "Rusia"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1879",
+    "events": [
+      {
+        "name": "Masacre de la Comarca de los Andes",
+        "text": "En el marco de la Conquista del Desierto, el ejército argentino atacó comunidades mapuches en la Comarca de los Andes, matando a cientos de indígenas y destruyendo sus comunidades, marcando una de las peores matanzas del periodo.",
+        "cities": [
+          "Comarca de los Andes"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1880",
+    "events": [
+      {
+        "name": "Julio Argentino Roca",
+        "text": "Asume la presidencia (1880-1886) con el partido Autonomista Nacional. Se federaliza Buenos Aires como capital del país y se consolida el territorio con la Campaña del Desierto.",
+        "cities": [
+          "Buenos Aires",
+          "Argentina"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1881",
+    "events": [
+      {
+        "name": "Represión en el Imperio Zarista Ruso",
+        "text": "Tras el atentado al zar Alejandro II, el imperio implementa normas restrictivas: prohibición de escuelas y profesiones liberales para judíos, y expulsión a las afueras de la Zona de Asentamiento.",
+        "cities": [
+          "Rusia"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1882",
+    "events": [
+      {
+        "name": "Donación de Moritz von Hirsch para judíos rusos",
+        "text": "Hirsch dona 10.000 libras para repatriación de refugiados y ofrece 2.000.000 de libras para crear un sistema de educación secular en la Zona de Asentamiento Judía. El gobierno ruso acepta el dinero pero rechaza la participación extranjera en su administración.",
+        "cities": [
+          "Rusia"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1883",
+    "events": [
+      {
+        "name": "Bienvenida en Sarafand a colonos judíos",
+        "text": "Los habitantes árabes de Sarafand recibieron a los colonos judíos con palabras de fraternidad, destacando la convivencia histórica entre ambos pueblos.",
+        "cities": [
+          "Sarafand",
+          "Palestina"
+        ]
+      }
+    ]
+  },
+  {
+    "year": "1884",
+    "events": [
+      {
+        "name": "Estudio del Talmud",
+        "text": "Durante este año se profundiza el estudio del Talmud, texto fundamental del judaísmo rabínico.",
+        "cities": []
+      }
+    ]
+  },
+    {
+      "year": "1885",
+      "events": [
+        {
+          "name": "Fundación de la Compañía Jevra Kedusha",
+          "text": "Se crea la Compañía Jevra Kedusha con la finalidad de adquirir una necrópolis privada destinada a la inhumación de cadáveres siguiendo el ritual judío, que exige tierra virgen y una ceremonia especial.",
+          "cities": [
+            "Buenos Aires"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1886",
+      "events": [
+        {
+          "name": "Miguel Juárez Celman",
+          "text": "Asume la presidencia argentina (1886-1890) representando al partido Autonomista Nacional.",
+          "cities": [
+            "Argentina"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1887",
+      "events": [
+        {
+          "name": "Sociedad Safah Brura",
+          "text": "Poco antes de la formación de Hovevei Zion, se funda Safah Brura (Lenguaje Sencillo) para difundir oralmente el hebreo. Entre sus fundadores estaban el rabino ID Miller, Leyb Yoffe, el rabino Ephraim Neimark y el rabino Reuben Hakohen Sinai. La sociedad tuvo muchos adeptos y frecuentes reuniones, pero no sobrevivió mucho tiempo.",
+          "persons": [
+            "Rabino ID Miller",
+            "Leyb Yoffe",
+            "Rabino Ephraim Neimark",
+            "Rabino Reuben Hakohen Sinai"
+          ]
+        },
+        {
+          "name": "Muerte de Lucien Hirsch",
+          "text": "Fallece Lucien, hijo de Moritz von Hirsch.",
+          "persons": [
+            "Lucien Hirsch",
+            "Moritz von Hirsch"
+          ]
+        },
+        {
+          "name": "Nacimiento de Zalman Reisen",
+          "text": "Nace Zalman Reisen el 6 de octubre en Koydenev, Gobernación de Minsk (actual Bielorrusia). Hijo de padres influenciados por la Ilustración judía (Haskalah), recibió educación en casa y en cheders, y asistió a una escuela pública rusa en Minsk.",
+          "persons": [
+            "Zalman Reisen"
+          ],
+          "cities": [
+            "Koydenev",
+            "Minsk"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1888",
+      "events": [
+        {
+          "name": "Nacimiento de León Duckler",
+          "text": "Nace León Duckler (o Ducker) el 14 de diciembre en Varsovia, Polonia.",
+          "persons": [
+            "León Duckler"
+          ],
+          "cities": [
+            "Varsovia"
+          ]
+        },
+        {
+          "name": "Sociedad Safah Brura",
+          "text": "Se reitera que Safah Brura tuvo importancia en la difusión oral del hebreo, aunque no logró sobrevivir mucho tiempo.",
+          "persons": [
+            "Rabino ID Miller",
+            "Leyb Yoffe",
+            "Rabino Ephraim Neimark",
+            "Rabino Reuben Hakohen Sinai"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1890",
+      "events": [
+        {
+          "name": "Crisis económica y Revolución del Parque",
+          "text": "Crisis financiera en Argentina y comienzo de la Revolución del Parque que dio origen a la Unión Cívica.",
+          "cities": [
+            "Argentina"
+          ]
+        },
+        {
+          "name": "Presidencia de Carlos Pellegrini",
+          "text": "Asume Carlos Pellegrini (1890-1892) con el partido Autonomista Nacional, estabilizando la economía tras la crisis.",
+          "persons": [
+            "Carlos Pellegrini"
+          ],
+          "cities": [
+            "Argentina"
+          ]
+        },
+        {
+          "name": "Mudanza de Miguel Juárez Celman",
+          "text": "Miguel Juárez Celman se muda con sus padres a Zabludove (Zabłudów) cerca de Bialystok, donde estudia escuela primaria religiosa y en casa Tanakh, gramática hebrea y Talmud.",
+          "persons": [
+            "Miguel Juárez Celman"
+          ],
+          "cities": [
+            "Zabludove",
+            "Bialystok"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1891",
+      "events": [
+        {
+          "name": "Establecimiento en Moisés Ville",
+          "text": "Se aprueba el proyecto de asentamiento judío, con compra de tierras firmada con Palacios. Se establecen en Moisés Ville, cultivando lino. El médico local enfrenta plagas y mala cosecha. Violencia: Ziml es asesinado por un gaucho por deudas, un almacenero es encontrado destripado, y seis personas huyen y son asesinadas en caminos cercanos.",
+          "cities": [
+            "Moisés Ville"
+          ],
+          "persons": [
+            "Ziml"
+          ]
+        },
+        {
+          "name": "Creación del Banco de la Nación Argentina",
+          "text": "Se crea el Banco de la Nación Argentina.",
+          "cities": [
+            "Argentina"
+          ]
+        },
+        {
+          "name": "Oleada de inmigrantes judíos en Buenos Aires",
+          "text": "Gran llegada de inmigrantes judíos con vestimentas exóticas y largas barbas, muchos de ellos agricultores tras haber sido comerciantes o industriales. Se instalan en barrios céntricos como Corrientes, Lavalle, Talcahuano, Cerrito y Libertad, viviendo en conventillos o piezas en condiciones precarias.",
+          "cities": [
+            "Buenos Aires"
+          ]
+        },
+        {
+          "name": "Gestiones para necrópolis judía en Chacarita",
+          "text": "Se realizan gestiones ante las autoridades municipales para asignar un terreno en Chacarita exclusivo para inhumaciones israelitas. El 14 de junio de 1892 se señala la manzana 6ta de la sección 14 destinada a este fin.",
+          "cities": [
+            "Buenos Aires"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1892",
+      "events": [
+        {
+          "name": "Crimen y violencia en Argentina",
+          "text": "En enero se registra un crimen familiar y la prensa (diario La Unión) informa sin pausa sobre casos violentos. El 3 de mayo se promulga el Reglamento Temporal acerca de los judíos en Rusia, restringiendo severamente su residencia y derechos.",
+          "cities": [
+            "Argentina",
+            "Rusia"
+          ]
+        },
+        {
+          "name": "Presidencia de Luis Sáenz Peña",
+          "text": "Asume Luis Sáenz Peña (1892-1895) por el partido Autonomista Nacional. El gobierno enfrenta conflictos internos y Sáenz Peña renuncia antes de finalizar su mandato.",
+          "persons": [
+            "Luis Sáenz Peña"
+          ],
+          "cities": [
+            "Argentina"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1893",
+      "events": [
+        {
+          "name": "El club de los 40 y 'Mujeres Libertadas'",
+          "text": "El club de los 40 congrega a 300 mujeres. La prensa las llama “mujeres libertadas” y la policía capitalina crea una “Galería de sospechosos”.",
+          "cities": [
+            "Buenos Aires"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1894",
+      "events": [
+        {
+          "name": "Fundación de la AMIA",
+          "text": "Se funda la AMIA por inmigrantes judíos, que se convierte en la principal institución de la comunidad judía en Argentina.",
+          "cities": [
+            "Buenos Aires"
+          ]
+        },
+        {
+          "name": "Estudios y publicaciones de Zalman Reisen",
+          "text": "Zalman Reisen estudia en ieshivá y escuela municipal rusa en Grodno. Lee obras en yiddish, incluyendo la antología de Mortkhe Spektor \"Der hoyz-fraynd\". Publica con amigos varios números del folleto impreso en hebreo \"Hanitsanim\" (Los brotes).",
+          "persons": [
+            "Zalman Reisen"
+          ],
+          "cities": [
+            "Grodno"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1891",
+      "events": [
+        {
+          "name": "Fundación de YICO",
+          "text": "Se crea YICO, una organización clave en la comunidad judía.",
+          "persons": [],
+          "cities": []
+        },
+        {
+          "name": "Expulsión de judíos de San Petersburgo",
+          "text": "Se produce la expulsión de los judíos de San Petersburgo en el marco de las políticas restrictivas del Imperio Ruso.",
+          "cities": [
+            "San Petersburgo"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1894",
+      "events": [
+        {
+          "name": "Pogromo en Grodno",
+          "text": "Un jinete errabundo difundió historias alarmantes sobre un pogromo ocurrido en Grodno pocos días antes, generando temor entre los judíos que, como sus antepasados durante tres siglos, regresaban de la sinagoga reconfortados por la fe, pero preocupados.",
+          "cities": [
+            "Grodno"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1895",
+      "events": [
+        {
+          "name": "Presidencia de José Evaristo Uriburu",
+          "text": "José Evaristo Uriburu (1895-1898), del partido Autonomista Nacional, asume la presidencia. Se caracteriza por una gobernabilidad pacífica tras la renuncia de Sáenz Peña y un crecimiento de la economía agroexportadora.",
+          "persons": [
+            "José Evaristo Uriburu"
+          ],
+          "cities": [
+            "Argentina"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "1896",
+      "events": [
+        {
+          "name": "Cita de Teodoro Herzl sobre el sionismo",
+          "text": "El fundador del sionismo, Teodoro Herzl, escribió en su obra “La edificación del Estado Judío”: “La edificación del Estado Judío no puede hacerse por métodos arcaicos. Supongamos que queremos exterminar los animales salvajes de una región. Es evidente que no iremos con arco y flecha a seguir la pista de las fieras, como se hacía en el siglo XV. Organizaremos una gran cacería colectiva, bien preparada, y mataremos las fieras lanzando entre ellas bombas de alto poder explosivo.” (Walsh, cita de “El Estado Judío”).",
+          "cities": [
+            "Buenos Aires"
+          ]
+        }
+      ]
+    }]}

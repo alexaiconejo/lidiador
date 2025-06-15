@@ -17,7 +17,8 @@
     },
     {
       "year": "100000000000 a.C.",
-      "events": [
+      "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_85c547997eb64865aab453d51a373ac6~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_85c547997eb64865aab453d51a373ac6~mv2.webp",
+        "events": [
         {
           "name": "La Madre",
           "text": "El término procede del griego antiguo χάος, espacio que se abre, o hendidura, y procede del verbo χάω, que en formas derivadas significa bostezar. Hay una primera inspiración, una inhalación del universo o primera escisión o sacrificio, un ir hacia adentro del todo y que da pie a una chispa. Lo que hay más allá, lo ultravioleta o pitido tan agudo que no se puede oír. El estado prístino del cosmos. Hesíodo utiliza «Χάος» con género neutro. Aristófanes escribe «Χάους» también como neutro, pero sugiere que pudiera ser una entidad femenina.",
@@ -53,6 +54,7 @@
     },
     {
       "year": "13800000000 a.C.",
+      "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_1d4cb6ce86fa4763b03ab41fcb04f310~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_1d4cb6ce86fa4763b03ab41fcb04f310~mv2.webp",
       "events": [
         {
           "name": "El dragón",
@@ -65,6 +67,7 @@
     },
     {
       "year": "100000 a.C.",
+      "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_2702aedae7d446eb8855d1eaa89f49d9~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_2702aedae7d446eb8855d1eaa89f49d9~mv2.webp",
       "events": [
         {
           "name": "Eva",
@@ -101,6 +104,7 @@
     },
     {
       "year": "7999 a.C.",
+      "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_d3a9b6fd667541c0961cc143ff456afa~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_d3a9b6fd667541c0961cc143ff456afa~mv2.webp",
       "events": [
         {
           "name": "Edad de los Metales",
