@@ -1,167 +1,123 @@
 {
-  "title": "Impuros",
-  "duration": "1931 - 1942",
+  "title": "Reconstrucción",
+  "duration": "1943 - 1990",
   "years": [
+
     {
-      "year": "1931",
-      "events": [
-        {
-          "name": "Revocación de procesamientos y libertades a rufianes",
-          "text": "Principios de 1931 se rumoreaba que los rufianes serían liberados y el 27 de enero la Cámara de Apelaciones, integrada por los jueces Oribe y Ortiz de Rozas, revocó los procesamientos del juez Rodríguez Ocampo y ordenó las libertades tras negar el valor de las pruebas recolectadas y las denuncias de las mujeres contra los proxenetas, ya que 'no se acreditaban hechos de corrupción'."
-        },
-        {
-          "name": "Misterio de la Unión Hebraica y rufianes judíos",
-          "text": "La Unión Hebraica no figura oficialmente dentro de las instituciones de la colectividad judía en Rosario y su existencia quedó marginada. Parecería haber sido una pantalla de rufianes judíos radicados en Rosario. Saúl Friedman, uno de sus directivos, fue detenido en una redada en mayo de 1930 en una casa donde funcionaba una sinagoga frecuentada por elementos de mal vivir."
-        },
-        {
-          "name": "Colectividad judía y exclusión de proxenetas",
-          "text": "Los dirigentes de la colectividad judía impidieron el ingreso de los proxenetas a los templos y prohibieron celebrar entierros religiosos de tratantes de blancas. Los caftens formaban sociedades de socorros mutuos, siendo la más conocida la Varsovia, que en 1929 cambió su nombre a Zwi Migdal, con interés genuino de sostener su religiosidad."
-        }
-      ]
+  "year": "1943",
+  "events": [
+    {
+      "name": "Incorporación de shules icufistas a la política de subsidios",
+      "text": "Los shules icufistas Jaim Zhitlovsky de Villa del Parque e I.L. Peretz de Villa Lynch, los más concurridos, fueron incorporados a la política de subsidios de la AMIA (Vaad Hajinuj), mientras otros cinco shules se sumaron hacia el final de la década.",
+      "cities": ["Buenos Aires"]
+    }
+  ]
+},
+    {
+  "year": "1945",
+  "events": [
+    {
+      "name": "Crecimiento y consolidación del ICUF tras la Segunda Guerra Mundial",
+      "text": "Con la adhesión popular inspirada por la Unión Soviética y el Ejército Rojo, el ICUF consolidó sus escuelas como Veltleje Shuln (escuelas laicas), reconocidas oficialmente como idiomáticas complementarias. Contaron con apoyo económico y reconocimiento institucional.",
+      "cities": ["Argentina"]
+    }
+  ]
+},
+{
+  "year": "1946",
+  "events": [
+    {
+      "name": "Replanteo estratégico del Partido Comunista Argentino tras triunfo de Perón",
+      "text": "Tras la llegada de Perón, el PCA decidió 'acriollar' al partido para captar a las masas nacionales, desplazando a extranjeros de cargos sindicales e impulsando a judíos militantes a integrar la colectividad israelita, dando un nuevo impulso a la Comisión Israelita del PC y al entorno ideológico del ICUF.",
+      "cities": ["Argentina", "Buenos Aires"]
+    }
+  ]
+},
+{
+  "year": "1948",
+  "events": [
+    {
+      "name": "Impacto de la creación del Estado de Israel y polarización comunitaria",
+      "text": "La creación del Estado de Israel y el inicio de la Guerra Fría generaron nuevas polarizaciones dentro del campo comunitario judío argentino, afectando a las distintas tendencias ideológicas dentro de la educación judía.",
+      "cities": ["Argentina"]
+    }
+  ]
+},
+    {
+  "year": "1950",
+  "events": [
+    {
+      "name": "Fundación del semanario Nuestra Palabra",
+      "text": "El Partido Comunista Argentino lanzó en marzo de 1950 el semanario Nuestra Palabra, dirigido por Héctor P. Agosti. La publicación abordaba temas internacionales y nacionales desde una perspectiva marxista, y tuvo dos épocas hasta su cierre el 24 de marzo de 1976.",
+      "cities": ["Buenos Aires"]
     },
     {
-      "year": "1932",
-      "events": [
-        {
-          "name": "Manuscrito MiHIL a Reyzen",
-          "text": "MiHIL entrega el manuscrito a Reyzen."
-        },
-        {
-          "name": "Antonio Berni y Rosario Gráfico",
-          "text": "Antonio Berni, recién llegado de Europa, utilizó una cámara Leica para trabajar. Publicó tres fotos en Rosario Gráfico del 11 de febrero de 1932 que mostraban la ciudad de Rosario y sus burdeles, describiendo la represión y tolerancia calculada de la moral burguesa."
-        },
-        {
-          "name": "Investigación clandestina sobre prostíbulos",
-          "text": "Rodolfo Puiggrós encargó a Berni fotografiar clandestinamente el interior de prostíbulos para ilustrar un artículo, eligiendo lugares con buena luz natural para evitar ser descubierto."
-        },
-        {
-          "name": "Ley de sábado inglés y casas de tolerancia",
-          "text": "El 7 de octubre de 1932 se sancionó la ley de sábado inglés. Rosa Weismann, Sofía Pais y Anita Baram de Smith presentaron a la Comisión de Fomento de Pagani dos casas de tolerancia en Granadero Baigorria."
-        },
-        {
-          "name": "Agustín P. Justo asume la presidencia",
-          "text": "Agustín P. Justo asumió como presidente de Argentina en 1932, representando al Partido Concordancia."
-        }
-      ]
+      "name": "Fundación de la revista Tribuna",
+      "text": "Rubén Sinay fundó la revista Tribuna, que tuvo fuerte incidencia en la comunidad judía de izquierda. Desde allí, impulsó una identidad judía crítica del sionismo, alineada con las posturas del PCA y del comunismo internacional.",
+      "cities": ["Buenos Aires"]
+    },
+     {
+      "name": "Nacimiento de las hijas de Rubén Sinay y vida familiar",
+      "text": "Rubén Sinay, destacado dirigente comunista, vivía con su esposa Myriam y sus hijas Paula y Ana Luz en un modesto departamento en el barrio Once, sobreviviendo con un pequeño sueldo del partido y ventas de publicaciones en barrios con shules icufistas.",
+      "cities": ["Buenos Aires"]
+    }
+  ]
+},
+{
+  "year": "1952",
+  "events": [
+    {
+      "name": "Tensiones entre la URSS e Israel",
+      "text": "Comienzan a deteriorarse las relaciones entre Israel y la Unión Soviética. En este contexto, el PCA en Argentina, que había defendido al Estado de Israel como parte de la lucha anticolonial, evita pronunciarse públicamente sobre el creciente antisemitismo en la URSS.",
+      "cities": ["Buenos Aires", "Jerusalén", "Moscú"]
     },
     {
-      "year": "1933",
-      "events": [
-        {
-          "name": "Solicitud para cementerio israelita en Granadero Baigorria",
-          "text": "El 4 de abril de 1933, representantes de la Unión Hebraica de Rosario solicitaron permiso para instalar un cementerio de ritual hebreo en Granadero Baigorria. La mafia obtuvo permiso para construirlo y lo denominó Zwi Migdal, en homenaje a Luis Migdal."
-        },
-        {
-          "name": "Asesinato de Juan Ruggero y funeral",
-          "text": "Muere asesinado Juan Ruggero, el Matón de Barceló (Don Alberto), quien organizó su propio funeral."
-        },
-        {
-          "name": "Hechos políticos destacados",
-          "text": "Firma del Pacto Roca-Runciman en 1933, beneficiando a exportadores argentinos. Continuación del fraude electoral durante la Década Infame."
-        }
-      ]
+      "name": "Militarización y rearme israelí",
+      "text": "Rubén Sinay señala que en 1952 la Organización Sionista Norteamericana pidió ayuda militar al Congreso de EE.UU. para armar tanto a Israel como a países árabes contra la supuesta amenaza comunista. Según Sinay, esto demuestra el alineamiento del sionismo con el bloque imperialista.",
+      "cities": ["Washington", "Tel Aviv"]
+    },
+     {
+      "name": "Expulsión de shules icufistas y quita de subsidios tras rechazo a condenar a la URSS",
+      "text": "La dirigencia icufista se negó a firmar la condena que impulsaba la DAIA contra la URSS por los juicios de Praga y supuestos crímenes a escritores judíos antifascistas. Como consecuencia, los shules fueron expulsados del ICUF y les quitaron los subsidios, aunque continuaron gracias a cooperativas y campañas solidarias.",
+      "cities": ["Buenos Aires"]
     },
     {
-      "year": "1934",
-      "events": [
+      "name": "Rubén Sinay como redactor principal y líder ideológico icufista",
+      "text": "Rubén Sinay fue redactor principal de Tribuna, publicación periódica icufista, y voz fundamental en el periodismo militante idishista, combinando su activismo político con la defensa de la educación laica y la enseñanza del ídish.",
+      "cities": ["Buenos Aires"]
+    },
+     {
+      "name": "Juicios de Praga y rechazo icufista a condena contra la URSS",
+      "text": "La dirigencia icufista se niega a firmar la condena impulsada por la DAIA contra la URSS por los juicios de Praga y crímenes contra escritores judíos antifascistas, lo que provoca la expulsión de los shules del ICUF y la quita de subsidios.",
+      "cities": ["Buenos Aires"]
+    },
         {
-          "name": "Inauguración del Cementerio Israelita de Granadero Baigorria",
-          "text": "El Cementerio Israelita se inauguró en 1934 en un terreno adyacente al Cementerio El Redentor. Allí están enterrados varios antiguos proxenetas, madamas y pupilas de Pichincha. El predio fue comprado por la Unión Hebraica de Rosario, que lo administró hasta 1959 cuando lo cedió a la comuna local."
-        },
-        {
-          "name": "Sanción de ley de indemnización",
-          "text": "En 1934 se sancionó la ley de indemnización."
-        }
-      ]
+      "name": "Creación del Mitl-shul y formación de maestros judeo-progresistas",
+      "text": "El Consejo Central del ICUF inaugura el Mitl-shul, una escuela secundaria para formar maestros judeo-progresistas, con cursos dictados por destacados militantes y educadores socialistas y comunistas, vinculados a ideas de pedagogos como Dewey y Korczak.",
+      "cities": ["Buenos Aires"]
+    }
+  ]
+},
+{
+  "year": "1953",
+  "events": [
+    {
+      "name": "Complot de los doctores y antisemitismo soviético",
+      "text": "En 1953, el llamado 'complot de los doctores del Kremlin' desata una ola de antisemitismo en la URSS. Stalin rompe relaciones diplomáticas con Israel. El PCA guarda silencio al respecto, mientras sectores sionistas alertan sobre el peligro de guerra con la URSS.",
+      "cities": ["Moscú", "Jerusalén", "Buenos Aires"]
     },
     {
-      "year": "1935",
-      "events": [
-        {
-          "name": "Publicaciones de Miguel sobre educación judía",
-          "text": "Miguel publicó 'La conexión entre los padres judíos y la educación de sus hijos' en 'Di idishe tsaytung' en octubre de 1935."
-        },
-        {
-          "name": "Formación y escisión del Haganah",
-          "text": "Los jefes de la Agencia Judía concibieron la inmigración como colonización armada y construyeron la organización semiclandestina Haganah, de la que en 1935 se separó el grupo terrorista de ultraderecha Irgun."
-        }
-      ]
+      "name": "Campaña sionista pro-guerra",
+      "text": "Según Rubén Sinay, el sionismo argentino promovió una campaña para enviar dinero y voluntarios a Israel, ante una posible guerra con la URSS. Denuncia que esta campaña buscaba encauzar el sentimiento solidario judío hacia una línea proimperialista y antisoviética.",
+      "cities": ["Buenos Aires", "Tel Aviv"]
     },
     {
-      "year": "1936",
-      "events": [
-        {
-          "name": "Primera rebelión palestina contra ingleses",
-          "text": "En 1936 comenzó la primera rebelión palestina contra los ingleses, que duró tres años y causó miles de muertos."
-        },
-        {
-          "name": "David Hacohen y el boicot a árabes",
-          "text": "David Hacohen, miembro de la Histradut, recordó las campañas para boicotear productos árabes como parte de la soberbia racial judía."
-        }
-      ]
-    },
-    {
-      "year": "1937",
-      "events": [
-        {
-          "name": "Desbaratamiento del grupo Zwi Migdal y cambio político",
-          "text": "La policía de Rosario reprimió la actividad prostibularia tras el desbaratamiento en Buenos Aires del grupo de traficantes de la Zwi Migdal, mientras la política local adoptó ideas abolicionistas."
-        },
-        {
-          "name": "Pine Katz representa a Argentina en YCUF",
-          "text": "Pine Katz actuó en representación de Argentina en YCUF."
-        }
-      ]
-    },
-    {
-      "year": "1938",
-      "events": [
-        {
-          "name": "Roberto M. Ortiz presidente",
-          "text": "Roberto M. Ortiz asumió la presidencia de Argentina (1938-1942), representando al Partido Concordancia. Intentó combatir el fraude electoral y renunció por enfermedad en 1942."
-        }
-      ]
-    },
-    {
-      "year": "1939",
-      "events": [
-        {
-          "name": "Publicación del Libro Blanco británico",
-          "text": "En mayo de 1939 el gobierno británico publicó un Libro Blanco que limitaba la inmigración judía a Palestina y prometía no imponer nacionalidad judía a los árabes. Sin embargo, entre 1920 y 1939 la proporción de judíos en Palestina subió del 10% al 30%."
-        }
-      ]
-    },
-    {
-      "year": "1940",
-      "events": [
-        {
-          "name": "Ben Gurion y la alianza con Gran Bretaña",
-          "text": "Ben Gurion declaró que lucharían junto a Gran Bretaña en la guerra como si el Libro Blanco no existiera, e intensificaron la inmigración clandestina a Palestina, desafiando el bloqueo inglés. El hundimiento del buque Patria causó la muerte de 250 refugiados."
-        },
-        {
-          "name": "Resistencia y represión mapuche en el siglo XX",
-          "text": "Durante el siglo XX, los pueblos originarios, especialmente los mapuches, enfrentaron represión y desplazamiento por la expansión agrícola y extracción de recursos naturales en Argentina."
-        }
-      ]
-    },
-    {
-      "year": "1941",
-      "events": [
-        {
-          "name": "Fundación del ICUF y activismo de Rubén Sinay",
-          "text": "En abril de 1941 Pine Katz fundó el ICUF. Rubén Sinay se destacó como activista peronista."
-        }
-      ]
-    },
-    {
-      "year": "1942",
-      "events": [
-        {
-          "name": "Matrimonio de Lidia y Eduardo y política sindical",
-          "text": "En Buenos Aires, Lidia y Eduardo se casaron. Lidia renunció al judaísmo. Borlenghi, representante de empleados de comercio desde 1935, fue electo presidente del segundo congreso de la CGT en diciembre de 1942."
-        }
-      ]
-    },
+      "name": "Crítica de Rubén Sinay al sionismo",
+      "text": "Rubén Sinay, desde la revista Tribuna, denuncia que el sionismo argentino pretendía integrar a Israel en el bloque antisoviético liderado por EE.UU. Sostiene que los sionistas socialistas agrupados en la revista Nueva Sión querían una guerra con la URSS, lo que hubiese sido suicida para el Estado de Israel.",
+      "cities": ["Buenos Aires"]
+    }
+  ]
+},
   {
     "year": "1955",
     "events": [
@@ -178,20 +134,50 @@
     ]
   },
   {
-    "year": "1956",
-    "events": [
-      {
-        "name": "Guerra de Suez y Priorato de Sion",
-        "text": "En 1956, durante la guerra del Sinaí, los refugiados palestinos vieron el avance de tanques israelíes y la ocupación británica y francesa del Canal de Suez. Ese año Pierre Plantard inventó el Priorato de Sion, una sociedad secreta falsa que se popularizó más tarde con El Código Da Vinci.",
-        "cities": ["Sinaí", "Francia", "Palestina"]
-      },
-      {
-        "name": "La huelga de los locos",
-        "text": "Movimiento sindical y social en Argentina en el contexto de conflictividad laboral y política.",
-        "cities": ["Argentina"]
-      }
-    ]
-  },
+  "year": "1956",
+  "events": [
+    {
+      "name": "Guerra del Sinaí",
+      "text": "En 1956 se desarrolló la segunda guerra árabe-israelí, conocida como la Guerra del Sinaí. La coalición anglo-franco-israelí atacó Egipto tras la nacionalización del Canal de Suez por parte del presidente Gamal Abdel Nasser. Egipto contó con apoyo soviético y refuerzos árabes. Nasser emergió como vencedor simbólico, Israel expandió su territorio y eliminó bases fedayines en Gaza, mientras Francia e Inglaterra fueron debilitadas por la presión de Estados Unidos, marcando el declive colonial europeo en la región.",
+      "cities": ["Sinaí", "Canal de Suez", "Gaza", "Tel Aviv", "El Cairo", "Londres", "París", "Washington"]
+    },
+    {
+      "name": "Apoyo soviético a Egipto",
+      "text": "La Unión Soviética respaldó al gobierno egipcio enviando armas a través de Checoslovaquia. Esta alianza fortaleció los lazos entre Moscú y Nasser, consolidando la influencia soviética en Medio Oriente durante la Guerra Fría.",
+      "cities": ["Moscú", "El Cairo", "Praga"]
+    },
+    {
+      "name": "Postura del PCA ante la Guerra del Sinaí",
+      "text": "Durante la Guerra del Sinaí, el PCA expresó su interpretación del conflicto a través de sus órganos partidarios. Alineado con la Unión Soviética, sostuvo una postura crítica hacia el accionar anglo-franco-israelí y apoyó a Egipto y a Nasser como parte del proceso de descolonización global.",
+      "cities": ["Buenos Aires", "El Cairo", "Moscú"]
+    },
+    {
+      "name": "Publicación de Nueva Era",
+      "text": "La revista teórico-política mensual Nueva Era, dirigida por Victorio Codovilla y con Orestes Ghioldi como secretario de redacción, aportó un análisis marxista-leninista más profundo sobre temas internacionales, incluido el conflicto en Medio Oriente.",
+      "cities": ["Buenos Aires"]
+    },
+     {
+      "name": "Publicación de 'Solo la paz salvará a Israel'",
+      "text": "Rubén Sinay publica 'Solo la paz salvará a Israel', donde defiende la posición soviética y acusa al sionismo de manipular a la comunidad judía para justificar una política belicista. Reivindica el apoyo soviético a Israel en 1948 y denuncia el verdadero objetivo sionista de integrar a Israel al bloque imperialista.",
+      "cities": ["Buenos Aires", "Jerusalén", "Moscú"]
+    },
+    {
+      "name": "Crítica al discurso sionista sobre Egipto y la URSS",
+      "text": "Sinay argumenta que Israel había comenzado el proceso de rearme desde 1950, mucho antes del envío de armas checas a Egipto. Critica que el verdadero conflicto para Israel no era el armamento en sí, sino que proviniera de un aliado soviético.",
+      "cities": ["Tel Aviv", "El Cairo", "Praga"]
+    },
+       {
+      "name": "Desacuerdo dentro del PCA por invasión soviética a Hungría",
+      "text": "Gregorio Lerner, dirigente comunista y miembro de la Comisión Israelita del PC, se opone a la invasión soviética a Hungría, pero Rubén Sinay responde con críticas duras, tachando a los disidentes de traidores y agentes del imperialismo, evidenciando la poca libertad de expresión en el partido.",
+      "cities": ["Buenos Aires"]
+    },
+     {
+      "name": "Rubén Sinay relativiza la enseñanza exclusiva en ídish",
+      "text": "Sinay sostiene que los objetivos de los shules deben ser los mismos que cualquier escuela progresista, formando niños científicos, desprejuiciados y comprometidos con el progreso social. Considera que el ídish es un obstáculo para la expansión universal de la educación progresista y postula que la formación debe adaptarse a la realidad nacional y cultural argentina.",
+      "cities": ["Buenos Aires"]
+    }
+  ]
+},
   {
     "year": "1958",
     "events": [
@@ -204,7 +190,17 @@
         "name": "Voladura del buque Patria",
         "text": "Revelación años después de que la Haganah voló el buque Patria sin consultar a las víctimas, lo que causó la muerte de refugiados judíos, según declaraciones de Rosenblum del Comité de Acción Sionista.",
         "cities": ["Israel"]
-      }
+      },
+       {
+      "name": "Auge del ICUF y expansión educativa",
+      "text": "El ICUF agrupaba 15 escuelas idiomáticas con 2.500 alumnos, varias entidades culturales, publicaciones y una editorial propia. Se afirmaba como movimiento comprometido con la educación laica y estatal, en un contexto de influencia del frentepopulismo y la Internacional Comunista.",
+      "cities": ["Argentina"]
+    },
+    {
+      "name": "Sexta Campaña Pro-cultura y Educación del ICUF",
+      "text": "El ICUF solicita a maestras y maestros (lererkes) trabajar con familias para fortalecer el sentido político y la importancia de las escuelas judías progresistas. Los shules funcionan como un “oasis” frente a la escuela pública, a pesar de las dificultades financieras.",
+      "cities": ["Buenos Aires"]
+    }
     ]
   },
   {
@@ -219,7 +215,12 @@
         "name": "Muerte de Pine Katz",
         "text": "Fallecimiento de una figura destacada.",
         "cities": ["Argentina"]
-      }
+      },
+        {
+      "name": "Debate interno sobre el futuro del ídish y la educación en ICUF",
+      "text": "Sinay plantea el interrogante de la utilidad de mantener escuelas exclusivamente en ídish cuando el castellano es el idioma de los niños. Sin embargo, defiende la continuidad de los shules para satisfacer a padres que desean preservar la cultura judeo-progresista y para protegerse políticamente en un contexto adverso.",
+      "cities": ["Buenos Aires"]
+    }
     ]
   },
   {
@@ -239,7 +240,22 @@
         "name": "Luis deja la policía",
         "text": "Renuncia o retiro de Luis de la policía.",
         "cities": ["Argentina"]
-      }
+      },
+       {
+      "name": "Inicio del ocaso de la enseñanza del ídish",
+      "text": "Con la aparición de la generación nativa, el interés por la continuidad de las escuelas y la enseñanza del ídish comenzó a decaer, reflejando cambios socioculturales dentro de la colectividad judía argentina.",
+      "cities": ["Argentina"]
+    },
+    {
+      "name": "Nueva generación argentina incorporada a la vida institucional y declive de los shules",
+      "text": "Una nueva generación nacida en Argentina y formada en el entorno icufista comenzó a involucrarse en espacios políticos y sociales más amplios, especialmente universitarios. Este proceso marcó el inicio del ocaso de la red de shules icufistas y el auge de actividades recreativas y culturales como kinder clubes, jardines alternativos y colonias vacacionales.",
+      "cities": ["Argentina"]
+    },
+     {
+      "name": "Perspectiva de Sinay sobre la desaparición del ídish y el futuro de la educación judeo-progresista",
+      "text": "Sinay anticipa que el ídish desaparecerá con la integración y asimilación de las nuevas generaciones argentinas, pero que la educación progresista perdurará y enriquecerá la cultura nacional. Considera que la promoción inicial del ídish fue una etapa necesaria dentro de un proceso histórico dialéctico.",
+      "cities": ["Buenos Aires"]
+    }
     ]
   },
   {
@@ -259,7 +275,12 @@
         "name": "José María Guido (Interino)",
         "text": "Presidente interino tras la renuncia de Frondizi debido a la presión militar. Enfrentó inestabilidad política y económica durante 1962-1963.",
         "cities": ["Buenos Aires", "Argentina"]
-      }
+      },
+      {
+      "name": "Mesa redonda en Villa Lynch sobre la crisis de los shules",
+      "text": "Las lererkes discuten el descenso en la motivación de algunos niños para asistir a los shules, señalando que el ídish ya no era la lengua materna para muchos. Se resalta que el afecto, la enseñanza crítica y el ambiente eran lo que más atraía a los alumnos, y algunas maestras comenzaron a enseñar en castellano para facilitar la comprensión.",
+      "cities": ["Buenos Aires"]
+    }
     ]
   },
   {
@@ -294,7 +315,12 @@
         "name": "Guerra de los Seis Días",
         "text": "Campaña militar israelí en junio de 1967 que derrotó al ejército egipcio y provocó desplazamientos y sufrimiento árabe. Críticas a la política israelí desde el comentario del escritor judío Isaac Deutscher.",
         "cities": ["Israel", "Egipto", "Jordania"]
-      }
+      },
+        {
+      "name": "Deserción del 'grupo de los trece' por línea sectaria y antisionista",
+      "text": "Un grupo de activistas icufistas, conocido como el 'grupo de los trece', abandona el ICUF por desacuerdos con la línea antisionista y sectaria durante la Guerra de los Seis Días, reflejando las tensiones internas dentro de la colectividad judía comunista.",
+      "cities": ["Buenos Aires"]
+    }
     ]
   },
   {
@@ -314,7 +340,17 @@
         "name": "Comentario de Galili sobre árabes en Israel",
         "text": "Galili, ministro de Información israelí, expresó en 1969 que no reconocían a los árabes del país como un grupo étnico o nacional, contribuyendo a la violencia en Palestina.",
         "cities": ["Israel", "Palestina"]
-      }
+      },
+       {
+      "name": "Fernando Nadra en el Comité Central del PCA",
+      "text": "Fernando Nadra fue electo miembro del Comité Central del Partido Comunista Argentino. Abogado, ensayista y candidato a diputado nacional en varias ocasiones, fue una figura clave en la producción ideológica del PCA durante las décadas del 60 y 70.",
+      "cities": ["Buenos Aires"]
+    },
+     {
+      "name": "Viaje de dirigentes icufistas a la URSS para contrarrestar críticas",
+      "text": "En un contexto de presión internacional de judíos soviéticos que denunciaban antisemitismo, el partido organiza un viaje para que dirigentes del ICUF constaten la 'falsedad' de esas acusaciones. A pesar de algunas percepciones críticas sobre la URSS, figuras como Rubén Sinay defienden férreamente el ideal soviético.",
+      "cities": ["Moscú"]
+    }
     ]
   },
   {
@@ -369,7 +405,11 @@
         "name": "Fallecimiento de Luis",
         "text": "Muerte del abuelo Luis en este año.",
         "cities": ["Argentina"]
-      }
+      },
+       {
+      "name": "La profecía de Rubén Sinay",
+      "text": "En 1976 ya no había inscriptos suficientes para sostener la escuela primaria en ídish dentro de la red del ICUF, marcando el cierre definitivo de los shules icufistas. Este hecho simbolizaba el fin de una etapa clave en la educación judeo-progresista que, como había anticipado Rubén Sinay."
+    }
     ]
   },
   {

@@ -244,7 +244,12 @@
         "name": "Rechazo de la comunidad judía a Zwi Migdal",
         "text": "La organización Zwi Migdal intentó ganar aceptación mediante donaciones para sinagogas y financiamiento del culto. Cuando se reveló el origen ilícito del dinero, la comunidad judía inició una campaña contra ellos, impidiendo su ingreso a sinagogas, teatros y negándoles sepultura en cementerios judíos. El rabino Reuben Hacohen Sinai expresó: 'Prefiero yacer entre gentiles honorables que entre nuestros tmeim (impuros)'.",
         "cities": ["Buenos Aires"]
-      }
+      },
+       {
+      "name": "Diversidad y vida social de la colectividad judía en Buenos Aires",
+      "text": "En los barrios porteños convivían ortodoxos, obreros anarquistas y socialistas, comerciantes de origen ruso y turco, además de otros oficios y clases sociales. Esta pluralidad cultural se expresaba en cementerios, sinagogas, bibliotecas, publicaciones y las primeras escuelas.",
+      "cities": ["Buenos Aires"]
+    }
     ]
   },
   {
@@ -334,7 +339,12 @@
         "name": "Golpe de Estado de Uriburu y persecución a Zwi Migdal",
         "text": "José Félix Uriburu derrocó a Yrigoyen en un golpe de Estado que inició la Década Infame, con políticas autoritarias. Uriburu expulsó a los 'cafishios' judíos, que fundaron la mutual Varsovia para disimular su actividad. En Rosario se allanó la sede de Zwi Migdal; muchos rufianes escaparon. Se procesaron 108 socios en septiembre, aunque luego fueron liberados. Se detuvo a personajes vinculados a mafias, incluyendo a Simón Rubinstein. La colectividad seguía prohibiendo el ingreso y sepultura a proxenetas en cementerios e instituciones judías.",
         "cities": ["Buenos Aires", "Rosario"]
-      }
+      },
+       {
+      "name": "Redes escolares idishistas de izquierda en Buenos Aires",
+      "text": "Se consolidaron tres redes escolares: las del Partido Obrero Judío Bund (autonomistas y socialistas), las de Linke Poale Sion (sionistas-marxistas) y las vinculadas a la Komintern y al Partido Comunista Argentino (escuelas obreras, marxistas y leninistas).",
+      "cities": ["Buenos Aires"]
+    }
     ]
   }
   ]

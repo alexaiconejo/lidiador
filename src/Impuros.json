@@ -24,7 +24,7 @@
       "events": [
         {
           "name": "Manuscrito MiHIL a Reyzen",
-          "text": "MiHIL entrega el manuscrito de Reuben a Reyzen."
+          "text": "MiHIL entrega el manuscrito a Reyzen."
         },
         {
           "name": "Antonio Berni y Rosario Gráfico",
@@ -74,7 +74,7 @@
         }
       ]
     },
-    {
+      {
       "year": "1935",
       "events": [
         {
@@ -84,10 +84,15 @@
         {
           "name": "Formación y escisión del Haganah",
           "text": "Los jefes de la Agencia Judía concibieron la inmigración como colonización armada y construyeron la organización semiclandestina Haganah, de la que en 1935 se separó el grupo terrorista de ultraderecha Irgun."
-        }
+        },
+        {
+      "name": "VII Congreso de la Internacional Comunista y frentepopulismo",
+      "text": "Militantes argentinos, incluyendo el ICUF, comenzaron a formar coaliciones con sectores democráticos para luchar contra el fascismo criollo y el antisemitismo, desplazando la consigna 'clase contra clase'. Esto fortaleció las redes institucionales idishistas.",
+      "cities": ["Argentina", "Buenos Aires"]
+    }
       ]
     },
-    {
+     {
       "year": "1936",
       "events": [
         {
@@ -100,7 +105,7 @@
         }
       ]
     },
-    {
+   {
       "year": "1937",
       "events": [
         {
@@ -110,10 +115,15 @@
         {
           "name": "Pine Katz representa a Argentina en YCUF",
           "text": "Pine Katz actuó en representación de Argentina en YCUF."
-        }
+        },
+         {
+      "name": "Clausura de escuelas 'populares' y vigilancia sobre el ídish",
+      "text": "Las escuelas 'populares' de izquierda idishista fueron clausuradas. El uso del ídish fue condicionado y observado por las autoridades, en medio del resurgimiento del mito del 'judío bolchevique' por sectores conservadores y nacionalistas.",
+      "cities": ["Argentina"]
+    }
       ]
     },
-    {
+   {
       "year": "1938",
       "events": [
         {
@@ -122,7 +132,7 @@
         }
       ]
     },
-    {
+  {
       "year": "1939",
       "events": [
         {
@@ -147,10 +157,15 @@
     {
       "year": "1941",
       "events": [
-        {
+         {
           "name": "Fundación del ICUF y activismo de Rubén Sinay",
           "text": "En abril de 1941 Pine Katz fundó el ICUF. Rubén Sinay se destacó como activista peronista."
-        }
+        },
+          {
+      "name": "Fundación del ICUF en América Latina y resurgimiento de escuelas idishistas",
+      "text": "En Buenos Aires se fundó el ICUF como federación de entidades judías laicas y progresistas. Se sumaron escuelas en provincias argentinas y países vecinos, bajo un fuerte compromiso antifascista y cultural idishista.",
+      "cities": ["Buenos Aires", "Mendoza", "Tucumán", "Córdoba", "Santa Fe", "Uruguay", "Brasil"]
+    }
       ]
     },
     {
