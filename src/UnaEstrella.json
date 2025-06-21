@@ -112,16 +112,31 @@
         }
       ]
     },
+   {
+  "year": "30 d.C.",
+  "events": [
     {
-      "year": "30 d.C.",
-      "events": [
-        {
-          "name": "Ministerio y muerte de Jesús de Nazaret",
-          "text": "Jesús inicia su ministerio en Galilea y Jerusalén, proclamando un mensaje que desafía al sacerdocio hakohen, las normas patriarcales y la autoridad romana. Es crucificado con la complicidad del Sanedrín. Su muerte marca un punto de inflexión para el judaísmo y el surgimiento del cristianismo.",
-          "cities": ["Galilea", "Jerusalén"]
-        }
-      ]
+      "name": "Ministerio y muerte de Jesús de Nazaret",
+      "text": "Jesús inicia su ministerio en Galilea y Jerusalén, proclamando un mensaje que desafía al sacerdocio hakohen, las normas patriarcales y la autoridad romana. Es crucificado con la complicidad del Sanedrín. Su muerte marca un punto de inflexión para el judaísmo y el surgimiento del cristianismo.",
+      "cities": ["Galilea", "Jerusalén"]
     },
+    {
+      "name": "Pedro, apóstol y líder inicial",
+      "text": "Simón Pedro, pescador galileo, discípulo de Jesús, se convierte en líder de los primeros seguidores. Predica en Jerusalén y es reconocido como figura central en la comunidad cristiana primitiva.",
+      "cities": ["Galilea", "Jerusalén"]
+    }
+  ]
+},
+{
+  "year": "35 d.C.",
+  "events": [
+    {
+      "name": "Conversión y misión de Pablo de Tarso",
+      "text": "Saulo de Tarso, un fariseo perseguidor de cristianos, tiene una experiencia transformadora y se convierte en Pablo, apóstol de los gentiles. Comienza a predicar activamente el cristianismo por el Imperio Romano, especialmente entre los no judíos.",
+      "cities": ["Tarso", "Damasco", "Roma"]
+    }
+  ]
+},
     {
       "year": "48 d.C.",
       "events": [
@@ -152,6 +167,16 @@
         }
       ]
     },
+     {
+    "year": "64 d.C.",
+    "events": [
+      {
+        "name": "Persecución bajo Nerón",
+        "text": "Emperador Nerón inicia persecuciones en Roma contra los cristianos, acusándolos del incendio de la ciudad. Se cree que Pedro y Pablo mueren mártires en Roma durante esta época.",
+        "cities": ["Roma"]
+      }
+    ]
+  },
     {
       "year": "68 d.C.",
       "events": [

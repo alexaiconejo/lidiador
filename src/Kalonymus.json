@@ -46,7 +46,13 @@
         "text": "Moisés I ben Meshulam, de los Kalonymus-HaKohen en Italia, fue un destacado poeta litúrgico. Su obra influyó en el Mahzor y fue base para academias rabínicas en Mainz."
       }
     ]
-  },
+  },{
+   "year": "943",
+    "events": [
+  { "name": "aaron ibn sargado",
+        "text": "Aaron ibn Sargado (Aaron ben Joseph ha-Kohen) (siglo X) - Gaón de Pumbedita (943–960) - Hijo de Joseph ha-Kohen De familia mercantil, accedió al gaonato por influencia"} 
+    
+ ] },
    {
     "year": "951",
     "events": [
@@ -184,7 +190,29 @@
          "cities": ["Roma", "Lucca"]
       }]},
   
+  
+   {
+      "year": "1250",
+      "events": [
+        {
+          "name": "Nacimiento de Mordechai ben Hillel HaKohen",
+          "text": "Nace Mordechai ben Hillel HaKohen en Halberstadt, Alemania, en el seno de una familia de eruditos. Su madre, Zelda bat Jacob, lo introdujo al estudio de la Torá y la tradición sacerdotal.",
+          "cities": ["Halberstadt"]
+        }
+      ]
+    },
     {
+      "year": "1270",
+      "events": [
+        {
+          "name": "Mordechai ben Hillel en Núremberg",
+          "text": "Mordechai ben Hillel HaKohen se establece en Núremberg como estudiante de Meir ben Baruch de Rothenburg.",
+          "cities": ["Núremberg"]
+        }
+      ]
+    },
+   
+   {
     "year": "1280",
     "events": [
       {
@@ -196,6 +224,7 @@
       }
     ]
   },
+  
   {
     "year": "1286",
     "events": [
@@ -227,6 +256,17 @@
       }
     ]
   },
+     {
+      "year": "1300",
+      "events": [
+        {
+          "name": "Moisés de León y el Zohar",
+          "text": "Moisés de León, místico y rabino, es tradicionalmente considerado el autor del Zohar, obra central de la cábala judía.",
+          "cities": ["Cuenca", "Salamanca", "España"]
+        }
+      ]
+    },
+
   {
     "year": "1306",
     "events": [
@@ -251,7 +291,27 @@
         "cities": ["Mallorca"]
       }
     ]
-  }
+  },
+  {
+      "year": "1328",
+      "events": [
+        {
+          "name": "Kalonymus ben Kalonymus en Aviñón",
+          "text": "Kalonymus ben Kalonymus, poeta y traductor provenzal, defiende la causa judía ante el Papa en Aviñón, fomentando la resistencia cultural durante el exilio.",
+          "cities": ["Aviñón", "Roma"]
+        }
+      ]
+    },
+    {
+      "year": "1348",
+      "events": [
+        {
+          "name": "Peste Negra y redes de apoyo HaKohen",
+          "text": "La Peste Negra arrasa Europa y pone en peligro a las comunidades judías. En Núremberg, la viuda Rachel bat Meir organiza una red de ayuda para enfermos y huérfanos, inspirada en las enseñanzas de Mordechai ben Hillel.",
+          "cities": ["Núremberg"]
+        }
+      ]
+    }
 ]
 
   

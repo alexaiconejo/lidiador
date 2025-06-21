@@ -17,7 +17,7 @@
       "events": [
         {
           "name": "Desmentido del Priorato de Sion",
-          "text": "Pierre Plantard admite ante un tribunal francés que el Priorato de Sion fue una invención. La conspiración se cae oficialmente."
+          "text": "Pierre Plantard admite ante un tribunal francés que el Priorato de Sion fue una invención."
         }
       ]
     },
@@ -26,12 +26,12 @@
       "events": [
         {
           "name": "Atentado a la AMIA",
-          "text": "Mueren 85 personas. En los escombros se rescatan 60.000 libros, 9.000 fotos, 120 pinturas, 17 instrumentos musicales y 32.000 diarios y revistas. La memoria se reconstruye con dolor y rescate.",
+          "text": "Mueren 85 personas. En los escombros se rescatan 60.000 libros, 9.000 fotos, 120 pinturas, 17 instrumentos musicales y 32.000 diarios y revistas.",
           "cities": ["Buenos Aires"]
         },
         {
           "name": "Inicio del colegio",
-          "text": "Comienza el colegio de monjas. Lloraba. Una infancia marcada por la imposición y el llanto contenido."
+          "text": "Comienza el colegio de monjas."
         }
       ]
     },
@@ -44,7 +44,7 @@
         },
         {
           "name": "Mudanza a Lomas",
-          "text": "Lidiador se muda a Lomas de Zamora. Cambio de barrio, cambio de ritmo."
+          "text": "Lidiador se muda a Lomas del Mirador."
         }
       ]
     },
@@ -62,7 +62,7 @@
       "events": [
         {
           "name": "Árbol genealógico",
-          "text": "Empieza la búsqueda del linaje. Las ramas del pasado comienzan a desplegarse con fuerza."
+          "text": "La profesora de literatura nos pide hacer un árbol genealógico, escribo un texto haciendo entrevistas a cada familiar. Primera vez que me nombran la existencia del rabino, de León. Le pregunto a Lidia por León y me dice que era una mala persona, no me dice la razón."
         }
       ]
     },
@@ -99,8 +99,8 @@
       "year": "2011",
       "events": [
         {
-          "name": "Cine documental",
-          "text": "Filma 'Laguna' y 'Hasta el cielo'."
+          "name": "La carrera de cine",
+          "text": "Filmo 'Laguna' y 'Hasta el cielo'."
         }
       ]
     },
@@ -109,7 +109,7 @@
       "events": [
         {
           "name": "Publicación de 'Los crímenes de Moisés Ville'",
-          "text": "La investigación se transforma en libro. Javier revela una historia silenciada. La tinta denuncia lo que el tiempo intentó ocultar.",
+          "text": "La investigación se transforma en libro. Javier revela una historia silenciada. El origen de Moises Ville y la historia de la familia Sinay.",
           "people": ["Javier Sinay"]
         },
         {
@@ -132,7 +132,7 @@
       "events": [
         {
           "name": "Estreno de 'Santos'",
-          "text": "Se estrena 'Santos'. mi primer largometraje."
+          "text": "Se estrena 'Santos'. mi primer largometraje en CheLa."
         }
       ]
     },
@@ -141,7 +141,7 @@
       "events": [
         {
           "name": "Lectura de Mirelman",
-          "text": "5 de febrero. Lectura de 'Jewish Buenos Aires, 1890–1939: In Search of an Identity' de Victor A. Mirelman. El espejo de una comunidad y sus contradicciones."
+          "text": "5 de febrero. Lectura de 'Jewish Buenos Aires, 1890-1939: In Search of an Identity' de Victor A. Mirelman. El espejo de una comunidad y sus contradicciones."
         }
       ]
     },
@@ -150,8 +150,8 @@
       "events": [
         {
           "name": "Caja de Letras",
-          "text": "Javier Sinay publica 'Caja de letras'. La memoria familiar y colectiva se sedimenta en el papel.",
-          "people": ["Javier Sinay"]
+          "text": "Javier Sinay publica 'Caja de letras'. Traducción al español de los textos en idish de Pine Katz con comentarios. Retrata principalmente a Reuben y Mihil y el nacimiento del periodismo idish en Argentina.",
+          "cities": ["Buenos Aires"]
         },
         {
           "name": "Tiempo de Aportes",
@@ -169,18 +169,35 @@
         }
       ]
     },
+      {
+      "year": "2020",
+      "events": [
+        {
+          "name": "Premio Santos",
+          "text": "Ganador en Queer Lisboa como mejor pelicula de arte en Portugal, proyectada en el cinema Sao Jorge. Toda una señal.",
+          "people": ["Javier Sinay"]
+        }
+      ]
+    },
     {
       "year": "2024",
       "events": [
         {
           "name": "Revelación",
-          "text": "22 de mayo, 22:32 hs. Paranoia, miedo, angustia, enojo, ansiedad. A partir del hallazgo de la Zwi Migdal, todo salió a la luz. La Polaquita, Tierra de amor y venganza, la trilogía de la trata. Golpes fuertes al corazón, presión baja cada vez que encontraba una frase clave. Llevé la cámara a lo de mi abuela. Me crucé con mi prima Rocío y mi tía Silvina. Llegaban justo mi tío y Vale. Vi a mi tío Dito. Era justo lo que necesitaba.",
-          "cities": ["Buenos Aires"],
-          "people": ["Rocío", "Silvina", "Dito", "Vale"]
+          "text": "22 de mayo, 22:32 hs. Paranoia, miedo, angustia y ansiedad. A partir del hallazgo de la Zwi Migdal, todo salió a la luz. La Polaquita, Tierra de amor y venganza, la trilogía de la trata. Golpes fuertes al corazón, presión baja cada vez que encontraba una frase clave. Llevé la cámara a lo de mi abuela y vi a mi familia de una nueva manera que nunca imaginé.",
+          "cities": ["Buenos Aires"]
         },
+      {"name": "La investigación",
+    "text": "Viajo a Rosario, compro libros, comienzo la escritura y la investigación en profundidad, descargando pdf, analísis y orden cronológico.",
+          "cities": ["Buenos Aires"]}
+      ]
+    },
+     {
+      "year": "2024",
+      "events": [
         {
           "name": "La promesa",
-          "text": "Esa concepción patética del mundo. La tierra prometida. Los recursos naturales. Argentina. La promesa es para ellos. El mensaje es el mismo. Siempre estuvo ahí."
+          "text": "Mi nombre es Alejo, uso el nombre artistico Lidiador. Con la promesa herdada de escribir esta historia, hago homenaje al rabino Reuben Hacohen Sinai en esta obra, mi chosno, que influyó la historia de Argentina y del mundo más de lo que jamás hubiera imaginado. Esta es mi historia."
         }
       ]
     }
