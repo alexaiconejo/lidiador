@@ -1,9 +1,10 @@
 {
-  "title": "Los Príncipes y las luchas sociales",
+  "title": "Príncipes",
   "duration": "70 - 801",
   "years": [
 {
     "year": "71",
+    "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_446276604dce4141b40fefe3ff0bd18c~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_446276604dce4141b40fefe3ff0bd18c~mv2.webp",
     "events": [
       {
         "name": "Deportación de familias sacerdotales según tradiciones familiares",
@@ -14,6 +15,7 @@
   },
    {
     "year": "72",
+    "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_61e3373d59444530ad40a66bccf14169~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_61e3373d59444530ad40a66bccf14169~mv2.webp",
     "events": [
       {
         "name": "Asentamiento de las familias sacerdotales en Roma",
@@ -23,6 +25,7 @@
     ]
   },
   { "year": "80",
+  "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_252011c6bc3047dfbadb9923353a774e~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_252011c6bc3047dfbadb9923353a774e~mv2.webp",
     "events": [
       {
         "name": "Nombramiento del primer Nasi",
@@ -31,6 +34,7 @@
       }]},
       {
   "year": "85",
+  "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_679ce33be8ef4a7e812b3255ae6ddd0f~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_679ce33be8ef4a7e812b3255ae6ddd0f~mv2.webp",
   "events": [
     {
       "name": "Instituciones litúrgicas de Rabán Gamliel II",
@@ -41,6 +45,7 @@
 },
    {
     "year": "90",
+    "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_2d7557a7e45a48c79728a0813c2ab9d5~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_2d7557a7e45a48c79728a0813c2ab9d5~mv2.webp",
     "events": [
       {
         "name": "Rabán Gamliel II reafirma su liderazgo",
@@ -55,7 +60,7 @@
     ]
   },
   {
-  "year": "92",
+  "year": "92","backgroundUrl":"https://static.wixstatic.com/media/bd63ad_2a9b48e7d8af433492b818b0f22a3e0f~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_2a9b48e7d8af433492b818b0f22a3e0f~mv2.webp",
   "events": [
     {
       "name": "Educación y apertura cultural en casa de Gamliel",
@@ -65,7 +70,7 @@
   ]
 },
 {
-  "year": "94",
+  "year": "94","backgroundUrl":"https://static.wixstatic.com/media/bd63ad_adcdac5eaa924a519607511848ad7bb9~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_adcdac5eaa924a519607511848ad7bb9~mv2.webp",
   "events": [
     {
       "name": "La princesa invisible: la esposa de Rabán Gamliel II",
@@ -75,7 +80,7 @@
   ]
 },
 {
-  "year": "95",
+  "year": "95", "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_0a6bc0771fc44f8c8a801c0a5e742078~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_0a6bc0771fc44f8c8a801c0a5e742078~mv2.webp",
   "events": [
     {
       "name": "Rabán Gamliel II denuncia la corrupción",
@@ -85,7 +90,7 @@
   ]
 },
 {
-  "year": "98",
+  "year": "98", "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_36a35b65b17048438316fdbf6ef438f7~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_36a35b65b17048438316fdbf6ef438f7~mv2.webp",
   "events": [
     {
       "name": "Agadot y sabiduría moral de Rabán Gamliel II",
@@ -95,7 +100,7 @@
   ]
 },
    {
-    "year": "100",
+    "year": "100", "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_00664f02313b44bfbc81b9b4684d570b~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_00664f02313b44bfbc81b9b4684d570b~mv2.webp",
     "events": [
       {
         "name": "Consolidación del Sanedrín en Yavne",
@@ -110,7 +115,7 @@
     ]
   },
   {
-  "year": "102",
+  "year": "102", "backgroundUrl": "",
   "events": [
     {
       "name": "Últimos años y legado espiritual",
@@ -120,7 +125,7 @@
   ]
 },
 {
-  "year": "105",
+  "year": "105", "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_064f8a1adea943bdbdc526151a02bc79~mv2.webp/v1/fit/w_686,h_618,q_90,enc_avif,quality_auto/bd63ad_064f8a1adea943bdbdc526151a02bc79~mv2.webp",
   "events": [
     {
       "name": "Transmisión del linaje familiar",
@@ -130,7 +135,7 @@
   ]
 },
   {
-    "year": "110",
+    "year": "110", "backgroundUrl": "",
     "events": [
       {
         "name": "Nacimiento de Shimón ben Gamliel II",
@@ -145,7 +150,7 @@
     ]
   },
    {
-    "year": "118",
+    "year": "118", "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_ac303a0686584cd8b2b81248d0c14ef2~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_ac303a0686584cd8b2b81248d0c14ef2~mv2.webp",
     "events": [
       {
         "name": "Muerte de Rabán Gamliel II",
@@ -155,7 +160,7 @@
     ]
   },
   {
-  "year": "132",
+  "year": "132", "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_0f1610c6fc51422593bcabaf8bea09aa~mv2.webp/v1/fit/w_180,h_592,q_90,enc_avif,quality_auto/bd63ad_0f1610c6fc51422593bcabaf8bea09aa~mv2.webp",
   "events": [
     {
       "name": "Revuelta de Bar Kojba y persecución",
@@ -170,7 +175,7 @@
   ]
 },
 {
-    "year": "133",
+    "year": "133", "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_34a47e883ee946d89d52e5387c5e0f13~mv2.webp/v1/fit/w_986,h_684,q_90,enc_avif,quality_auto/bd63ad_34a47e883ee946d89d52e5387c5e0f13~mv2.webp",
     "events": [
       {
         "name": "Administración de Judea bajo Bar Kojba",
@@ -180,7 +185,7 @@
     ]
   },
   {
-    "year": "134",
+    "year": "134", "backgroundUrl": "",
     "events": [
       {
         "name": "Asedio y caída de Betar",
@@ -190,7 +195,7 @@
     ]
   },
 {
-    "year": "135",
+    "year": "135", "backgroundUrl": "",
     "events": [
        {
         "name": "Reevaluación de Bar Kojba y consecuencias",
@@ -205,7 +210,7 @@
     ]
   },
   {
-    "year": "138",
+    "year": "138","backgroundUrl": "",
     "events": [
       {
         "name": "Reformas sociales de Shimón ben Gamliel II",
@@ -215,7 +220,7 @@
     ]
   },
   {
-    "year": "140",
+    "year": "140", "backgroundUrl": "",
     "events": [
       {
         "name": "Estructura del Sanedrín bajo Shimón ben Gamliel II",
@@ -225,7 +230,7 @@
     ]
   },
   {
-    "year": "143",
+    "year": "143", "backgroundUrl": "",
     "events": [
       {
         "name": "Sabiduría práctica de Shimón ben Gamliel II",
@@ -235,7 +240,7 @@
     ]
   },
   {
-    "year": "145",
+    "year": "145", "backgroundUrl": "",
     "events": [
       {
         "name": "Saberes griegos y ciencias naturales",
@@ -245,7 +250,7 @@
     ]
   },
   {
-    "year": "148",
+    "year": "148", "backgroundUrl": "",
     "events": [
       {
         "name": "Costumbres antiguas y elogio a los samaritanos",
@@ -257,7 +262,7 @@
   
 
    {
-    "year": "152",
+    "year": "152", "backgroundUrl": "",
     "events": [
       {
         "name": "Formación y estudios",
@@ -267,7 +272,7 @@
     ]
   },
     {
-    "year": "170",
+    "year": "170", "backgroundUrl": "",
     "events": [
       {
         "name": "Asume el patriarcado y se traslada a Beit Shearim",
@@ -277,7 +282,7 @@
     ]
   },
    {
-    "year": "175",
+    "year": "175", "backgroundUrl": "",
     "events": [
       {
         "name": "Relaciones con Roma",
@@ -287,7 +292,7 @@
     ]
   },
   {
-    "year": "188",
+    "year": "188", "backgroundUrl": "",
     "events": [
       {
         "name": "Inicio de la redacción de la Mishná",
@@ -297,7 +302,7 @@
     ]
   },
    {
-    "year": "200",
+    "year": "200", "backgroundUrl": "",
     "events": [
       {
         "name": "Residencia en Sepphoris",
@@ -307,7 +312,7 @@
     ]
   },
   {
-    "year": "216",
+    "year": "216", "backgroundUrl": "",
     "events": [
       {
         "name": "Rav Huna, líder talmúdico en Babilonia",
@@ -317,7 +322,7 @@
     ]
   },
 {
-  "year": "220",
+  "year": "220","backgroundUrl": "",
   "events": [
     {
       "name": "Rabán Gamaliel III dirige el Sanedrín",
@@ -327,7 +332,7 @@
   ]
 },
   {
-    "year": "230",
+    "year": "230","backgroundUrl": "",
     "events": [
       {
         "name": "Rav Huna y Yalta en Babilonia",
@@ -337,7 +342,7 @@
     ]
   },
   {
-    "year": "259",
+    "year": "259","backgroundUrl": "",
     "events": [
       {
         "name": "Rabbah bar Nachmani, figura clave del Talmud Babilónico",
@@ -347,7 +352,7 @@
     ]
   },
   {
-  "year": "270",
+  "year": "270","backgroundUrl": "",
   "events": [
     {
       "name": "Gamaliel IV asume como Nasí del Sanedrín",
@@ -367,7 +372,7 @@
     ]
   },
   {
-  "year": "290",
+  "year": "290","backgroundUrl": "",
   "events": [
     {
       "name": "Judá III lidera el Sanedrín y organiza escuelas",
@@ -377,7 +382,7 @@
   ]
 },
   {
-    "year": "290",
+    "year": "290","backgroundUrl": "",
     "events": [
       {
         "name": "Judá III asume el liderazgo del Sanedrín y organiza escuelas",
@@ -387,7 +392,7 @@
     ]
   },
   {
-    "year": "294",
+    "year": "294","backgroundUrl": "",
     "events": [
       {
         "name": "Nombramiento de Judá III como prefecto por el emperador Diocleciano",
@@ -397,7 +402,7 @@
     ]
   },
    {
-    "year": "300",
+    "year": "300","backgroundUrl": "",
     "events": [
       {
         "name": "Consolidación del Sanedrín bajo Judá III",
@@ -407,7 +412,7 @@
     ]
   },
   {
-    "year": "303",
+    "year": "303","backgroundUrl": "",
     "events": [
       {
         "name": "Persecución de cristianos y martirio de San Jorge",
@@ -417,7 +422,7 @@
     ]
   },
    {
-    "year": "320",
+    "year": "320","backgroundUrl": "",
     "events": [
       {
         "name": "Transición de liderazgo tras Judá III",
@@ -432,7 +437,7 @@
     ]
   },
   {
-    "year": "321",
+    "year": "321","backgroundUrl": "",
     "events": [
       {
         "name": "Primeros judíos en Colonia (Alemania)",
@@ -442,7 +447,7 @@
     ]
   },
   {
-    "year": "347",
+    "year": "347","backgroundUrl": "",
     "events": [
       {
         "name": "Nacimiento de Marcomir",
