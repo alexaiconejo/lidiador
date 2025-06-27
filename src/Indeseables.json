@@ -22,7 +22,7 @@
         },
         {
           "name": "Ola de desalojos en San Cristóbal",
-          "text": "Cohan llama a la policía de San Cristóbal y provoca ola de desalojos. ‘Planeaban robar la caja’ y fueron arrestados y torturados.",
+          "text": "Cohan llama a la policía de San Cristóbal y provoca ola de desalojos. 'Planeaban robar la caja’ y fueron arrestados y torturados.",
           "cities": ["San Cristóbal", "Buenos Aires"]
         },
         {
@@ -63,7 +63,7 @@
         {
           "name":"La corte internacional de la Haya crea reglas de Guerra",
           "text":"Bandera blanca y otras leyes, prohbicion de ataque a hospitales.",
-          "cities":""
+          "cities":["Rusia"]
         }
       ]
     },
@@ -93,7 +93,7 @@
         {
           "name": "Nacimiento de Samuel",
           "text": "Nace Samuel (¿Abraham?) hijo de León Sinay y Anita.",
-          "cities": []
+          "cities": ["Rosario"]
         }
       ]
     },
@@ -293,7 +293,7 @@
       {
         "name": "Nacimiento de Lidia y YIVO",
         "text": "Nace Lidia y se pierde un documento importante relacionado con YIVO (Instituto de Investigación Judía).",
-        "cities": []
+        "cities": ["Rosario"]
       }
     ]
   },

@@ -2,67 +2,80 @@
     "title": "Rabino",
     "duration": "1850 - 1898",
     "years": [
-  {
-    "year": "1850-01",
-    "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_ea05a4a8e3bd43978f9f3e7ba0b57547~mv2.webp/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_ea05a4a8e3bd43978f9f3e7ba0b57547~mv2.webp",
-    "events": [
-      {
-        "name": "Arn Hacohen Sinai",
-        "text": "Aaron Hakohen Sinay (אָרן הַכֹּהֵן סִינַי) era un rabino profesor en el pueblo conocido por toda la comunidad judía que rondaba las 2000 personas en Zabludow para esa época, siendo la comunidad con más habitantes en el pueblo. El nombre Aharon Hacohen Sinay  en sí mismo explica mucho sobre este personaje. Ha-Cohen (Él-Sacerdote o sumo sacerdote en algunas interpretaciones que sería Cohen Gadol o “el sacerdote”) y seguido con Sinay, proveniente de Sinn o Nannar, el “Dios de la Luna” de la ciudad de Ur o también el significado puede venir de la palabra “odio” u “odiado” por la envidia que provocaba la proclamación de ser un pueblo “elegido” al bajar de ese monte.  Hacohen Sinay se traduciría como “El sacerdote del monte Sinaí”. La “y” e “i” son indistintas en hebreo. Mi traducción: “El sacerdote del Dios de la Luna” o “El sacerdote odiado.”",
-        "cities": ["Augustów"]
-      }
-    ]
-  },
-  {
-    "year": "1850-03",
-    "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_552d1be16d784652bb691a2c1cea3f90~mv2.jpg/v1/fit/w_927,h_618,q_90,enc_avif,quality_auto/bd63ad_552d1be16d784652bb691a2c1cea3f90~mv2.jpg",
-    "events": [
-      {
-        "name": "Yeshivá de madera",
-        "text": "La antigua sinagoga de madera imponente con un interior un altar de madera y varios pisos y escaleras sin un clavo, dos profesorados y un colegio de varones dedicado a la formación de rabinos, la convertía en un pueblo judío finiscular habitado por rabinos consagrados y personajes cuasi bíblicos.",
-        "cities": ["Augustów"]
-      }
-    ]
-  },
-  {
-    "year": "1850-07",
-    "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_0b2884713c2142e8826e25c13d4f7fd4~mv2.webp/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_0b2884713c2142e8826e25c13d4f7fd4~mv2.webp",
-    "events": [
-      {
-        "name": "Augustów",
-        "text": "Posiblemente entre calles y casas de madera, con tierra húmeda de la lluvia y la nieve, Aarón vestía una túnica o tapado negro y usando una kipá o turbante típico. Ese año, en ese contexto de extrema religiosidad, sin datos hoy de su madre, nace en 1850 en Zubludow, Reuben Hacohen Sinay, hijo de Aarón.",
-        "cities": ["Augustów"]
-      }
-    ]
-  },
-  {
-    "year": "1850-08",
-    "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_6f35e9dd52144dcd88105c887aab2fbe~mv2.jpg/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_6f35e9dd52144dcd88105c887aab2fbe~mv2.jpg",
-    "events": [
-      {
-        "name": "Reuben HaKohen Sinay",
-        "text": "Nace Reuben (Revn) HaKohen Sinay en Augustów, Lituania. En este mismo período, surge en Europa el concepto racializado de 'ario' como contraposición ideológica al judaísmo.",
-        "cities": ["Augustów"]
-      }
-    ]
-  },
-  {
-    "year": "1850-08-08",
-    "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_1075c11e8e1443d495baaa93fd4ba8b1~mv2.webp/v1/fit/w_437,h_437,q_90,enc_avif,quality_auto/bd63ad_1075c11e8e1443d495baaa93fd4ba8b1~mv2.webp",
-    "events": [
-      {
-        "name": "Birkat-ha-kohanim",
-        "text": "A los ocho días de nacido, corresponde por su linaje sacerdotal, realizar el ritual de bendición “Birkat-ha-kohanim” para santificarlo. Santo viene de “sanct” que significa consagrado a Dios. Este destino inalterable, sellado en este ritual para él y su estirpe, reconfirmando la misión de su padre, se hace en un ritual que requiere de 10 personas cohen, tapadas con una túnica o manta blanca, como fantasmas o al descubierto, levantan sus manos hacia su pecho y realizan la bendición con sus manos que consiste en separar el dedo mayor y el anular. Pensando en que posiblemente se haya realizado en esa famosa sinagoga de madera, se vuelve una escena visualmente imponente.",
-        "cities": ["Augustów"]
-      }
-    ]
-  },
-        {"year":"1853",
-    "backgroundUrl":"",
-"events":[
-    {"name:":"Los crimenes de Crimea",
-"text":"750000 muertes en una masacre de guerra que pierde Rusia y sede terreno en el mar Muerto."}
-]},
+        {
+            "year": "1850-01",
+            "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_ea05a4a8e3bd43978f9f3e7ba0b57547~mv2.webp/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_ea05a4a8e3bd43978f9f3e7ba0b57547~mv2.webp",
+            "events": [
+                {
+                    "name": "Arn Hacohen Sinai",
+                    "text": "Aaron Hakohen Sinay (אָרן הַכֹּהֵן סִינַי) era un rabino profesor en el pueblo conocido por toda la comunidad judía que rondaba las 2000 personas en Zabludow para esa época, siendo la comunidad con más habitantes en el pueblo. El nombre Aharon Hacohen Sinay  en sí mismo explica mucho sobre este personaje. Ha-Cohen (Él-Sacerdote o sumo sacerdote en algunas interpretaciones que sería Cohen Gadol o “el sacerdote”) y seguido con Sinay, proveniente de Sinn o Nannar, el “Dios de la Luna” de la ciudad de Ur o también el significado puede venir de la palabra “odio” u “odiado” por la envidia que provocaba la proclamación de ser un pueblo “elegido” al bajar de ese monte.  Hacohen Sinay se traduciría como “El sacerdote del monte Sinaí”. La “y” e “i” son indistintas en hebreo. Mi traducción: “El sacerdote del Dios de la Luna” o “El sacerdote odiado.”",
+                    "cities": [
+                        "Augustów"
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "1850-03",
+            "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_552d1be16d784652bb691a2c1cea3f90~mv2.jpg/v1/fit/w_927,h_618,q_90,enc_avif,quality_auto/bd63ad_552d1be16d784652bb691a2c1cea3f90~mv2.jpg",
+            "events": [
+                {
+                    "name": "Yeshivá de madera",
+                    "text": "La antigua sinagoga de madera imponente con un interior un altar de madera y varios pisos y escaleras sin un clavo, dos profesorados y un colegio de varones dedicado a la formación de rabinos, la convertía en un pueblo judío finiscular habitado por rabinos consagrados y personajes cuasi bíblicos.",
+                    "cities": [
+                        "Augustów"
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "1850-07",
+            "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_0b2884713c2142e8826e25c13d4f7fd4~mv2.webp/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_0b2884713c2142e8826e25c13d4f7fd4~mv2.webp",
+            "events": [
+                {
+                    "name": "Augustów",
+                    "text": "Posiblemente entre calles y casas de madera, con tierra húmeda de la lluvia y la nieve, Aarón vestía una túnica o tapado negro y usando una kipá o turbante típico. Ese año, en ese contexto de extrema religiosidad, sin datos hoy de su madre, nace en 1850 en Zubludow, Reuben Hacohen Sinay, hijo de Aarón.",
+                    "cities": [
+                        "Augustów"
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "1850",
+            "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_6f35e9dd52144dcd88105c887aab2fbe~mv2.jpg/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_6f35e9dd52144dcd88105c887aab2fbe~mv2.jpg",
+            "events": [
+                {
+                    "name": "Reuben HaKohen Sinay",
+                    "text": "Nace Reuben (Revn) HaKohen Sinay en Augustów, Lituania. En este mismo período, surge en Europa el concepto racializado de 'ario' como contraposición ideológica al judaísmo.",
+                    "cities": [
+                        "Augustów"
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "1850",
+            "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_1075c11e8e1443d495baaa93fd4ba8b1~mv2.webp/v1/fit/w_437,h_437,q_90,enc_avif,quality_auto/bd63ad_1075c11e8e1443d495baaa93fd4ba8b1~mv2.webp",
+            "events": [
+                {
+                    "name": "Birkat-ha-kohanim",
+                    "text": "A los ocho días de nacido, corresponde por su linaje sacerdotal, realizar el ritual de bendición “Birkat-ha-kohanim” para santificarlo. Santo viene de “sanct” que significa consagrado a Dios. Este destino inalterable, sellado en este ritual para él y su estirpe, reconfirmando la misión de su padre, se hace en un ritual que requiere de 10 personas cohen, tapadas con una túnica o manta blanca, como fantasmas o al descubierto, levantan sus manos hacia su pecho y realizan la bendición con sus manos que consiste en separar el dedo mayor y el anular. Pensando en que posiblemente se haya realizado en esa famosa sinagoga de madera, se vuelve una escena visualmente imponente.",
+                    "cities": [
+                        "Augustów"
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "1853",
+            "events": [
+                {
+                    "name": "Los crimenes de Crimea",
+                    "text": "750000 muertes en una masacre de guerra que pierde Rusia y sede terreno en el mar Muerto",
+                    "cities": ["Crimea"]  }
+            ]
+        },
         {
             "year": "1855",
             "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_2cd8a5594fd64e9a8bd0909322d94c5e~mv2.webp/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_2cd8a5594fd64e9a8bd0909322d94c5e~mv2.webp",
@@ -87,7 +100,7 @@
         },
         {
             "year": "1861",
-               "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_7150359a14ed46eaa2c166c10a2d4a23~mv2.webp/v1/fit/w_437,h_437,q_90,enc_avif,quality_auto/bd63ad_7150359a14ed46eaa2c166c10a2d4a23~mv2.webp",
+            "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_7150359a14ed46eaa2c166c10a2d4a23~mv2.webp/v1/fit/w_437,h_437,q_90,enc_avif,quality_auto/bd63ad_7150359a14ed46eaa2c166c10a2d4a23~mv2.webp",
             "events": [
                 {
                     "name": "Unificación de Italia",
@@ -107,7 +120,7 @@
         },
         {
             "year": "1862",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Bartolomé Mitre",
@@ -127,7 +140,7 @@
         },
         {
             "year": "1868",
-               "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_6131cc21e8bd485bad0bc8b0d23babf4~mv2.webp/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_6131cc21e8bd485bad0bc8b0d23babf4~mv2.webp",
+            "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_6131cc21e8bd485bad0bc8b0d23babf4~mv2.webp/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_6131cc21e8bd485bad0bc8b0d23babf4~mv2.webp",
             "events": [
                 {
                     "name": "Domingo Faustino Sarmiento",
@@ -147,7 +160,7 @@
         },
         {
             "year": "1869",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Moritz von Hirsch",
@@ -168,7 +181,7 @@
         },
         {
             "year": "1870",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Bartolomé Mitre",
@@ -181,7 +194,7 @@
         },
         {
             "year": "1871",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Fiebre amarilla en Buenos Aires",
@@ -194,7 +207,7 @@
         },
         {
             "year": "1872",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Sacerdotes conversos",
@@ -215,7 +228,7 @@
         },
         {
             "year": "1874",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Nicolás Avellaneda",
@@ -236,7 +249,7 @@
         },
         {
             "year": "1875",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Tráfico de mujeres en Buenos Aires",
@@ -250,7 +263,7 @@
         },
         {
             "year": "1876",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Viaje por Rusia",
@@ -263,7 +276,7 @@
         },
         {
             "year": "1877",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Nace Mihl",
@@ -276,7 +289,7 @@
         },
         {
             "year": "1879",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Masacre de la Comarca de los Andes",
@@ -289,7 +302,7 @@
         },
         {
             "year": "1880",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Julio Argentino Roca",
@@ -303,7 +316,7 @@
         },
         {
             "year": "1881",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Represión en el Imperio Zarista Ruso",
@@ -328,7 +341,7 @@
         },
         {
             "year": "1883",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Bienvenida en Sarafand a colonos judíos",
@@ -342,7 +355,7 @@
         },
         {
             "year": "1884",
-               "backgroundUrl": "",
+            "backgroundUrl": "",
             "events": [
                 {
                     "name": "Sociedad Safah Brura",
@@ -353,7 +366,7 @@
                 },
                 {
                     "name": "Estudio del Talmud",
-                       "backgroundUrl": "",
+                    "backgroundUrl": "",
                     "text": "En un contexto hostil se ponen en marcha una serie de acciones comunitarias. Reuben junto a otros 4 eruditos, crea “Safah Brurá” traducido como “lenguaje llano”. La obsesión era claramente que el mensaje llegara más fácil y más rápido de manera oral con una misión también clara que era que no se pierda el legado. Al principio muy concurridas de lectura de Talmud, pero no duran mucho. Esta sería una de las agrupaciones que daría origen luego a Hovevei Zion, “Amor a Zion”, precursora del sionismo, de la que Reubén formó parte y aparentemente invirtió su dinero y vida allí. ",
                     "cities": [
                         "Grodno"
@@ -568,10 +581,13 @@
                         "Argentina",
                         "Rusia"
                     ]
-                },{
+                },
+                {
                     "name": "5 cambios de dirección de ICA en dos años.",
                     "text": "5 cambios de dirección de ICA en dos años.",
-                    "cities": ["Paris"]
+                    "cities": [
+                        "Paris"
+                    ]
                 },
                 {
                     "name": "Presidencia de Luis Sáenz Peña",
@@ -595,7 +611,7 @@
                         "Buenos Aires"
                     ]
                 },
-                  {
+                {
                     "name": "Pogrom",
                     "text": "La situación era muy mala para los judios en ese momento. Sucede un pogrom en Grodno y otro en las afueras. Consiste por las noches, obligado a apagar sus velas en sus casas y esperando a que los ruidos y el caos, humo y olor a incendio de las casas vecinas ardiendo. Al otro día al amanecer algunos saqueaban los restos de las propiedades que todavía servían para algo y para cuando los vecinos sobrevivientes se animaban a salir a la calle, se encontraban que los terrenos eran solo ceniza y sus víctimas masacradas completamente.",
                     "cities": [
@@ -644,70 +660,92 @@
                 }
             ]
         },
-         {
-    "year": "1892",
-    "events": [
-      {
-        "name": "Tragedia en Moisés Ville",
-        "text": "Una familia judía de campesinos, entre ellos David Lender, intercambia a sus hijas por comida sin entender el trato con gauchos. El malentendido termina en pelea y el asesinato de David Lender por un policía que huye a caballo. La versión del policía es la que prevalece y no hay consecuencias.",
-        "cities": ["Moisés Ville"]
-      },
-      {
-        "name": "Violencia constante",
-        "text": "El diario La Unión reporta que no pasa un solo día sin un asesinato en la región.",
-        "cities": ["Moisés Ville"]
-      },
-      {
-        "name": "Inestabilidad institucional en la ICA",
-        "text": "En solo dos años, la ICA atraviesa cinco cambios de dirección.",
-        "cities": ["Buenos Aires", "París"]
-      }
-    ]
-  },
-  {
-    "year": "1893",
-    "events": [
-      {
-        "name": "Pogrom en Grodno",
-        "text": "Pogrom nocturno obliga a las familias judías a apagar sus velas y esperar en silencio. Al amanecer, saqueadores irrumpen en los hogares devastados. Las propiedades quedan reducidas a cenizas y muchas víctimas son masacradas.",
-        "cities": ["Grodno"]
-      }
-    ]
-  },
+        {
+            "year": "1892",
+            "events": [
+                {
+                    "name": "Tragedia en Moisés Ville",
+                    "text": "Una familia judía de campesinos, entre ellos David Lender, intercambia a sus hijas por comida sin entender el trato con gauchos. El malentendido termina en pelea y el asesinato de David Lender por un policía que huye a caballo. La versión del policía es la que prevalece y no hay consecuencias.",
+                    "cities": [
+                        "Moisés Ville"
+                    ]
+                },
+                {
+                    "name": "Violencia constante",
+                    "text": "El diario La Unión reporta que no pasa un solo día sin un asesinato en la región.",
+                    "cities": [
+                        "Moisés Ville"
+                    ]
+                },
+                {
+                    "name": "Inestabilidad institucional en la ICA",
+                    "text": "En solo dos años, la ICA atraviesa cinco cambios de dirección.",
+                    "cities": [
+                        "Buenos Aires",
+                        "París"
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "1893",
+            "events": [
+                {
+                    "name": "Pogrom en Grodno",
+                    "text": "Pogrom nocturno obliga a las familias judías a apagar sus velas y esperar en silencio. Al amanecer, saqueadores irrumpen en los hogares devastados. Las propiedades quedan reducidas a cenizas y muchas víctimas son masacradas.",
+                    "cities": [
+                        "Grodno"
+                    ]
+                }
+            ]
+        },
         {
             "year": "1894",
             "events": [
                 {
-        "name": "Visita de Herr Faiberg a Grodno",
-        "text": "En julio, Herr Faiberg, enviado de la JCA y del Barón Hirsch, visita Grodno tras los pogroms. Tras generar desconfianza por su apariencia de ciudad, el rabino local lo respalda. Faiberg visita las tumbas, viviendas arrasadas y huérfanos. Luego, propone en la sinagoga viajar a Argentina para fundar la colonia Kiriath Moshe (Moisés Ville), concebida como una nueva Jerusalén.",
-        "cities": ["Grodno"]
-      },
-      {
-        "name": "Segundo viaje de Faiberg",
-        "text": "En noviembre, Faiberg regresa a Grodno.",
-        "cities": ["Grodno"]
-      },
-      {
-        "name": "Partida de la familia Sinay",
-        "text": "El 11 de noviembre de 1894, Faiberg entrega un telegrama de Abraham Frumkin a Reuben HaKohen Sinay bendiciendo su viaje a Argentina. También entrega dos Sifrei Torá y un Aarón HaKodesh. Reuben viaja con su esposa Rebecca y sus seis hijos en el barco Corania, desde el puerto de Liepāja. Van a Moisés Ville como educadores, con Reuben como líder espiritual.",
-        "cities": ["Grodno", "Liepāja", "Moisés Ville"]
-      }
+                    "name": "Visita de Herr Faiberg a Grodno",
+                    "text": "En julio, Herr Faiberg, enviado de la JCA y del Barón Hirsch, visita Grodno tras los pogroms. Tras generar desconfianza por su apariencia de ciudad, el rabino local lo respalda. Faiberg visita las tumbas, viviendas arrasadas y huérfanos. Luego, propone en la sinagoga viajar a Argentina para fundar la colonia Kiriath Moshe (Moisés Ville), concebida como una nueva Jerusalén.",
+                    "cities": [
+                        "Grodno"
+                    ]
+                },
+                {
+                    "name": "Segundo viaje de Faiberg",
+                    "text": "En noviembre, Faiberg regresa a Grodno.",
+                    "cities": [
+                        "Grodno"
+                    ]
+                },
+                {
+                    "name": "Partida de la familia Sinay",
+                    "text": "El 11 de noviembre de 1894, Faiberg entrega un telegrama de Abraham Frumkin a Reuben HaKohen Sinay bendiciendo su viaje a Argentina. También entrega dos Sifrei Torá y un Aarón HaKodesh. Reuben viaja con su esposa Rebecca y sus seis hijos en el barco Corania, desde el puerto de Liepāja. Van a Moisés Ville como educadores, con Reuben como líder espiritual.",
+                    "cities": [
+                        "Grodno",
+                        "Liepāja",
+                        "Moisés Ville"
+                    ]
+                }
             ]
         },
         {
             "year": "1895",
             "events": [
-               
                 {
-        "name": "Rebelión y represión en Villaguay",
-        "text": "En febrero de 1895, el padre de familia lidera una rebelión en Villaguay. Hay allanamientos en Lavalle 1236/1241 y disturbios en la Plaza del Teatro Colón. Se arresta a varias personas, incluyendo a Noé Trauman, Adolfo Dikenfaden y Salomón Goldstein. La policía los identifica en la galería de sospechosos.",
-        "cities": ["Villaguay", "Buenos Aires"]
-      },
-      {
-        "name": "Censo nacional",
-        "text": "El censo nacional de 1895 registra 753 judíos en Argentina.",
-        "cities": ["Buenos Aires"]
-      }, {
+                    "name": "Rebelión y represión en Villaguay",
+                    "text": "En febrero de 1895, el padre de familia lidera una rebelión en Villaguay. Hay allanamientos en Lavalle 1236/1241 y disturbios en la Plaza del Teatro Colón. Se arresta a varias personas, incluyendo a Noé Trauman, Adolfo Dikenfaden y Salomón Goldstein. La policía los identifica en la galería de sospechosos.",
+                    "cities": [
+                        "Villaguay",
+                        "Buenos Aires"
+                    ]
+                },
+                {
+                    "name": "Censo nacional",
+                    "text": "El censo nacional de 1895 registra 753 judíos en Argentina.",
+                    "cities": [
+                        "Buenos Aires"
+                    ]
+                },
+                {
                     "name": "Presidencia de José Evaristo Uriburu",
                     "text": "José Evaristo Uriburu (1895-1898), del partido Autonomista Nacional, asume la presidencia. Se caracteriza por una gobernabilidad pacífica tras la renuncia de Sáenz Peña y un crecimiento de la economía agroexportadora.",
                     "persons": [
@@ -729,31 +767,47 @@
                         "Buenos Aires"
                     ]
                 },
-                 {
-        "name": "Muerte del Barón Hirsch",
-        "text": "El Barón Hirsch muere en 1896. Deja fondos millonarios para colonias agrícolas judías en Argentina, América del Norte y, tras su muerte, también en Palestina. La Asociación de Colonización Judía administra el fideicomiso benéfico más grande del mundo.",
-        "cities": ["París", "Buenos Aires", "Palestina"]
-      },
-      {
-        "name": "Reuben se convierte en profesor",
-        "text": "En 1896, Reuben Sinai se convierte en profesor en la primera escuela YIKO de Moisés Ville. Luego se muda con su familia a Buenos Aires.",
-        "cities": ["Moisés Ville", "Buenos Aires"]
-      },
-      {
-        "name": "Publicaciones en prensa internacional",
-        "text": "Reuben publica artículos sobre la vida en Moisés Ville en Hamelits (San Petersburgo) y en Di Yudishe Gazetten (Nueva York).",
-        "cities": ["San Petersburgo", "Nueva York"]
-      },
-      {
-        "name": "Debates sobre el Estado Judío",
-        "text": "Theodor Herzl publica \"El Estado Judío\". Se debate si fundarlo en Palestina o Argentina.",
-        "cities": ["Viena", "Palestina", "Argentina"]
-      },
-      {
-        "name": "Trauman y el bastón de Varsovia",
-        "text": "Noé Trauman denuncia el robo de su bastón de Varsovia.",
-        "cities": ["Buenos Aires"]
-      }
+                {
+                    "name": "Muerte del Barón Hirsch",
+                    "text": "El Barón Hirsch muere en 1896. Deja fondos millonarios para colonias agrícolas judías en Argentina, América del Norte y, tras su muerte, también en Palestina. La Asociación de Colonización Judía administra el fideicomiso benéfico más grande del mundo.",
+                    "cities": [
+                        "París",
+                        "Buenos Aires",
+                        "Palestina"
+                    ]
+                },
+                {
+                    "name": "Reuben se convierte en profesor",
+                    "text": "En 1896, Reuben Sinai se convierte en profesor en la primera escuela YIKO de Moisés Ville. Luego se muda con su familia a Buenos Aires.",
+                    "cities": [
+                        "Moisés Ville",
+                        "Buenos Aires"
+                    ]
+                },
+                {
+                    "name": "Publicaciones en prensa internacional",
+                    "text": "Reuben publica artículos sobre la vida en Moisés Ville en Hamelits (San Petersburgo) y en Di Yudishe Gazetten (Nueva York).",
+                    "cities": [
+                        "San Petersburgo",
+                        "Nueva York"
+                    ]
+                },
+                {
+                    "name": "Debates sobre el Estado Judío",
+                    "text": "Theodor Herzl publica \"El Estado Judío\". Se debate si fundarlo en Palestina o Argentina.",
+                    "cities": [
+                        "Viena",
+                        "Palestina",
+                        "Argentina"
+                    ]
+                },
+                {
+                    "name": "Trauman y el bastón de Varsovia",
+                    "text": "Noé Trauman denuncia el robo de su bastón de Varsovia.",
+                    "cities": [
+                        "Buenos Aires"
+                    ]
+                }
             ]
         }
     ]
