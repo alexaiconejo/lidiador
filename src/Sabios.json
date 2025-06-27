@@ -1,0 +1,428 @@
+ {
+  "title": "Sabios",
+  "duration": "500 - 801",
+  "years": [{
+    "year": "500",
+    "events": [
+      {
+        "name": "Era de los Savoraim",
+        "text": "Comienza la etapa de los Savoraim, sabios responsables de la última edición y codificación del Talmud, resolviendo disputas y contradicciones en los textos anteriores, sin aportar nuevos comentarios. Su labor fue fundamental para consolidar el Talmud babilónico y de Jerusalén.",
+        "cities": ["Babilonia", "Palestina"]
+      }
+    ]
+  },
+  {
+    "year": "507",
+    "events": [
+      {
+        "name": "Clodoveo I expande su reino",
+        "text": "Clodoveo I derrota al rey visigodo Alarico II en la batalla de Vouillé, asegurando el control franco sobre Aquitania y expandiendo su poder en la Galia.",
+        "cities": ["Vouillé", "Aquitania"]
+      }
+    ]
+  },
+  {
+    "year": "511",
+    "events": [
+      {
+        "name": "Muerte de Clodoveo I y división del reino",
+        "text": "Muere Clodoveo I en París. Su reino se divide entre sus hijos, dando origen al Reino Franco medieval y la dinastía merovingia.",
+        "cities": ["París"]
+      }
+    ]
+  },
+  {
+    "year": "520",
+    "events": [
+      {
+        "name": "Rebelión de Mar Zutra II en Mahoza",
+        "text": "Mar Zutra II, descendiente del linaje HaKohen, lidera una revuelta en Mahoza contra el dominio persa. Tras su ejecución, su hijo Mar Zutra III continúa la tradición en la academia de Tiberíades, manteniendo la resistencia cultural y religiosa.",
+        "cities": ["Mahoza", "Tiberíades"]
+      }
+    ]
+  },
+  {
+    "year": "561",
+    "events": [
+      {
+        "name": "Presión sobre los judíos en Galia",
+        "text": "El Obispo de Uzès fuerza a la comunidad judía de su diócesis a decidir entre la conversión al cristianismo o la expulsión, aumentando la tensión religiosa en la región.",
+        "cities": ["Uzès", "Galia"]
+      }
+    ]
+  },
+   {
+    "year": "570",
+    "events": [
+      {
+        "name": "Nace Mahoma",
+        "text": "Nace Mahoma.",
+        "cities": ["La Meca"]
+      }
+    ]
+  },
+  {
+    "year": "576",
+    "events": [
+      {
+        "name": "Persecuciones contra judíos en Clermont-Ferrand",
+        "text": "El Obispo Avitus incita a la destrucción de sinagogas tras la conversión forzada de algunos judíos. Muchos escapan hacia Marsella, mientras que otros son convertidos a la fuerza.",
+        "cities": ["Clermont-Ferrand", "Marsella"]
+      }
+    ]
+  },
+  {
+    "year": "582",
+    "events": [
+      {
+        "name": "Conversión forzada y destrucción de sinagogas en Neustria",
+        "text": "Bajo el reinado de Chilperico de Neustria, los judíos enfrentan la obligación de convertirse o sufrir castigos severos, incluida la mutilación, y la transformación de sinagogas en iglesias.",
+        "cities": ["Neustria"]
+      }
+    ]
+  },
+  {
+    "year": "589",
+    "events": [
+      {
+        "name": "Concilio de Narbona y restricciones a judíos en España",
+        "text": "El rey visigodo Recaredo ordena el bautismo de hijos de matrimonios mixtos y prohíbe a los judíos poseer esclavos o ejercer cargos de autoridad. El Concilio de Narbona impone multas y restricciones a la práctica religiosa judía.",
+        "cities": ["Narbona", "España"]
+      }
+    ]
+  },
+  {
+    "year": "590",
+    "events": [
+      {
+        "name": "Haninai ben Huna y Mari bat Haninai fortalecen el linaje HaKohen",
+        "text": "Haninai ben Huna, gaón de la academia de Sura, se casa con Mari bat Haninai, hija del gaón Mari. Su unión refuerza la continuidad y prestigio del linaje sacerdotal y la tradición rabínica.",
+        "cities": ["Sura"]
+      }
+    ]
+  },
+  {
+    "year": "592",
+    "events": [
+      {
+        "name": "Persecución colectiva de judíos en Antioquía",
+        "text": "El emperador Mauricio castiga a la comunidad judía de Antioquía tras una infracción legal de uno de sus miembros. Posteriormente, en el año 608, la comunidad judía de la ciudad asesina al Patriarca, facilitando la entrada persa.",
+        "cities": ["Antioquía"]
+      }
+    ]
+  },
+  {
+    "year": "608",
+    "events": [
+      {
+        "name": "Entrada de los persas en Antioquía",
+        "text": "Tras el asesinato del Patriarca por parte de judíos en Antioquía, los persas aprovechan la situación para ocupar la ciudad, marcando un cambio de poder en la región.",
+        "cities": ["Antioquía"]
+      }
+    ]
+  },
+   {
+    "year": "614",
+    "events": [
+      {
+        "name": "Conquista de Jerusalén por el general persa Romizanes",
+        "text": "Jerusalén se rinde al general persa Romizanes. 37.000 cristianos son deportados y los judíos son encargados de dirigir la ciudad. En el mismo año, se celebra el Quinto Concilio de París, la mayor reunión de Obispos Merovingios, donde se decreta que todos los judíos en puestos civiles o militares deben aceptar el bautismo junto con sus familias.",
+        "cities": ["Jerusalén", "París"]
+      }
+    ]
+  },
+  {
+    "year": "615",
+    "events": [
+      {
+        "name": "Perfeccionamiento del Juramentum Judaeorum",
+        "text": "Se establece que los judíos deben jurar en tribunal sobre un rollo abierto de la Torá mientras están sobre una piel de cerdo, como parte del Juramentum Judaeorum.",
+        "cities": []
+      }
+    ]
+  },
+  {
+    "year": "617",
+    "events": [
+      {
+        "name": "Restricciones persas sobre asentamiento judío",
+        "text": "Los persas decretan que los judíos no pueden instalarse a menos de cinco kilómetros de Jerusalén.",
+        "cities": ["Jerusalén"]
+      }
+    ]
+  },
+   {
+    "year": "622",
+    "events": [
+      {
+        "name": "Mahoma se traslada a la Hégira",
+        "text": "Clanes Banu Qurayza, Banu Nadir",
+        "cities": ["La Hégira"]
+      }
+    ]
+  },
+  {
+    "year": "627",
+    "events": [
+      {
+        "name": "Concilio de Clichy en la Galia",
+        "text": "Se decreta que todo judío que acepte un puesto público debe convertirse al cristianismo.",
+        "cities": ["Clichy"]
+      }
+    ]
+  },
+  {
+    "year": "600",
+    "events": [
+      {
+        "name": "Era de los Geonim",
+        "text": "Los Geonim, líderes académicos y religiosos de las grandes academias rabínicas de Babilonia (Sura y Pumbedita), consolidan la autoridad rabínica, la interpretación del Talmud y comienzan a escribir responsa legales. Figuras destacadas incluyen a Rav Saadia Gaon, Rav Hai Gaon y Rav Sherira Gaon.",
+        "cities": ["Sura", "Pumbedita"]
+      }
+    ]
+  },
+    {
+    "year": "600",
+    "events": [
+      {
+        "name": "Mahoma y la revelación del Corán",
+        "text": "",
+        "cities": [""]
+      }
+    ]
+  },
+  {
+    "year": "618",
+    "events": [
+      {
+        "name": "Hananiah, abuelo materno de Bustanai",
+        "text": "Hananiah fue un Gaón en la Academia de Sura y abuelo materno de Bustanai ben Haninai, primer exilarca reconocido bajo dominio árabe. Su papel y relación familiar reflejan la complejidad de las genealogías rabínicas de la época.",
+        "cities": ["Sura"]
+      }
+    ]
+  },
+  {
+    "year": "628",
+    "events": [
+      {
+        "name": "Orden de conversión forzada de judíos por Heraclio",
+        "text": "El emperador Heraclio ordena la conversión forzada de todos los judíos en su imperio y renueva los códigos que prohíben el retorno judío a Jerusalén. El rey merovingio Dagoberto expulsa a los judíos del dominio franco siguiendo su ejemplo.",
+        "cities": ["Imperio Bizantino", "Francos"]
+      }
+    ]
+  },
+  {
+    "year": "629",
+    "events": [
+      {
+        "name": "Dagoberto I, último rey merovingio con verdadero poder",
+        "text": "Dagoberto I funda la Abadía de Saint-Denis, lugar de entierro de muchos reyes franceses.",
+        "cities": ["Saint-Denis"]
+      }
+    ]
+  },  {
+    "year": "632",
+    "events": [
+      {
+        "name": "Islam",
+        "text": "Nace es islam como religión separada oficialmente.",
+        "cities": ["Sura", "Pumbedita"]
+      }
+    ]
+  },
+  {
+    "year": "633",
+    "events": [
+      {
+        "name": "Cuarto Concilio de Toledo",
+        "text": "Decide contra las conversiones forzadas pero impide a los judíos convertidos volver al judaísmo. Los niños judíos son llevados a monasterios, y judíos y conversos son excluidos de cargos públicos y deben evitar socializar entre sí.",
+        "cities": ["Toledo"]
+      }
+    ]
+  },
+  {
+    "year": "634",
+    "events": [
+      {
+        "name": "Bustanai confirmado como jefe del exilio",
+        "text": "A los 16 años, Bustanai se presenta ante el califa Umar quien confirma su nombramiento como líder del exilio judío tras la conquista árabe de Bagdad.",
+        "cities": ["Bagdad"]
+      }
+    ]
+  },
+  {
+    "year": "638",
+    "events": [
+      {
+        "name": "Sexto Concilio de Toledo",
+        "text": "Decreta que niños judíos bautizados no deben ser devueltos a sus padres. Los conversos son supervisados estrictamente y deben jurar abandonar la ley judía bajo severas penas. Entre 638 y 642, expulsión masiva de no católicos de la España visigoda.",
+        "cities": ["Toledo", "España Visigoda"]
+      },
+         {
+        "name": "Musulamens conquistan Jerusalem",
+        "text": "",
+        "cities": ["Jerusalem"]
+      }
+    ]
+  },
+    {
+      "year": "650",
+      "events": [
+        {
+          "name": "Bustannai y la unión con Dara, princesa persa",
+          "text": "Bustannai, exilarca e hijo de Haninai, se casó con Dara, hija del rey persa Yazdegerd III. De esta unión nacieron Hasdai y Baradoi, quienes fusionaron tradiciones judías y persas y continuaron el linaje HaKohen.",
+          "cities": ["Bagdad"]
+        }
+      ]
+    },
+     {
+    "year": "661",
+    "events": [
+      {
+        "name": "Perctarito obliga a conversión en Lombardia",
+        "text": "El señor de la Lombardia teutónica obliga a los judíos a convertirse o morir. En Inglaterra, el Arzobispo Teodoro dicta reglas para prohibir la interacción social entre cristianos y judíos.",
+        "cities": ["Lombardia", "Canterbury"]
+      }
+    ]
+  },
+  {
+    "year": "681",
+    "events": [
+      {
+        "name": "Prohibiciones y persecuciones bajo el Rey Ervigio",
+        "text": "El rey Ervigio de España prohíbe a los judíos entrar por puertos, obliga al bautismo, y somete a los conversos a supervisión estricta. Se celebra el XII Sínodo de Toledo y se queman textos judíos como el Talmud.",
+        "cities": ["España", "Toledo"]
+      }
+    ]
+  },
+    {
+      "year": "690",
+      "events": [
+        {
+          "name": "Hasdai ben Bustannai y Judith bat Mari",
+          "text": "Hasdai, líder en Pumbedita, se casó con Judith bat Mari, descendiente de gaones. Su hijo Natronai continuó el linaje HaKohen y la tradición rabínica en Bagdad.",
+          "cities": ["Pumbedita", "Bagdad"]
+        }
+      ]
+    },
+     {
+    "year": "692",
+    "events": [
+      {
+        "name": "Concilio Ecuménico Trullano y posteriores restricciones",
+        "text": "Prohíbe a cristianos participar en fiestas judías, tener amistades con judíos o consultar médicos judíos. En Toledo, los concilios XVI y XVII refuerzan restricciones, declaran esclavos a los judíos, confiscan propiedades y separan a los niños de sus familias para adopción cristiana.",
+        "cities": ["Toledo"]
+      }
+    ]
+  },
+  
+        {
+    "year": "710",
+    "events": [
+      {
+        "name": "Nacimiento de Santa Walpurga",
+        "text": "Nace en Wessex, Inglaterra, Santa Walpurga, hija del rey Ricardo el Sajón y de Winna. Hermana de San Willibaldo y San Winibaldo, fue criada en el monasterio de Wimborne, donde se formó como monja.",
+        "cities": ["Wessex", "Wimborne"]
+      },
+        {
+        "name": "Santa Walpurga y la Noche de Walpurgis",
+        "text": "Santa Walpurga, monja anglosajona y abadisa en Alemania, es asociada con la festividad pagana de la Noche de Walpurgis, que conserva antiguas tradiciones precristianas.",
+        "cities": ["Alemania"]
+      }
+    ]
+  },
+  {
+    "year": "711",
+    "events": [
+      {
+        "name": "Invasión musulmana de la península ibérica",
+        "text": "Don Rodrigo es derrotado en la Batalla de Guadalete. Los musulmanes avanzan rápidamente en la península y los judíos colaboran con ellos, administrando varias ciudades conquistadas como Córdoba, Málaga y Granada.",
+        "cities": ["Guadalete", "Córdoba", "Málaga", "Granada"]
+      }
+    ]
+  },
+  {
+    "year": "721",
+    "events": [
+      {
+        "name": "Walpurga se forma en el convento",
+        "text": "Con once años, Walpurga queda bajo la tutela de la abadesa de Wimborne. Su padre muere en Lucca durante una peregrinación. Posteriormente viajará a Germania para colaborar con San Bonifacio.",
+        "cities": ["Wimborne", "Lucca", "Germania"]
+      }
+    ]
+  },
+  {
+    "year": "722",
+    "events": [
+      {
+        "name": "León III y la ilegalización del judaísmo",
+        "text": "El emperador bizantino León III ilegaliza el judaísmo en su imperio. Miles de judíos son bautizados a la fuerza y muchos son quemados vivos en sus sinagogas.",
+        "cities": ["Constantinopla"]
+      }
+    ]
+  },
+  {
+    "year": "742",
+    "events": [
+      {
+        "name": "Nacimiento de Carlomagno y llegada de los Kalonymus",
+        "text": "Nace Carlomagno. En paralelo, la familia Kalonymus es trasladada a Maguncia para fundar una comunidad judía destacada, posiblemente bajo su futura protección.",
+        "cities": ["Maguncia"]
+      }
+    ]
+  },
+  {
+    "year": "748",
+    "events": [
+      {
+        "name": "Santa Walpurga enviada a Germania",
+        "text": "La abadesa Tetta envía a Walpurga junto a Santa Lioba hacia Germania. Durante la travesía, Walpurga calma una tormenta rezando, ganándose fama de santa milagrosa.",
+        "cities": ["Germania", "Amberes", "Heidenheim"]
+      }
+    ]
+  },
+  {
+    "year": "750",
+    "events": [
+      {
+        "name": "Establecimiento de Walpurga como abadesa",
+        "text": "Santa Walpurga es nombrada abadesa de Heidenheim, donde lidera el monasterio fundado por su hermano San Winibaldo. Es venerada por su sabiduría y milagros.",
+        "cities": ["Heidenheim"]
+      },
+       {
+          "name": "Natronai ben Hasdai y el poder rabínico",
+          "text": "Natronai, hijo de Hasdai y Judith, lideró la comunidad judía de Bagdad y fortaleció la yeshivá, defendiendo los derechos de su pueblo y la continuidad del linaje HaKohen.",
+          "cities": ["Bagdad"]
+        }
+    ]
+  },
+  {
+    "year": "759",
+    "events": [
+      {
+        "name": "Narbonne liberada y Makir nombrado príncipe",
+        "text": "Carlomagno libera Narbona y recompensa a los judíos aliados otorgándoles un tercio de la ciudad. Makir de Narbona, descendiente de Bustanai, es nombrado príncipe vasallo.",
+        "cities": ["Narbona"]
+      }
+    ]
+  },
+  {
+    "year": "760",
+    "events": [
+      {
+        "name": "Conflicto sucesorio en el exilio de Babilonia",
+        "text": "Hananías ben David, descendiente de Hasdai I, enfrenta disputas con Anan ben David, fundador del movimiento caraíta. Los Geonim reafirman el linaje legítimo desde Shahriada, hijo de Izaddowar y Bustanai.",
+        "cities": ["Sura", "Pumbedita"]
+      }
+    ]
+  },
+  {
+    "year": "768",
+    "events": [
+      {
+        "name": "Ascenso de Carlomagno",
+        "text": "Tras la muerte de Pipino el Breve, su hijo Carlomagno asume el trono franco. Su madre fue Bertrada de Laon, consolidando así la dinastía carolingia.",
+        "cities": ["Francia"]
+      }
+    ]
+  }]}

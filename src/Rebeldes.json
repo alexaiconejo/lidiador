@@ -12,6 +12,16 @@
         }
       ]
     },
+     {
+      "year": "566 a.C.",
+      "events": [
+        {
+          "name": "Nace Zorobabel",
+          "text": "Nace Zorobabel, dinastia hacohen en babilonia. Significa la Zərua Bāvel en hebreo: זְרוּעַ בָּבֶל, que significa semilla de Babilonia, refiriéndose a un niño concebido y nacido en Babilonia,",
+          "cities": ["Babilonia"]
+        }
+      ]
+    },
     {
       "year": "539 a.C.",
       "events": [

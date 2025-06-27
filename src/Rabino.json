@@ -2,48 +2,70 @@
     "title": "Rabino",
     "duration": "1850 - 1898",
     "years": [
-        {
-            "year": "1850",
-            "events": [
-                {
-                    "name": "Arn Hacohen Sinai",
-                    "text": "Aaron Hakohen Sinay (אָרן הַכֹּהֵן סִינַי) era un rabino profesor en el pueblo conocido por toda la comunidad judía que rondaba las 2000 personas en Zabludow para esa época, siendo la comunidad con más habitantes en el pueblo. El nombre Aharon Hacohen Sinay  en sí mismo explica mucho sobre este personaje. Ha-Cohen (Él-Sacerdote o sumo sacerdote en algunas interpretaciones que sería Cohen Gadol o “el sacerdote”) y seguido con Sinay, proveniente de Sinn o Nannar, el “Dios de la Luna” de la ciudad de Ur o también el significado puede venir de la palabra “odio” u “odiado” por la envidia que provocaba la proclamación de ser un pueblo “elegido” al bajar de ese monte.  Hacohen Sinay se traduciría como “El sacerdote del monte Sinaí”. La “y” e “i” son indistintas en hebreo. Mi traducción: “El sacerdote del Dios de la Luna” o “El sacerdote odiado.",
-                    "cities": [
-                        "Augustów"
-                    ]
-                },
-                {
-                    "name": "Yeshivá de madera",
-                    "text": " La antigua sinagoga de madera imponente con un interior un altar de madera y varios pisos y escaleras sin un clavo, dos profesorados y un colegio de varones dedicado a la formación de rabinos, la convertía en un pueblo judío finiscular habitado por rabinos consagrados y personajes cuasi biblicos,",
-                    "cities": [
-                        "Augustów"
-                    ]
-                },
-                {
-                    "name": "Augustów",
-                    "text": "Posiblemente entre calles y casas de madera, con tierra húmeda de la lluvia y la nieve, Aarón vestía una túnica o tapado negro y usando una kipá o turbante tipico. Ese año, en ese contexto de extrema religiosidad, rigurosidad y visiones místicas, sin datos hoy de su madre, nace en 1850 en Zubludow, Reuben Hacohen Sinay, hijo de Aarón.",
-                    "cities": [
-                        "Augustów"
-                    ]
-                },
-                {
-                    "name": "Reuben HaKohen Sinay",
-                    "text": "Nace Reuben (Revn) HaKohen Sinay en Augustów, Lituania. En este mismo período, surge en Europa el concepto racializado de 'ario' como contraposición ideológica al judaísmo.",
-                    "cities": [
-                        "Augustów"
-                    ]
-                },
-                {
-                    "name": "Birkat-ha-kohanim",
-                    "text": "A los ocho días de nacido, corresponde por su linaje sacerdotal, realizar el ritual de bendición “Birkat-ha-kohanim” para santificarlo. Santo viene de “sanct” que significa consagrado a Dios. Este destino inalterable, sellado en este ritual para él y su estirpe, reconfirmando la misión de su padre, se hace en un ritual que requiere de 10 personas cohen, tapadas con una túnica o manta blanca, como fantasmas o al descubierto, levantan sus manos hacia su pecho y realizan la bendición con sus manos que consiste en separar el dedo mayor y el anular. Pensando en que posiblemente se haya realizado en esa famosa sinagoga de madera, se vuelve una escena visualmente imponente.",
-                    "cities": [
-                        "Augustów"
-                    ]
-                }
-            ]
-        },
+  {
+    "year": "1850-01",
+    "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_ea05a4a8e3bd43978f9f3e7ba0b57547~mv2.webp/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_ea05a4a8e3bd43978f9f3e7ba0b57547~mv2.webp",
+    "events": [
+      {
+        "name": "Arn Hacohen Sinai",
+        "text": "Aaron Hakohen Sinay (אָרן הַכֹּהֵן סִינַי) era un rabino profesor en el pueblo conocido por toda la comunidad judía que rondaba las 2000 personas en Zabludow para esa época, siendo la comunidad con más habitantes en el pueblo. El nombre Aharon Hacohen Sinay  en sí mismo explica mucho sobre este personaje. Ha-Cohen (Él-Sacerdote o sumo sacerdote en algunas interpretaciones que sería Cohen Gadol o “el sacerdote”) y seguido con Sinay, proveniente de Sinn o Nannar, el “Dios de la Luna” de la ciudad de Ur o también el significado puede venir de la palabra “odio” u “odiado” por la envidia que provocaba la proclamación de ser un pueblo “elegido” al bajar de ese monte.  Hacohen Sinay se traduciría como “El sacerdote del monte Sinaí”. La “y” e “i” son indistintas en hebreo. Mi traducción: “El sacerdote del Dios de la Luna” o “El sacerdote odiado.”",
+        "cities": ["Augustów"]
+      }
+    ]
+  },
+  {
+    "year": "1850-03",
+    "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_552d1be16d784652bb691a2c1cea3f90~mv2.jpg/v1/fit/w_927,h_618,q_90,enc_avif,quality_auto/bd63ad_552d1be16d784652bb691a2c1cea3f90~mv2.jpg",
+    "events": [
+      {
+        "name": "Yeshivá de madera",
+        "text": "La antigua sinagoga de madera imponente con un interior un altar de madera y varios pisos y escaleras sin un clavo, dos profesorados y un colegio de varones dedicado a la formación de rabinos, la convertía en un pueblo judío finiscular habitado por rabinos consagrados y personajes cuasi bíblicos.",
+        "cities": ["Augustów"]
+      }
+    ]
+  },
+  {
+    "year": "1850-07",
+    "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_0b2884713c2142e8826e25c13d4f7fd4~mv2.webp/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_0b2884713c2142e8826e25c13d4f7fd4~mv2.webp",
+    "events": [
+      {
+        "name": "Augustów",
+        "text": "Posiblemente entre calles y casas de madera, con tierra húmeda de la lluvia y la nieve, Aarón vestía una túnica o tapado negro y usando una kipá o turbante típico. Ese año, en ese contexto de extrema religiosidad, sin datos hoy de su madre, nace en 1850 en Zubludow, Reuben Hacohen Sinay, hijo de Aarón.",
+        "cities": ["Augustów"]
+      }
+    ]
+  },
+  {
+    "year": "1850-08",
+    "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_6f35e9dd52144dcd88105c887aab2fbe~mv2.jpg/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_6f35e9dd52144dcd88105c887aab2fbe~mv2.jpg",
+    "events": [
+      {
+        "name": "Reuben HaKohen Sinay",
+        "text": "Nace Reuben (Revn) HaKohen Sinay en Augustów, Lituania. En este mismo período, surge en Europa el concepto racializado de 'ario' como contraposición ideológica al judaísmo.",
+        "cities": ["Augustów"]
+      }
+    ]
+  },
+  {
+    "year": "1850-08-08",
+    "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_1075c11e8e1443d495baaa93fd4ba8b1~mv2.webp/v1/fit/w_437,h_437,q_90,enc_avif,quality_auto/bd63ad_1075c11e8e1443d495baaa93fd4ba8b1~mv2.webp",
+    "events": [
+      {
+        "name": "Birkat-ha-kohanim",
+        "text": "A los ocho días de nacido, corresponde por su linaje sacerdotal, realizar el ritual de bendición “Birkat-ha-kohanim” para santificarlo. Santo viene de “sanct” que significa consagrado a Dios. Este destino inalterable, sellado en este ritual para él y su estirpe, reconfirmando la misión de su padre, se hace en un ritual que requiere de 10 personas cohen, tapadas con una túnica o manta blanca, como fantasmas o al descubierto, levantan sus manos hacia su pecho y realizan la bendición con sus manos que consiste en separar el dedo mayor y el anular. Pensando en que posiblemente se haya realizado en esa famosa sinagoga de madera, se vuelve una escena visualmente imponente.",
+        "cities": ["Augustów"]
+      }
+    ]
+  },
+        {"year":"1853",
+    "backgroundUrl":"",
+"events":[
+    {"name:":"Los crimenes de Crimea",
+"text":"750000 muertes en una masacre de guerra que pierde Rusia y sede terreno en el mar Muerto."}
+]},
         {
             "year": "1855",
+            "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_2cd8a5594fd64e9a8bd0909322d94c5e~mv2.webp/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_2cd8a5594fd64e9a8bd0909322d94c5e~mv2.webp",
             "events": [
                 {
                     "name": "Moritz von Hirsch",
@@ -65,6 +87,7 @@
         },
         {
             "year": "1861",
+               "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_7150359a14ed46eaa2c166c10a2d4a23~mv2.webp/v1/fit/w_437,h_437,q_90,enc_avif,quality_auto/bd63ad_7150359a14ed46eaa2c166c10a2d4a23~mv2.webp",
             "events": [
                 {
                     "name": "Unificación de Italia",
@@ -84,6 +107,7 @@
         },
         {
             "year": "1862",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Bartolomé Mitre",
@@ -103,6 +127,7 @@
         },
         {
             "year": "1868",
+               "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_6131cc21e8bd485bad0bc8b0d23babf4~mv2.webp/v1/fit/w_600,h_600,q_90,enc_avif,quality_auto/bd63ad_6131cc21e8bd485bad0bc8b0d23babf4~mv2.webp",
             "events": [
                 {
                     "name": "Domingo Faustino Sarmiento",
@@ -122,6 +147,7 @@
         },
         {
             "year": "1869",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Moritz von Hirsch",
@@ -142,6 +168,7 @@
         },
         {
             "year": "1870",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Bartolomé Mitre",
@@ -154,6 +181,7 @@
         },
         {
             "year": "1871",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Fiebre amarilla en Buenos Aires",
@@ -166,6 +194,7 @@
         },
         {
             "year": "1872",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Sacerdotes conversos",
@@ -186,6 +215,7 @@
         },
         {
             "year": "1874",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Nicolás Avellaneda",
@@ -206,6 +236,7 @@
         },
         {
             "year": "1875",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Tráfico de mujeres en Buenos Aires",
@@ -219,6 +250,7 @@
         },
         {
             "year": "1876",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Viaje por Rusia",
@@ -231,6 +263,7 @@
         },
         {
             "year": "1877",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Nace Mihl",
@@ -243,6 +276,7 @@
         },
         {
             "year": "1879",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Masacre de la Comarca de los Andes",
@@ -255,6 +289,7 @@
         },
         {
             "year": "1880",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Julio Argentino Roca",
@@ -268,6 +303,7 @@
         },
         {
             "year": "1881",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Represión en el Imperio Zarista Ruso",
@@ -292,6 +328,7 @@
         },
         {
             "year": "1883",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Bienvenida en Sarafand a colonos judíos",
@@ -305,6 +342,7 @@
         },
         {
             "year": "1884",
+               "backgroundUrl": "",
             "events": [
                 {
                     "name": "Sociedad Safah Brura",
@@ -315,6 +353,7 @@
                 },
                 {
                     "name": "Estudio del Talmud",
+                       "backgroundUrl": "",
                     "text": "En un contexto hostil se ponen en marcha una serie de acciones comunitarias. Reuben junto a otros 4 eruditos, crea “Safah Brurá” traducido como “lenguaje llano”. La obsesión era claramente que el mensaje llegara más fácil y más rápido de manera oral con una misión también clara que era que no se pierda el legado. Al principio muy concurridas de lectura de Talmud, pero no duran mucho. Esta sería una de las agrupaciones que daría origen luego a Hovevei Zion, “Amor a Zion”, precursora del sionismo, de la que Reubén formó parte y aparentemente invirtió su dinero y vida allí. ",
                     "cities": [
                         "Grodno"

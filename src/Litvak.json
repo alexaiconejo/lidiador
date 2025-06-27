@@ -4,6 +4,7 @@
   "years": [
     {
   "year": "1703",
+  "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_8eb08f29eb5247248ff39acba1bf2662~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_8eb08f29eb5247248ff39acba1bf2662~mv2.webp",
   "events": [{
     "name": "Creacion de San Petersburgo",
     "text": "A principios de 1700, en el área que hoy se conoce como Ucrania, a un niño huérfano llamado Israel ben Eleazar le encantaba andar por el bosque, incluso dormir allí durante la noche.",
@@ -46,6 +47,7 @@
     },
    {
   "year": "1715",
+  "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_6e64fa90a50a42bea4a94c5eb591414a~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_6e64fa90a50a42bea4a94c5eb591414a~mv2.webp",
   "events": [
     {
       "name": "Fundación de comunidad jasídica embrionaria",
@@ -59,6 +61,7 @@
 },
 {
   "year": "1717",
+  "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_0075675778934c1abb1ab226355b95ef~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_0075675778934c1abb1ab226355b95ef~mv2.webp",
   "events": [
     {
       "name": "Reorganización de las kehilot en Lituania",
@@ -263,13 +266,14 @@
     "events": [
       {
         "name": "Revolución Francesa",
-        "text": "Durante el Reinado del Terror, numerosos judíos son perseguidos por sus vínculos con el comercio y la nobleza. Sin embargo, los derechos adquiridos no son revocados oficialmente.",
+        "text": "numerosos judíos son perseguidos por sus vínculos con el comercio y la nobleza. Sin embargo, los derechos adquiridos no son revocados oficialmente.",
         "cities": ["París", "Burdeos"]
       }
     ]
   },
   {
     "year": "1794",
+    "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_f753cb1dc3b5468993f962f9d534e2c6~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_f753cb1dc3b5468993f962f9d534e2c6~mv2.webp",
     "events": [
       {
         "name": "Kether Shem Tov",
@@ -295,10 +299,11 @@
   },
   {
     "year": "1796",
+    "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_fe3a9d44721443eb86370e9e77da6e48~mv2.webp/v1/fit/w_822,h_766,q_90,enc_avif,quality_auto/bd63ad_fe3a9d44721443eb86370e9e77da6e48~mv2.webp",
     "events": [
       {
         "name": "Aaron HaLevi ben Moses de Staroselye",
-        "text": "Instiga a Shneur Zalman de Liadi a publicar el 'Tanya', obra fundacional del jasidismo de Jabad. El libro aparece en Slavita y comienza a circular como guía espiritual para el 'hombre promedio'.",
+                "text": "Instiga a Shneur Zalman de Liadi a publicar el 'Tanya', obra fundacional del jasidismo de Jabad. El libro aparece en Slavita y comienza a circular como guía espiritual para el 'hombre promedio'.",
         "cities": ["Slavita", "Liadi"]
       }
     ]
@@ -315,6 +320,7 @@
   },
   {
     "year": "1798",
+      "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_8fbc102595fd4753bc36f7efa4d9c806~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_8fbc102595fd4753bc36f7efa4d9c806~mv2.webp",
     "events": [
       {
         "name": "Aaron HaLevi de Staroselye",

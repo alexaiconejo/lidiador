@@ -13,6 +13,7 @@ import Protagonists from "./Protagonistas.js";
 import abominable from "./Abominable.json";
 import reconstruccion from "./Reconstruccion.json";
 import impuros from "./Impuros.json";
+import sabios from "./Sabios.json";
 import madre from "./LaMadre.json";
 import rabino from "./Rabino.json";
 import indeseables from "./Indeseables.json";
@@ -75,6 +76,7 @@ const eventRefs = useRef<(HTMLLIElement | null)[]>([]);
     rebeldes,
     estrella,
     principes,
+    sabios,
     kalonymus,
     azkenasies,
     sinay,
@@ -90,6 +92,7 @@ const chapterIcons = [
   <FaRebel />,         // Rebeldes
   <FaEye />,           // Una Estrella
   <FaChessKing />,     // Príncipes
+  <FaChessKing />,     // Sabios
   <FaScroll />,        // Kalonymus
   <FaBookDead />,      // Azkenasies
   <FaMountain />,      // Sinaí
@@ -216,7 +219,7 @@ useEffect(() => {
 </section>
 <section className={styles.SecondSection}>
   <h3>LA PALABRA</h3>
-  <h4>#Hakohen #TrataDePersonas #León #Sionismo #AMIA #IdishColonizationAsossiation #LaVarsovia #ZwiMigdal #Inteligencia #Jueces #Policía #MapaDelPoderEconomico #Argentina #MoisesVille #Rosario #Dinastia #Astrología #ÁrbolGenealógico #ConstelaciónFamiliar #Reiki #Talmud #Piratas</h4>
+  <h4>#Hakohen #TrataDePersonas #León #Sionismo #Levitico #AMIA #IdishColonizationAsossiation #LaVarsovia #ZwiMigdal #Inteligencia #Jueces #Policía #MapaDelPoderEconomico #Argentina #MoisesVille #Rosario #Dinastia #Astrología #ÁrbolGenealógico #ConstelaciónFamiliar #Reiki #Talmud #Piratas</h4>
 </section>
 <div className={styles.sidebarNav}>
 {chapters.map((_, idx) => (

@@ -59,6 +59,11 @@
           "name": "Publicación de Di Folks Shtime",
           "text": "Vermont y Einstein publican Di Folks Shtime (La Voz del Pueblo). En julio, un artículo largo sobre Rosa Manguel, joven de Galitzia engañada y escapada. Vermont recibe amenazas de José Gothieb.",
           "cities": ["Buenos Aires"]
+        },
+        {
+          "name":"La corte internacional de la Haya crea reglas de Guerra",
+          "text":"Bandera blanca y otras leyes, prohbicion de ataque a hospitales.",
+          "cities":""
         }
       ]
     },
@@ -78,7 +83,7 @@
         {
           "name": "León y Ana Niejmad",
           "text": "León y Ana Niejmad en la comunidad judía.",
-          "cities": []
+          "cities": ["Rosario"]
         }
       ]
     },

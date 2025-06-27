@@ -1,6 +1,6 @@
 /* Contenedor principal de la línea de tiempo */
 .container {
-  max-width: 800px;
+  max-width: 95vw;
   margin: 2rem auto;
   position: relative;
   padding: 2rem;
@@ -8,6 +8,7 @@
   background-color: #f5f5f5;
   border-radius: 8px;
   min-height: 100vh;
+  background-repeat: no-repeat;
 }
 /* Contenedor fullscreen para el título y descripción */
 .titleSection {
@@ -213,37 +214,20 @@
 
 /* Item de evento */
 .eventItem {
-  position: relative;
   margin-bottom: 1.8rem;
   border-radius: 8px;
-  overflow: hidden;
-  padding: 1rem;
+  padding: 0.5rem 1rem;
   transition: all 0.3s ease;
   background: transparent;
   box-shadow: none;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  color: white;
-}
-
-.eventItem::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.4); /* oscurece para mejor lectura */
-  z-index: 0;
+  margin-top: 25vh;
 }
 
 .eventItemActive {
+  background: #e6e8ff;
+  padding: 1rem;
   box-shadow: 0 2px 12px rgba(90, 79, 255, 0.2);
-  border: 2px solid #5a4fff;
-}
-
-
-.eventItem > div {
-  position: relative;
-  z-index: 1;
+  
 }
 
 /* Punto indicador de evento */
@@ -259,23 +243,26 @@
   border: 2px solid #fff;
 }
 
-
+.eventBulletActive {
+  background: #5a4fff;
+  border: 3px solid #222;
+}
 
 .eventContentStrong {
-  font-size: 1.2rem;
-  font-weight: bold;
-  color: white;
+  font-size: 1.1rem;
+  color: #222;
 }
 
 .eventContentCities {
   font-size: 0.9rem;
-  color: #ddd;
+  color: #666;
+  margin-top: 4px;
   font-style: italic;
 }
 
 .eventContentText {
   margin-top: 8px;
-  color: #eee;
+  color: #444;
   line-height: 1.5;
 }
 

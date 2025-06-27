@@ -1,6 +1,7 @@
 {
   "title": "Príncipes",
-  "duration": "70 - 801",
+  "duration": "70 - 500",
+  "description": "Época tanaaim de rabinos, nasi como presidente y lider del sanderin descendientes de hilel, hasta su éxodo.",
   "years": [
 {
     "year": "71",
@@ -8,7 +9,7 @@
     "events": [
       {
         "name": "Deportación de familias sacerdotales según tradiciones familiares",
-        "text": "después de la caída de Jerusalén en sus manos y la destrucción del segundo Beit ha-Mikdash (Templo de Jerusalén), el emperador romano Tito tomó prisioneros a los patriarcas de cuatro familias nobles de la provincia de Yehuda y de la ciudad de Jerusalén y los exilió a Roma. Según tradiciones genealógicas judías-italianas posteriores, familias sacerdotales como Anav, de Pomis, dei Rossi y degli Adolescentoli vinculadas a la línea HaKohen, fueron deportadas por Tito tras la destrucción del Segundo Templo y se asentaron en Roma.",
+        "text": "Después de la caída de Jerusalén en sus manos y la destrucción del segundo Beit ha-Mikdash (Templo de Jerusalén), el emperador romano Tito tomó prisioneros a los patriarcas de cuatro familias nobles de la provincia de Yehuda y de la ciudad de Jerusalén y los exilió a Roma. Según tradiciones genealógicas judías-italianas posteriores, familias sacerdotales como Anav, de Pomis, dei Rossi y degli Adolescentoli vinculadas a la línea HaKohen, fueron deportadas por Tito tras la destrucción del Segundo Templo y se asentaron en Roma.",
         "cities": ["Jerusalén"]
       }
     ]
@@ -19,7 +20,7 @@
     "events": [
       {
         "name": "Asentamiento de las familias sacerdotales en Roma",
-        "text": "Las familias sacerdotales deportadas fueron establecidas en Roma. Allí comenzaron a integrarse en la comunidad judía local, adaptándose a un nuevo entorno mientras mantenían tradiciones religiosas y sociales propias.",
+        "text": "Las familias sacerdotales (dinastía Hacohen) deportadas fueron establecidas en Roma. Allí comenzaron a integrarse en la comunidad judía local, adaptándose a un nuevo entorno mientras mantenían tradiciones religiosas y sociales propias.",
         "cities": ["Roma"]
       }
     ]
@@ -29,7 +30,7 @@
     "events": [
       {
         "name": "Nombramiento del primer Nasi",
-        "text": "Fue la primera persona en dirigir el Sanedrín como nasi tras la caída del Segundo Templo. Nasí (נָשִׂיא) es un término hebreo que significa, príncipe, en hebreo bíblico. En hebreo moderno, Nasí equivale a presidente, y no se utiliza en su sentido antiguo, quedando para príncipe la palabra Nasich. El Nasí era el miembro con mayor rango y el que presidía el Sanedrín, incluso cuando se reunía como tribunal penal.",
+        "text": "Rabán Gamliel II fue la primera persona en dirigir el Sanedrín como nasi tras la caída del Segundo Templo. Nasí (נָשִׂיא) es un término hebreo que significa, príncipe, en hebreo bíblico. En hebreo moderno, Nasí equivale a presidente, y no se utiliza en su sentido antiguo, quedando para príncipe la palabra Nasich. El Nasí era el miembro con mayor rango y el que presidía el Sanedrín, incluso cuando se reunía como tribunal penal.",
         "cities": ["Yavne"]
       }]},
       {
@@ -51,10 +52,16 @@
         "name": "Rabán Gamliel II reafirma su liderazgo",
         "text": "Rabán Gamliel II, líder de la comunidad judía tras la destrucción del Segundo Templo, organiza el Sanedrín en Yavne. Establece normas para un judaísmo centrado en la halajá y define los primeros marcos de autoridad rabínica post-templo. Inicia el período de los Tanaim (sabios que transmiten oralmente la ley).",
         "cities": ["Yavne"]
-      },
+      }
+    ]
+  },
+   {
+    "year": "90",
+    "backgroundUrl":"",
+    "events": [
        {
         "name": "Escritura del Evangelio de Juan",
-        "text": "Se atribuye a Juan el Evangelio más teológico de los cuatro canónicos, enfatizando la divinidad de Jesús y su rol en la salvación.",
+        "text": "Se atribuye a Juan el Evangelio más teológico de los cuatro canónicos, enfatizando la divinidad de Jesús y su rol en la salvación. Habla de Jesús haciendo una bendición sacerdotal.",
         "cities": ["Éfeso"]
       }
     ]
@@ -106,7 +113,12 @@
         "name": "Consolidación del Sanedrín en Yavne",
         "text": "Rabán Gamliel II enfrenta oposición interna pero mantiene el control del Sanedrín, reafirmando la centralidad de Yavne como nueva autoridad espiritual. Se fortalece la figura del Nasi (presidente del Sanedrín) como heredero político-espiritual del linaje davídico y sacerdotal.",
         "cities": ["Yavne"]
-      },
+      }
+    ]
+  },
+   {
+    "year": "100", "backgroundUrl":"https://static.wixstatic.com/media/bd63ad_00664f02313b44bfbc81b9b4684d570b~mv2.webp/v1/fit/w_802,h_590,q_90,enc_avif,quality_auto/bd63ad_00664f02313b44bfbc81b9b4684d570b~mv2.webp",
+    "events": [
        {
       "name": "Muerte de Samuel ha-Katan",
       "text": "Rabán Gamliel II y Eleazar ben Azarías lamentan profundamente la muerte de Samuel ha-Katan, discípulo ejemplar. Gamliel exclama: 'Es justo llorarlo; los reyes dejan coronas, los ricos su oro, pero él se llevó lo más preciado: su sabiduría'. Este lamento evidencia la centralidad del conocimiento en la nueva estructura post-templo.",
@@ -115,7 +127,8 @@
     ]
   },
   {
-  "year": "102", "backgroundUrl": "",
+  "year": "102", 
+  "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_c996245f995249899d5d810683d4692f~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_c996245f995249899d5d810683d4692f~mv2.webp",
   "events": [
     {
       "name": "Últimos años y legado espiritual",
@@ -135,7 +148,7 @@
   ]
 },
   {
-    "year": "110", "backgroundUrl": "",
+    "year": "110", "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_5376a7da708349f8b96f91d469cbc7b8~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_5376a7da708349f8b96f91d469cbc7b8~mv2.webp",
     "events": [
       {
         "name": "Nacimiento de Shimón ben Gamliel II",
@@ -195,7 +208,7 @@
     ]
   },
 {
-    "year": "135", "backgroundUrl": "",
+    "year": "135", "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_6b42d2068d5e4892b9adc8c49bd6f42f~mv2.webp/v1/fit/w_822,h_766,q_90,enc_avif,quality_auto/bd63ad_6b42d2068d5e4892b9adc8c49bd6f42f~mv2.webp",
     "events": [
        {
         "name": "Reevaluación de Bar Kojba y consecuencias",
@@ -210,7 +223,7 @@
     ]
   },
   {
-    "year": "138","backgroundUrl": "",
+    "year": "138","backgroundUrl": "https://static.wixstatic.com/media/bd63ad_74f3cd9e0fca4c17aef65ab93e265061~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_74f3cd9e0fca4c17aef65ab93e265061~mv2.webp",
     "events": [
       {
         "name": "Reformas sociales de Shimón ben Gamliel II",
@@ -220,7 +233,7 @@
     ]
   },
   {
-    "year": "140", "backgroundUrl": "",
+    "year": "140", "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_99c6bd56566d4b938eacf5e49222c4b7~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_99c6bd56566d4b938eacf5e49222c4b7~mv2.webp",
     "events": [
       {
         "name": "Estructura del Sanedrín bajo Shimón ben Gamliel II",
@@ -230,7 +243,7 @@
     ]
   },
   {
-    "year": "143", "backgroundUrl": "",
+    "year": "143", "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_23c342a409df4ae981b798e0b1f36893~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_23c342a409df4ae981b798e0b1f36893~mv2.webp",
     "events": [
       {
         "name": "Sabiduría práctica de Shimón ben Gamliel II",
@@ -240,7 +253,7 @@
     ]
   },
   {
-    "year": "145", "backgroundUrl": "",
+    "year": "145", "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_0e5a10fd39e8412fae2b2d2e4d337f22~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_0e5a10fd39e8412fae2b2d2e4d337f22~mv2.webp",
     "events": [
       {
         "name": "Saberes griegos y ciencias naturales",
@@ -262,7 +275,7 @@
   
 
    {
-    "year": "152", "backgroundUrl": "",
+    "year": "152", "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_9e2c54ab539744379c8853dec1e3c167~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_9e2c54ab539744379c8853dec1e3c167~mv2.webp",
     "events": [
       {
         "name": "Formación y estudios",
@@ -272,17 +285,17 @@
     ]
   },
     {
-    "year": "170", "backgroundUrl": "",
+    "year": "170", "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_9b2abe512c854e09acf027a8b9cf7aa8~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_9b2abe512c854e09acf027a8b9cf7aa8~mv2.webp",
     "events": [
       {
-        "name": "Asume el patriarcado y se traslada a Beit Shearim",
+        "name": "Se convierte en Nasi se traslada a Beit Shearim",
         "text": "Al morir su padre, se convierte en Nasi del Sanedrín y traslada la sede académica de Usha a Beit Shearim. Abre sus graneros para auxiliar a los necesitados durante una hambruna.",
         "cities": ["Beit Shearim"]
       }
     ]
   },
    {
-    "year": "175", "backgroundUrl": "",
+    "year": "175", "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_dfc734ee87d044bbb4510779fc7d9b5c~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_dfc734ee87d044bbb4510779fc7d9b5c~mv2.webp",
     "events": [
       {
         "name": "Relaciones con Roma",
@@ -322,7 +335,7 @@
     ]
   },
 {
-  "year": "220","backgroundUrl": "",
+  "year": "220","backgroundUrl": "https://static.wixstatic.com/media/bd63ad_78d0f09c484a4635be9e158b6efd1da4~mv2.webp/v1/fit/w_822,h_618,q_90,enc_avif,quality_auto/bd63ad_78d0f09c484a4635be9e158b6efd1da4~mv2.webp",
   "events": [
     {
       "name": "Rabán Gamaliel III dirige el Sanedrín",
@@ -667,387 +680,6 @@
         "cities": ["Provenza"]
       }
     ]
-  },
-   {
-    "year": "500",
-    "events": [
-      {
-        "name": "Era de los Savoraim",
-        "text": "Comienza la etapa de los Savoraim, sabios responsables de la última edición y codificación del Talmud, resolviendo disputas y contradicciones en los textos anteriores, sin aportar nuevos comentarios. Su labor fue fundamental para consolidar el Talmud babilónico y de Jerusalén.",
-        "cities": ["Babilonia", "Palestina"]
-      }
-    ]
-  },
-  {
-    "year": "507",
-    "events": [
-      {
-        "name": "Clodoveo I expande su reino",
-        "text": "Clodoveo I derrota al rey visigodo Alarico II en la batalla de Vouillé, asegurando el control franco sobre Aquitania y expandiendo su poder en la Galia.",
-        "cities": ["Vouillé", "Aquitania"]
-      }
-    ]
-  },
-  {
-    "year": "511",
-    "events": [
-      {
-        "name": "Muerte de Clodoveo I y división del reino",
-        "text": "Muere Clodoveo I en París. Su reino se divide entre sus hijos, dando origen al Reino Franco medieval y la dinastía merovingia.",
-        "cities": ["París"]
-      }
-    ]
-  },
-  {
-    "year": "520",
-    "events": [
-      {
-        "name": "Rebelión de Mar Zutra II en Mahoza",
-        "text": "Mar Zutra II, descendiente del linaje HaKohen, lidera una revuelta en Mahoza contra el dominio persa. Tras su ejecución, su hijo Mar Zutra III continúa la tradición en la academia de Tiberíades, manteniendo la resistencia cultural y religiosa.",
-        "cities": ["Mahoza", "Tiberíades"]
-      }
-    ]
-  },
-  {
-    "year": "561",
-    "events": [
-      {
-        "name": "Presión sobre los judíos en Galia",
-        "text": "El Obispo de Uzès fuerza a la comunidad judía de su diócesis a decidir entre la conversión al cristianismo o la expulsión, aumentando la tensión religiosa en la región.",
-        "cities": ["Uzès", "Galia"]
-      }
-    ]
-  },
-  {
-    "year": "576",
-    "events": [
-      {
-        "name": "Persecuciones contra judíos en Clermont-Ferrand",
-        "text": "El Obispo Avitus incita a la destrucción de sinagogas tras la conversión forzada de algunos judíos. Muchos escapan hacia Marsella, mientras que otros son convertidos a la fuerza.",
-        "cities": ["Clermont-Ferrand", "Marsella"]
-      }
-    ]
-  },
-  {
-    "year": "582",
-    "events": [
-      {
-        "name": "Conversión forzada y destrucción de sinagogas en Neustria",
-        "text": "Bajo el reinado de Chilperico de Neustria, los judíos enfrentan la obligación de convertirse o sufrir castigos severos, incluida la mutilación, y la transformación de sinagogas en iglesias.",
-        "cities": ["Neustria"]
-      }
-    ]
-  },
-  {
-    "year": "589",
-    "events": [
-      {
-        "name": "Concilio de Narbona y restricciones a judíos en España",
-        "text": "El rey visigodo Recaredo ordena el bautismo de hijos de matrimonios mixtos y prohíbe a los judíos poseer esclavos o ejercer cargos de autoridad. El Concilio de Narbona impone multas y restricciones a la práctica religiosa judía.",
-        "cities": ["Narbona", "España"]
-      }
-    ]
-  },
-  {
-    "year": "590",
-    "events": [
-      {
-        "name": "Haninai ben Huna y Mari bat Haninai fortalecen el linaje HaKohen",
-        "text": "Haninai ben Huna, gaón de la academia de Sura, se casa con Mari bat Haninai, hija del gaón Mari. Su unión refuerza la continuidad y prestigio del linaje sacerdotal y la tradición rabínica.",
-        "cities": ["Sura"]
-      }
-    ]
-  },
-  {
-    "year": "592",
-    "events": [
-      {
-        "name": "Persecución colectiva de judíos en Antioquía",
-        "text": "El emperador Mauricio castiga a la comunidad judía de Antioquía tras una infracción legal de uno de sus miembros. Posteriormente, en el año 608, la comunidad judía de la ciudad asesina al Patriarca, facilitando la entrada persa.",
-        "cities": ["Antioquía"]
-      }
-    ]
-  },
-  {
-    "year": "608",
-    "events": [
-      {
-        "name": "Entrada de los persas en Antioquía",
-        "text": "Tras el asesinato del Patriarca por parte de judíos en Antioquía, los persas aprovechan la situación para ocupar la ciudad, marcando un cambio de poder en la región.",
-        "cities": ["Antioquía"]
-      }
-    ]
-  },
-   {
-    "year": "614",
-    "events": [
-      {
-        "name": "Conquista de Jerusalén por el general persa Romizanes",
-        "text": "Jerusalén se rinde al general persa Romizanes. 37.000 cristianos son deportados y los judíos son encargados de dirigir la ciudad. En el mismo año, se celebra el Quinto Concilio de París, la mayor reunión de Obispos Merovingios, donde se decreta que todos los judíos en puestos civiles o militares deben aceptar el bautismo junto con sus familias.",
-        "cities": ["Jerusalén", "París"]
-      }
-    ]
-  },
-  {
-    "year": "615",
-    "events": [
-      {
-        "name": "Perfeccionamiento del Juramentum Judaeorum",
-        "text": "Se establece que los judíos deben jurar en tribunal sobre un rollo abierto de la Torá mientras están sobre una piel de cerdo, como parte del Juramentum Judaeorum.",
-        "cities": []
-      }
-    ]
-  },
-  {
-    "year": "617",
-    "events": [
-      {
-        "name": "Restricciones persas sobre asentamiento judío",
-        "text": "Los persas decretan que los judíos no pueden instalarse a menos de cinco kilómetros de Jerusalén.",
-        "cities": ["Jerusalén"]
-      }
-    ]
-  },
-  {
-    "year": "627",
-    "events": [
-      {
-        "name": "Concilio de Clichy en la Galia",
-        "text": "Se decreta que todo judío que acepte un puesto público debe convertirse al cristianismo.",
-        "cities": ["Clichy"]
-      }
-    ]
-  },
-  {
-    "year": "600",
-    "events": [
-      {
-        "name": "Era de los Geonim",
-        "text": "Los Geonim, líderes académicos y religiosos de las grandes academias rabínicas de Babilonia (Sura y Pumbedita), consolidan la autoridad rabínica, la interpretación del Talmud y comienzan a escribir responsa legales. Figuras destacadas incluyen a Rav Saadia Gaon, Rav Hai Gaon y Rav Sherira Gaon.",
-        "cities": ["Sura", "Pumbedita"]
-      }
-    ]
-  },
-  {
-    "year": "618",
-    "events": [
-      {
-        "name": "Hananiah, abuelo materno de Bustanai",
-        "text": "Hananiah fue un Gaón en la Academia de Sura y abuelo materno de Bustanai ben Haninai, primer exilarca reconocido bajo dominio árabe. Su papel y relación familiar reflejan la complejidad de las genealogías rabínicas de la época.",
-        "cities": ["Sura"]
-      }
-    ]
-  },
-  {
-    "year": "628",
-    "events": [
-      {
-        "name": "Orden de conversión forzada de judíos por Heraclio",
-        "text": "El emperador Heraclio ordena la conversión forzada de todos los judíos en su imperio y renueva los códigos que prohíben el retorno judío a Jerusalén. El rey merovingio Dagoberto expulsa a los judíos del dominio franco siguiendo su ejemplo.",
-        "cities": ["Imperio Bizantino", "Francos"]
-      }
-    ]
-  },
-  {
-    "year": "629",
-    "events": [
-      {
-        "name": "Dagoberto I, último rey merovingio con verdadero poder",
-        "text": "Dagoberto I funda la Abadía de Saint-Denis, lugar de entierro de muchos reyes franceses.",
-        "cities": ["Saint-Denis"]
-      }
-    ]
-  },
-  {
-    "year": "633",
-    "events": [
-      {
-        "name": "Cuarto Concilio de Toledo",
-        "text": "Decide contra las conversiones forzadas pero impide a los judíos convertidos volver al judaísmo. Los niños judíos son llevados a monasterios, y judíos y conversos son excluidos de cargos públicos y deben evitar socializar entre sí.",
-        "cities": ["Toledo"]
-      }
-    ]
-  },
-  {
-    "year": "634",
-    "events": [
-      {
-        "name": "Bustanai confirmado como jefe del exilio",
-        "text": "A los 16 años, Bustanai se presenta ante el califa Umar quien confirma su nombramiento como líder del exilio judío tras la conquista árabe de Bagdad.",
-        "cities": ["Bagdad"]
-      }
-    ]
-  },
-  {
-    "year": "638",
-    "events": [
-      {
-        "name": "Sexto Concilio de Toledo",
-        "text": "Decreta que niños judíos bautizados no deben ser devueltos a sus padres. Los conversos son supervisados estrictamente y deben jurar abandonar la ley judía bajo severas penas. Entre 638 y 642, expulsión masiva de no católicos de la España visigoda.",
-        "cities": ["Toledo", "España Visigoda"]
-      }
-    ]
-  },
-    {
-      "year": "650",
-      "events": [
-        {
-          "name": "Bustannai y la unión con Dara, princesa persa",
-          "text": "Bustannai, exilarca e hijo de Haninai, se casó con Dara, hija del rey persa Yazdegerd III. De esta unión nacieron Hasdai y Baradoi, quienes fusionaron tradiciones judías y persas y continuaron el linaje HaKohen.",
-          "cities": ["Bagdad"]
-        }
-      ]
-    },
-     {
-    "year": "661",
-    "events": [
-      {
-        "name": "Perctarito obliga a conversión en Lombardia",
-        "text": "El señor de la Lombardia teutónica obliga a los judíos a convertirse o morir. En Inglaterra, el Arzobispo Teodoro dicta reglas para prohibir la interacción social entre cristianos y judíos.",
-        "cities": ["Lombardia", "Canterbury"]
-      }
-    ]
-  },
-  {
-    "year": "681",
-    "events": [
-      {
-        "name": "Prohibiciones y persecuciones bajo el Rey Ervigio",
-        "text": "El rey Ervigio de España prohíbe a los judíos entrar por puertos, obliga al bautismo, y somete a los conversos a supervisión estricta. Se celebra el XII Sínodo de Toledo y se queman textos judíos como el Talmud.",
-        "cities": ["España", "Toledo"]
-      }
-    ]
-  },
-    {
-      "year": "690",
-      "events": [
-        {
-          "name": "Hasdai ben Bustannai y Judith bat Mari",
-          "text": "Hasdai, líder en Pumbedita, se casó con Judith bat Mari, descendiente de gaones. Su hijo Natronai continuó el linaje HaKohen y la tradición rabínica en Bagdad.",
-          "cities": ["Pumbedita", "Bagdad"]
-        }
-      ]
-    },
-     {
-    "year": "692",
-    "events": [
-      {
-        "name": "Concilio Ecuménico Trullano y posteriores restricciones",
-        "text": "Prohíbe a cristianos participar en fiestas judías, tener amistades con judíos o consultar médicos judíos. En Toledo, los concilios XVI y XVII refuerzan restricciones, declaran esclavos a los judíos, confiscan propiedades y separan a los niños de sus familias para adopción cristiana.",
-        "cities": ["Toledo"]
-      }
-    ]
-  },
-  
-        {
-    "year": "710",
-    "events": [
-      {
-        "name": "Nacimiento de Santa Walpurga",
-        "text": "Nace en Wessex, Inglaterra, Santa Walpurga, hija del rey Ricardo el Sajón y de Winna. Hermana de San Willibaldo y San Winibaldo, fue criada en el monasterio de Wimborne, donde se formó como monja.",
-        "cities": ["Wessex", "Wimborne"]
-      },
-        {
-        "name": "Santa Walpurga y la Noche de Walpurgis",
-        "text": "Santa Walpurga, monja anglosajona y abadisa en Alemania, es asociada con la festividad pagana de la Noche de Walpurgis, que conserva antiguas tradiciones precristianas.",
-        "cities": ["Alemania"]
-      }
-    ]
-  },
-  {
-    "year": "711",
-    "events": [
-      {
-        "name": "Invasión musulmana de la península ibérica",
-        "text": "Don Rodrigo es derrotado en la Batalla de Guadalete. Los musulmanes avanzan rápidamente en la península y los judíos colaboran con ellos, administrando varias ciudades conquistadas como Córdoba, Málaga y Granada.",
-        "cities": ["Guadalete", "Córdoba", "Málaga", "Granada"]
-      }
-    ]
-  },
-  {
-    "year": "721",
-    "events": [
-      {
-        "name": "Walpurga se forma en el convento",
-        "text": "Con once años, Walpurga queda bajo la tutela de la abadesa de Wimborne. Su padre muere en Lucca durante una peregrinación. Posteriormente viajará a Germania para colaborar con San Bonifacio.",
-        "cities": ["Wimborne", "Lucca", "Germania"]
-      }
-    ]
-  },
-  {
-    "year": "722",
-    "events": [
-      {
-        "name": "León III y la ilegalización del judaísmo",
-        "text": "El emperador bizantino León III ilegaliza el judaísmo en su imperio. Miles de judíos son bautizados a la fuerza y muchos son quemados vivos en sus sinagogas.",
-        "cities": ["Constantinopla"]
-      }
-    ]
-  },
-  {
-    "year": "742",
-    "events": [
-      {
-        "name": "Nacimiento de Carlomagno y llegada de los Kalonymus",
-        "text": "Nace Carlomagno. En paralelo, la familia Kalonymus es trasladada a Maguncia para fundar una comunidad judía destacada, posiblemente bajo su futura protección.",
-        "cities": ["Maguncia"]
-      }
-    ]
-  },
-  {
-    "year": "748",
-    "events": [
-      {
-        "name": "Santa Walpurga enviada a Germania",
-        "text": "La abadesa Tetta envía a Walpurga junto a Santa Lioba hacia Germania. Durante la travesía, Walpurga calma una tormenta rezando, ganándose fama de santa milagrosa.",
-        "cities": ["Germania", "Amberes", "Heidenheim"]
-      }
-    ]
-  },
-  {
-    "year": "750",
-    "events": [
-      {
-        "name": "Establecimiento de Walpurga como abadesa",
-        "text": "Santa Walpurga es nombrada abadesa de Heidenheim, donde lidera el monasterio fundado por su hermano San Winibaldo. Es venerada por su sabiduría y milagros.",
-        "cities": ["Heidenheim"]
-      },
-       {
-          "name": "Natronai ben Hasdai y el poder rabínico",
-          "text": "Natronai, hijo de Hasdai y Judith, lideró la comunidad judía de Bagdad y fortaleció la yeshivá, defendiendo los derechos de su pueblo y la continuidad del linaje HaKohen.",
-          "cities": ["Bagdad"]
-        }
-    ]
-  },
-  {
-    "year": "759",
-    "events": [
-      {
-        "name": "Narbonne liberada y Makir nombrado príncipe",
-        "text": "Carlomagno libera Narbona y recompensa a los judíos aliados otorgándoles un tercio de la ciudad. Makir de Narbona, descendiente de Bustanai, es nombrado príncipe vasallo.",
-        "cities": ["Narbona"]
-      }
-    ]
-  },
-  {
-    "year": "760",
-    "events": [
-      {
-        "name": "Conflicto sucesorio en el exilio de Babilonia",
-        "text": "Hananías ben David, descendiente de Hasdai I, enfrenta disputas con Anan ben David, fundador del movimiento caraíta. Los Geonim reafirman el linaje legítimo desde Shahriada, hijo de Izaddowar y Bustanai.",
-        "cities": ["Sura", "Pumbedita"]
-      }
-    ]
-  },
-  {
-    "year": "768",
-    "events": [
-      {
-        "name": "Ascenso de Carlomagno",
-        "text": "Tras la muerte de Pipino el Breve, su hijo Carlomagno asume el trono franco. Su madre fue Bertrada de Laon, consolidando así la dinastía carolingia.",
-        "cities": ["Francia"]
-      }
-    ]
-  }
+  }  
   ]
 }
