@@ -73,7 +73,14 @@
                 {
                     "name": "Los crimenes de Crimea",
                     "text": "750000 muertes en una masacre de guerra que pierde Rusia y sede terreno en el mar Muerto",
-                    "cities": ["Crimea"]  }
+                    "cities": ["Crimea"]  },
+                      {
+                    "name": "Fallecimiento de Arn Sinay",
+                    "text": "Aaron, el padre de Reubén muere, quedando el niño de 5 años completamente huérfano, no hay información de su madre, ni su nombre, supongo que apellido Skibelsky, es adoptado por su tío Zeev Skibelsky, padre de Rifka una niña de edad parecida a Reubén. Aparentemente no tenía un “buen pasar” y se mudan a la ciudad de Grodno donde estudia en una escuela provincial. Sin madre ni padre, pero con toda la expectativa de una comunidad puesta en él, crece en una ciudad de sinagogas e históricos rabinos, donde pocas veces da el sol y el paisaje se tiñe de ese blanco azulado de una noche eterna y va construyendo la historia de quién es y cuál debiera ser su destino.",
+                    "cities": [
+                        "Grodno"
+                    ]
+                }
             ]
         },
         {
@@ -88,16 +95,19 @@
                         "París",
                         "Viena"
                     ]
-                },
-                {
-                    "name": "Fallecimiento de Arn Sinay",
-                    "text": "Aaron, el padre de Reubén muere, quedando el niño de 5 años completamente huérfano, no hay información de su madre, ni su nombre, supongo que apellido Skibelsky, es adoptado por su tío Zeev Skibelsky, padre de Rifka una niña de edad parecida a Reubén. Aparentemente no tenía un “buen pasar” y se mudan a la ciudad de Grodno donde estudia en una escuela provincial. Sin madre ni padre, pero con toda la expectativa de una comunidad puesta en él, crece en una ciudad de sinagogas e históricos rabinos, donde pocas veces da el sol y el paisaje se tiñe de ese blanco azulado de una noche eterna y va construyendo la historia de quién es y cuál debiera ser su destino.",
-                    "cities": [
-                        "Grodno"
-                    ]
-                }
-            ]
-        },
+                }]},
+                 {
+      "year": "1855",
+      "events": [
+        {
+          "name": "Mudanza a Grodno y educación religiosa",
+          "text": "La familia se muda a Grodno. Mordejai estudia en escuela primaria religiosa y con el rabino Yitskhok Elkhonen de Kovno, de quien recibe la ordenación rabínica. Sin embargo, decide no ser rabino y se convierte en profesor privado de hebreo.",
+          "cities": ["Grodno", "Kovno"]
+        }
+      ]
+    }
+    
+    ,
         {
             "year": "1861",
             "backgroundUrl": "https://static.wixstatic.com/media/bd63ad_7150359a14ed46eaa2c166c10a2d4a23~mv2.webp/v1/fit/w_437,h_437,q_90,enc_avif,quality_auto/bd63ad_7150359a14ed46eaa2c166c10a2d4a23~mv2.webp",
@@ -267,7 +277,7 @@
             "events": [
                 {
                     "name": "Viaje por Rusia",
-                    "text": "Reuben Mordejai HaKohen Sinay realiza un viaje por Rusia, dentro del contexto de la diáspora judía y las restricciones de la Zona de Asentamiento. Reuben viaja por Rusia como parte de las publicaciones de Rodkinson y comienza a ejercer el periodismo en los diarios judios de la época, los primeros en el mundo y más importantes de la comunidad.",
+                    "text": "Reuben Mordejai HaKohen Sinay realiza un viaje por Rusia, dentro del contexto de la diáspora judía y las restricciones de la Zona de Asentamiento. Reuben viaja por Rusia como parte de las publicaciones de Rodkinson y comienza a ejercer el periodismo en los diarios judios de la época, los primeros en el mundo y más importantes de la comunidad, Publica sus primeros ensayos en hebreo bajo el seudónimo Mr S.",
                     "cities": [
                         "Rusia"
                     ]
@@ -482,7 +492,12 @@
                     "cities": [
                         "Berlin"
                     ]
-                }
+                },
+                 {
+        "name": "Formación del 'Club de los 40'",
+        "text": "Un grupo de rufianes judíos se reúne para brindarse apoyo mutuo y compartir estrategias para eludir a las autoridades, formando el embrión de lo que sería la organización Zwi Migdal.",
+        "cities": ["Buenos Aires"]
+      }
             ]
         },
         {
@@ -582,6 +597,11 @@
                         "Rusia"
                     ]
                 },
+                  {
+        "name": "Gestiones para el primer cementerio judío en Chacarita",
+        "text": "El 14 de junio, la Municipalidad de Buenos Aires autoriza la inhumación de cadáveres israelitas en la manzana 6ta de la sección 14 del Cementerio de Chacarita, habilitando el primer cementerio judío formal en la ciudad.",
+        "cities": ["Buenos Aires"]
+      },
                 {
                     "name": "5 cambios de dirección de ICA en dos años.",
                     "text": "5 cambios de dirección de ICA en dos años.",
@@ -624,12 +644,10 @@
             "year": "1894",
             "events": [
                 {
-                    "name": "Fundación de la AMIA",
-                    "text": "Se funda la AMIA por inmigrantes judíos, que se convierte en la principal institución de la comunidad judía en Argentina.",
-                    "cities": [
-                        "Buenos Aires"
-                    ]
-                },
+        "name": "Fundación de la Jevrá Kedushá (AMIA)",
+        "text": "El 11 de febrero, se funda la Sociedad de Entierros Jevrá Kedushá, antecesora de la actual AMIA, con el objetivo de asegurar entierros según la tradición judía.",
+        "cities": ["Buenos Aires"]
+      },
                 {
                     "name": "Estudios y publicaciones de Zalman Reisen",
                     "text": "Zalman Reisen estudia en ieshivá y escuela municipal rusa en Grodno. Lee obras en yiddish, incluyendo la antología de Mortkhe Spektor \"Der hoyz-fraynd\". Publica con amigos varios números del folleto impreso en hebreo \"Hanitsanim\" (Los brotes).",
@@ -702,6 +720,11 @@
         {
             "year": "1894",
             "events": [
+                  {
+          "name": "Decisión de emigrar",
+          "text": "Por su parte, Mordejai Reuben Hacohen Sinay, que ocupaba el cargo de líder comunitario en Grodno, sintió que la llamada se acercaba. Un primo acomodado suyo, un tal Abraham Frumkin, que era representante del comité central en esa ciudad y necesitaba reunir un grupo inicial de colonos para enviar a Argentina, fue quien lo convenció para abordar el barco.",
+          "cities": ["Grodno"]
+        },
                 {
                     "name": "Visita de Herr Faiberg a Grodno",
                     "text": "En julio, Herr Faiberg, enviado de la JCA y del Barón Hirsch, visita Grodno tras los pogroms. Tras generar desconfianza por su apariencia de ciudad, el rabino local lo respalda. Faiberg visita las tumbas, viviendas arrasadas y huérfanos. Luego, propone en la sinagoga viajar a Argentina para fundar la colonia Kiriath Moshe (Moisés Ville), concebida como una nueva Jerusalén.",
@@ -724,7 +747,17 @@
                         "Liepāja",
                         "Moisés Ville"
                     ]
-                }
+                },
+                 {
+      "name": "Migración a Argentina",
+      "city": "Moisés Ville",
+      "text": "En 1894, Mordejai Reuben HaKohen Sinay emigró desde Rusia a Argentina junto a su familia como parte del primer grupo de colonos judíos organizados por el barón Hirsch. Se establecieron en la colonia agrícola Moisés Ville, donde asumió el rol de líder religioso y cultural. Trajo consigo una biblioteca de 120 pudi —más de dos toneladas de libros—, y objetos rituales como tefilín y mezuzot. Partieron el 11 de noviembre desde el puerto de Liepāja a bordo del barco Corania. Compartieron el viaje de más de un mes con las familias Ambasch, Radovitzky, Bloch, Epstein, Singer, Skidelsky, Katzovitz, Kaller, Kaplan, Teitelbaum, Kohn y Trumper: shifbrider, 'hermanos del barco'."
+    },
+      {
+        "name": "Estadía en el Hotel de Inmigrantes y llegada a Moisés Ville",
+        "cities": ["Buenos Aires", "Palacios", "Moisés Ville"],
+        "text": "Recién llegados a Argentina, la familia Sinay pasó una noche en el Hotel de Inmigrantes. A la mañana siguiente, abordaron un tren hacia Palacios, desde donde caminaron hasta Moisés Ville. Allí fueron recibidos por Michel Cohan, administrador de la colonia. Llegaron un sábado bajo una tormenta intensa, pasando la noche en un cobertizo ferroviario. El domingo 30 de diciembre de 1894 fueron guiados hasta el centro de la colonia."
+      }
             ]
         },
         {
@@ -738,13 +771,11 @@
                         "Buenos Aires"
                     ]
                 },
-                {
-                    "name": "Censo nacional",
-                    "text": "El censo nacional de 1895 registra 753 judíos en Argentina.",
-                    "cities": [
-                        "Buenos Aires"
-                    ]
-                },
+               {
+        "name": "Censo de Rebeca Rakhil Skibelsky de Sinay",
+        "cities": ["Buenos Aires"],
+        "text": "A pesar del mito familiar que decía que su esposa había muerto durante el viaje a causa de una patada de burro en la bodega del barco, Rebeca (Rifka, 'Reina Sinay') fue registrada viva en el censo argentino de 1895."
+      },
                 {
                     "name": "Presidencia de José Evaristo Uriburu",
                     "text": "José Evaristo Uriburu (1895-1898), del partido Autonomista Nacional, asume la presidencia. Se caracteriza por una gobernabilidad pacífica tras la renuncia de Sáenz Peña y un crecimiento de la economía agroexportadora.",
@@ -754,7 +785,12 @@
                     "cities": [
                         "Argentina"
                     ]
-                }
+                },
+                {
+"name": "Encuentro entre Theodor Herzl y el Barón de Hirsch",
+"text": "En París, el líder sionista Theodor Herzl se reúne con el barón Maurice de Hirsch para discutir el futuro del pueblo judío Se compra guantes para la ocación, Herzl propone financiar la compra de tierras cerca de Jerusalén para la emigración judía, pero Hirsch, ya comprometido con la colonización en Argentina a través de la JCA, rechaza la idea y expresa su escepticismo sobre la filantropía individual, mostrando preferencia por acciones colectivas. El encuentro marca un momento clave en el debate entre el sionismo y la colonización judía en América.",
+"cities": ["París"]
+}
             ]
         },
         {

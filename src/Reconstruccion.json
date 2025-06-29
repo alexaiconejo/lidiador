@@ -16,6 +16,11 @@
     {
   "year": "1945",
   "events": [
+      {
+        "name": "Biografía de Mijl Hacohen Sinay",
+        "cities": ["Buenos Aires"],
+        "text": "Mijl Hacohen Sinay publicó una breve biografía titulada 'Harab Reuben Hacohen Sinay' en la revista IWO Shriftn. En ella dejó registro de la migración de su padre, la fundación del Talmud Torá y su trabajo intelectual. Recordó su ética: 'Nunca cobró como rabino. Enseñaba para vivir'."
+      },
     {
       "name": "Crecimiento y consolidación del ICUF tras la Segunda Guerra Mundial",
       "text": "Con la adhesión popular inspirada por la Unión Soviética y el Ejército Rojo, el ICUF consolidó sus escuelas como Veltleje Shuln (escuelas laicas), reconocidas oficialmente como idiomáticas complementarias. Contaron con apoyo económico y reconocimiento institucional.",
@@ -51,6 +56,11 @@
       "text": "El Partido Comunista Argentino lanzó en marzo de 1950 el semanario Nuestra Palabra, dirigido por Héctor P. Agosti. La publicación abordaba temas internacionales y nacionales desde una perspectiva marxista, y tuvo dos épocas hasta su cierre el 24 de marzo de 1976.",
       "cities": ["Buenos Aires"]
     },
+      {
+        "name": "Recuerdo en Grodner Opklangen",
+        "cities": ["Buenos Aires"],
+        "text": "En la publicación 'Grodner Opklangen', dedicada a los judíos originarios de Grodno, se volvió a mencionar a Mordejai Reuben HaKohen Sinay como pionero espiritual de las colonias judías argentinas. Su nombre sigue presente en artículos sobre su hijo Mijl."
+      },
     {
       "name": "Fundación de la revista Tribuna",
       "text": "Rubén Sinay fundó la revista Tribuna, que tuvo fuerte incidencia en la comunidad judía de izquierda. Desde allí, impulsó una identidad judía crítica del sionismo, alineada con las posturas del PCA y del comunismo internacional.",

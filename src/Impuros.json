@@ -22,10 +22,11 @@
     {
       "year": "1932",
       "events": [
-        {
-          "name": "Manuscrito MiHIL a Reyzen",
-          "text": "MiHIL entrega el manuscrito a Reyzen."
-        },
+       {
+        "name": "Manuscrito histórico entregado al YIVO",
+        "cities": ["Buenos Aires"],
+        "text": "Mordejai Reuben HaKohen Sinay dejó un manuscrito en hebreo titulado 'Korot hayehudim beargentina' (Historia de los judíos en Argentina). Su hijo Mikhl Sinai lo entregó al lingüista Zalmen Reyzen durante su visita a Argentina en 1932, con intención de publicarlo. Sin embargo, el texto nunca fue editado y se perdió durante los años del Holocausto."
+      },
         {
           "name": "Antonio Berni y Rosario Gráfico",
           "text": "Antonio Berni, recién llegado de Europa, utilizó una cámara Leica para trabajar. Publicó tres fotos en Rosario Gráfico del 11 de febrero de 1932 que mostraban la ciudad de Rosario y sus burdeles, describiendo la represión y tolerancia calculada de la moral burguesa."
