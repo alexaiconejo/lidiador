@@ -59,7 +59,12 @@
         {
           "name": "Hechos políticos destacados",
           "text": "Firma del Pacto Roca-Runciman en 1933, beneficiando a exportadores argentinos. Continuación del fraude electoral durante la Década Infame."
-        }
+        },
+        {
+        "name": "Censura del libro de Julio Alsogaray",
+        "cities": ["Buenos Aires"],
+        "text": "La publicación de un libro del militar Julio Alsogaray sobre la trata fue retirada de circulación mediante la compra masiva de ejemplares. Documentaba los vínculos entre los rufianes y las migraciones desde Rusia, Polonia, Rumania y Hungría, tras los pogroms."
+      }
       ]
     },
     {

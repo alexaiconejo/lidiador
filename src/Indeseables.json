@@ -271,7 +271,12 @@
             "Avellaneda"
           ],
           "text": "La sociedad Varsovia inauguró su cementerio en Avellaneda junto a la sociedad Ashkenazí. Traumann, Pozansky, Bruch y Salzmann tomaron posesión simbólica del terreno. Surgieron tensiones con otros rabinos y sociedades. Traumann prometió resolver trámites municipales y los fundadores celebraron en un bar vecino al cementerio."
-        }
+        },
+        {
+        "name": "Reglas de sometimiento en la Migdal",
+        "cities": ["Buenos Aires"],
+        "text": "La organización rufiana imponía reglas de sumisión: la mujer sólo podía cambiar de explotador si este aceptaba venderla al nuevo. Si el tratante decidía vender, la víctima no tenía derecho a decidir. En igualdad de precio, podía elegir. Las mujeres que intentaban independizarse eran perseguidas, y se cerraban prostíbulos donde operaban sin autorización."
+      }
       ]
     },
     {
@@ -283,7 +288,12 @@
           "cities": [
             "Buenos Aires"
           ]
-        }
+        },
+         {
+        "name": "Transferencia de bienes entre sociedades Ashkenazi",
+        "cities": ["La Plata", "Avellaneda"],
+        "text": "El 19 de octubre, la Sociedad de Socorros Mutuos Ashkenazi transfiere sus bienes a la Sociedad Israelita de Socorros Mutuos Azkenazum. La escritura fue firmada ante el escribano Barruti en La Plata. La Azkenazum se consolidaría luego como una de las estructuras legales del circuito rufiano."
+      }
       ]
     },
     {
@@ -454,7 +464,12 @@
             "Avellaneda",
             "Buenos Aires"
           ]
-        }
+        },
+          {
+        "name": "Balance económico de la Migdal",
+        "cities": ["Buenos Aires"],
+        "text": "La organización Migdal declara activos por $275.204,90. Entre julio y octubre, ingresaron $30.360,90. Las ganancias provenientes de entierros, templos y redes de prostitución eran canalizadas con precisión administrativa, generando una estructura mafiosa de alcance nacional."
+      }
       ]
     },
     {
@@ -561,7 +576,12 @@
           "cities": [
             "Buenos Aires"
           ]
-        }
+        },
+        {
+        "name": "Dificultades judiciales para condenar a la Migdal",
+        "cities": ["Buenos Aires"],
+        "text": "Los intentos por juzgar a miembros de la Migdal fracasaban por falta de pruebas apodícticas: muchas mujeres presentaban planillas de ganancias, pero no eran aceptadas como evidencia por su falta de certificación legal. La organización destruía pruebas o manipulaba testimonios."
+      }
       ]
     }
   ]

@@ -105,7 +105,12 @@
       "name": "Creación del Mitl-shul y formación de maestros judeo-progresistas",
       "text": "El Consejo Central del ICUF inaugura el Mitl-shul, una escuela secundaria para formar maestros judeo-progresistas, con cursos dictados por destacados militantes y educadores socialistas y comunistas, vinculados a ideas de pedagogos como Dewey y Korczak.",
       "cities": ["Buenos Aires"]
-    }
+    },
+     {
+        "name": "Municipalidad toma posesión del cementerio rufiano",
+        "cities": ["Avellaneda"],
+        "text": "El 31 de marzo, la Municipalidad de Avellaneda toma posesión del cementerio ex Varsovia-Migdal. Exdirigentes rufianos como Max Becher y Zacharias Zitnitzky presentan recursos legales alegando derechos religiosos. El municipio responde que la personería había sido retirada por razones éticas. Fue el último descanso de los rufianes, aunque se desconoce el destino de las mujeres esclavizadas."
+      }
   ]
 },
 {
@@ -451,7 +456,15 @@
         "cities": ["Moisés Ville", "Argentina"]
       }
     ]
-  }
+  },
+   {
+    "year": "1982",
+    "events": [
+      {
+        "name": "Profanaciones en el cementerio rufiano",
+        "cities": ["Avellaneda"],
+        "text": "En el cementerio de Avellaneda, tumbas hundidas y fotografías esmaltadas decapitadas atestiguan el ocaso del poder rufiano. Algunas tumbas fueron profanadas en busca de joyas. La memoria pública castiga y olvida. Muy poco se ha escrito sobre esta necrópolis, pese a la abundante documentación archivada en la municipalidad."
+      }]}
 
   ]
 }
